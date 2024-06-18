@@ -1,0 +1,813 @@
+[
+  {
+    "objectID": "fr/who_when.html",
+    "href": "fr/who_when.html",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Julien Martin"
+  },
+  {
+    "objectID": "fr/who_when.html#teaching-team",
+    "href": "fr/who_when.html#teaching-team",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Julien Martin"
+  },
+  {
+    "objectID": "fr/who_when.html#office-hours",
+    "href": "fr/who_when.html#office-hours",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Office hours ",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Check brightspace for the links Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)"
+  },
+  {
+    "objectID": "fr/who_when.html#schedule",
+    "href": "fr/who_when.html#schedule",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Schedule ",
+    "text": "Schedule \n\nLecture: Mondays, 1430-1720 in CRX-C323\nLecture: Wednesdays, 1430-1720 in CRX-C323\nPractical: Wednesdays, 1430-1720 in CRX-C323\n\nThere are no lectures or tutorials during reading week."
+  },
+  {
+    "objectID": "fr/dataset.html",
+    "href": "fr/dataset.html",
+    "title": "Data and code",
+    "section": "",
+    "text": "All data and code files in a nice zip file",
+    "crumbs": [
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "fr/dataset.html#data-for-practicals",
+    "href": "fr/dataset.html#data-for-practicals",
+    "title": "Data and code",
+    "section": "Data for practicals",
+    "text": "Data for practicals\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
+    "crumbs": [
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "fr/dataset.html#r-code-and-functions-used-in-slides",
+    "href": "fr/dataset.html#r-code-and-functions-used-in-slides",
+    "title": "Data and code",
+    "section": "R code and functions used in slides",
+    "text": "R code and functions used in slides",
+    "crumbs": [
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "fr/lectures.html",
+    "href": "fr/lectures.html",
+    "title": "Slides and course notes",
+    "section": "",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 11\nIntroduction\n\n\n\n\nSep 13\nAwesome subject\n\n\n\n\nSep 14\nLab: intro to R\nchap 3\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 28\nIntroduction to Github\nIvimey-Cook et al. (2023)\n\n\n\nSep 27\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 2\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "crumbs": [
+      "Diapos et notes"
+    ]
+  },
+  {
+    "objectID": "fr/lectures.html#schedule",
+    "href": "fr/lectures.html#schedule",
+    "title": "Slides and course notes",
+    "section": "",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 11\nIntroduction\n\n\n\n\nSep 13\nAwesome subject\n\n\n\n\nSep 14\nLab: intro to R\nchap 3\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 28\nIntroduction to Github\nIvimey-Cook et al. (2023)\n\n\n\nSep 27\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 2\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "crumbs": [
+      "Diapos et notes"
+    ]
+  },
+  {
+    "objectID": "fr/lectures.html#about-slides-and-notes",
+    "href": "fr/lectures.html#about-slides-and-notes",
+    "title": "Slides and course notes",
+    "section": "About slides  and notes ",
+    "text": "About slides  and notes \n\nSlides \nSlides in revealjs format (html). If you want then as a pdf (note you might loose some functionality or contents due to tabs and scroll sections):\n\nOpen the slides in your browser from a link on this page\nPress e to get into the PDF export mode (?print-pdf should appear near the end of the url and white borders should appear)\nOpen the in-browser print dialog (CTRL/CMD+P).\nChange the Destination setting to Save as PDF.\nChange the Layout to Landscape.\nChange the Margins to None.\nEnable the Background graphics option (if you want it)\nClick Save 🎉\n\n\n\nNotes \nContent of the slides in html format as a self-contained downloadable file and including tabs and scroll sections.\nMore importantly, notes have the commenting and annotateing tools activated via https://hypothes.is/. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.",
+    "crumbs": [
+      "Diapos et notes"
+    ]
+  },
+  {
+    "objectID": "fr/syllabus.html",
+    "href": "fr/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Applied biostatistics to real problems. Experimental design and data collection. Consequences of violating assumptions of different tests. Monte Carlo and Bootstrap analysis. Case studies and exercises in using statistical analysis packages.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "fr/syllabus.html#assessment-weights",
+    "href": "fr/syllabus.html#assessment-weights",
+    "title": "Syllabus",
+    "section": "Assessment weights",
+    "text": "Assessment weights\n\nBio4158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\nBio5158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "fr/syllabus.html#lab-assignments",
+    "href": "fr/syllabus.html#lab-assignments",
+    "title": "Syllabus",
+    "section": "Lab assignments",
+    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "fr/syllabus.html#exams",
+    "href": "fr/syllabus.html#exams",
+    "title": "Syllabus",
+    "section": "Exams",
+    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "fr/syllabus.html#extra-report-bio5158-only",
+    "href": "fr/syllabus.html#extra-report-bio5158-only",
+    "title": "Syllabus",
+    "section": "Extra report (Bio5158 only)",
+    "text": "Extra report (Bio5158 only)",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "en/syllabus.html",
+    "href": "en/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Applied biostatistics to real problems. Experimental design and data collection. Consequences of violating assumptions of different tests. Monte Carlo and Bootstrap analysis. Case studies and exercises in using statistical analysis packages.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "en/syllabus.html#assessment-weights",
+    "href": "en/syllabus.html#assessment-weights",
+    "title": "Syllabus",
+    "section": "Assessment weights",
+    "text": "Assessment weights\n\nBio4158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\nBio5158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "en/syllabus.html#lab-assignments",
+    "href": "en/syllabus.html#lab-assignments",
+    "title": "Syllabus",
+    "section": "Lab assignments",
+    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "en/syllabus.html#exams",
+    "href": "en/syllabus.html#exams",
+    "title": "Syllabus",
+    "section": "Exams",
+    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "en/syllabus.html#extra-report-bio5158-only",
+    "href": "en/syllabus.html#extra-report-bio5158-only",
+    "title": "Syllabus",
+    "section": "Extra report (Bio5158 only)",
+    "text": "Extra report (Bio5158 only)",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Applied Biostatistics with R  Biostatistiques appliquées avec R",
+    "section": "",
+    "text": "Contenu disponible en français / Content available in english"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#me",
+    "href": "en/slides/lec-01-1_intro.slides.html#me",
+    "title": "Advanced stats and Open Science",
+    "section": "… me",
+    "text": "… me\n\nEvolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#you",
+    "href": "en/slides/lec-01-1_intro.slides.html#you",
+    "title": "Advanced stats and Open Science",
+    "section": "… you",
+    "text": "… you\n\nName\nPI\nSubject\nR knowledge\nExpectation from the course"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#topics",
+    "href": "en/slides/lec-01-1_intro.slides.html#topics",
+    "title": "Advanced stats and Open Science",
+    "section": "Topics",
+    "text": "Topics\n\nIntro to github with exercises\nIntro to Open science\nIntro to rmarkdown and to workflowr\nMixed models\n\nIntro, why, when and how\nNon gaussian, non-linear ?\nmultivariate ?\n\np-values and their limits"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#teaching-style",
+    "href": "en/slides/lec-01-1_intro.slides.html#teaching-style",
+    "title": "Advanced stats and Open Science",
+    "section": "Teaching style",
+    "text": "Teaching style\n\nMinimum slides from myself\nflipped classroom or learning by problems\nSession = mixed of lecture, discussion and exercises"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#schedule",
+    "href": "en/slides/lec-01-1_intro.slides.html#schedule",
+    "title": "Advanced stats and Open Science",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\nWeek\nTheme\n\n\n\n\n1\nIntro\n\n\n2\nGithub\n\n\n3\nMarkdown / Quarto\n\n\n4\nLm & glm\n\n\n5\nCausal structure\n\n\n6\nLmm\n\n\n7\nBayesian approach\n\n\n8\nGlmm\n\n\n9\nto\n\n\n10\nbe\n\n\n11\ndecided\n\n\n12\ntogether"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#in-class-50",
+    "href": "en/slides/lec-01-1_intro.slides.html#in-class-50",
+    "title": "Advanced stats and Open Science",
+    "section": "In class (50%)",
+    "text": "In class (50%)\n\nparticipation to discussion (20%)\npresentation on a given topic in small teams (30%)"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#project-50",
+    "href": "en/slides/lec-01-1_intro.slides.html#project-50",
+    "title": "Advanced stats and Open Science",
+    "section": "Project (50%)",
+    "text": "Project (50%)\n\nanalysis of data using techniques from courses or beyond\nReport written using Rmarkdown\nposted on Github classroom"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#softwares",
+    "href": "en/slides/lec-01-1_intro.slides.html#softwares",
+    "title": "Advanced stats and Open Science",
+    "section": "Softwares",
+    "text": "Softwares\n\nR (version 4.0 or higher)\nText editor: Rstudio or VSCode\nR packages (up to date)\n\nopen science: rmarkdown, tinytex\nmixed models: lme4, gremlin, glmmTMB, MCMCglmm\nlatex: full version or tinytex"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#accounts",
+    "href": "en/slides/lec-01-1_intro.slides.html#accounts",
+    "title": "Advanced stats and Open Science",
+    "section": "Accounts",
+    "text": "Accounts\n\ngithub (https://github.com/)\nOpen Science Framework (OSF, https://osf.io/)"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.slides.html#what-is-expected-from-you-1",
+    "href": "en/slides/lec-01-1_intro.slides.html#what-is-expected-from-you-1",
+    "title": "Advanced stats and Open Science",
+    "section": "What is expected from you",
+    "text": "What is expected from you\n\nWeekly Reading\nIn class participation\nDo the praticals\n\n\n\n\nBIO 8940 - Lecture 1"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html",
+    "href": "en/slides/lec-01-1_intro.notes.html",
+    "title": "Advanced stats and Open Science",
+    "section": "",
+    "text": "Evolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old\n\n\nName\nPI\nSubject\nR knowledge\nExpectation from the course"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#me",
+    "href": "en/slides/lec-01-1_intro.notes.html#me",
+    "title": "Advanced stats and Open Science",
+    "section": "",
+    "text": "Evolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#you",
+    "href": "en/slides/lec-01-1_intro.notes.html#you",
+    "title": "Advanced stats and Open Science",
+    "section": "",
+    "text": "Name\nPI\nSubject\nR knowledge\nExpectation from the course"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#topics",
+    "href": "en/slides/lec-01-1_intro.notes.html#topics",
+    "title": "Advanced stats and Open Science",
+    "section": "\n2.1 Topics",
+    "text": "2.1 Topics\n\nIntro to github with exercises\nIntro to Open science\nIntro to rmarkdown and to workflowr\nMixed models\n\nIntro, why, when and how\nNon gaussian, non-linear ?\nmultivariate ?\n\n\np-values and their limits"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#teaching-style",
+    "href": "en/slides/lec-01-1_intro.notes.html#teaching-style",
+    "title": "Advanced stats and Open Science",
+    "section": "\n2.2 Teaching style",
+    "text": "2.2 Teaching style\n\nMinimum slides from myself\nflipped classroom or learning by problems\nSession = mixed of lecture, discussion and exercises"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#schedule",
+    "href": "en/slides/lec-01-1_intro.notes.html#schedule",
+    "title": "Advanced stats and Open Science",
+    "section": "\n2.3 Schedule",
+    "text": "2.3 Schedule\n\n\n\nWeek\nTheme\n\n\n\n1\nIntro\n\n\n2\nGithub\n\n\n3\nMarkdown / Quarto\n\n\n4\nLm & glm\n\n\n5\nCausal structure\n\n\n6\nLmm\n\n\n7\nBayesian approach\n\n\n8\nGlmm\n\n\n9\nto\n\n\n10\nbe\n\n\n11\ndecided\n\n\n12\ntogether"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#in-class-50",
+    "href": "en/slides/lec-01-1_intro.notes.html#in-class-50",
+    "title": "Advanced stats and Open Science",
+    "section": "\n3.1 In class (50%)",
+    "text": "3.1 In class (50%)\n\nparticipation to discussion (20%)\npresentation on a given topic in small teams (30%)"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#project-50",
+    "href": "en/slides/lec-01-1_intro.notes.html#project-50",
+    "title": "Advanced stats and Open Science",
+    "section": "\n3.2 Project (50%)",
+    "text": "3.2 Project (50%)\n\nanalysis of data using techniques from courses or beyond\nReport written using Rmarkdown\nposted on Github classroom"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#softwares",
+    "href": "en/slides/lec-01-1_intro.notes.html#softwares",
+    "title": "Advanced stats and Open Science",
+    "section": "\n4.1 Softwares",
+    "text": "4.1 Softwares\n\nR (version 4.0 or higher)\nText editor: Rstudio or VSCode\nR packages (up to date)\n\nopen science: rmarkdown, tinytex\nmixed models: lme4, gremlin, glmmTMB, MCMCglmm\nlatex: full version or tinytex"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#accounts",
+    "href": "en/slides/lec-01-1_intro.notes.html#accounts",
+    "title": "Advanced stats and Open Science",
+    "section": "\n4.2 Accounts",
+    "text": "4.2 Accounts\n\ngithub (https://github.com/)\nOpen Science Framework (OSF, https://osf.io/)"
+  },
+  {
+    "objectID": "en/slides/lec-01-1_intro.notes.html#what-is-expected-from-you-1",
+    "href": "en/slides/lec-01-1_intro.notes.html#what-is-expected-from-you-1",
+    "title": "Advanced stats and Open Science",
+    "section": "\n5.1 What is expected from you",
+    "text": "5.1 What is expected from you\n\nWeekly Reading\nIn class participation\nDo the praticals"
+  },
+  {
+    "objectID": "en/practical.html",
+    "href": "en/practical.html",
+    "title": "Practicals",
+    "section": "",
+    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule.\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
+    "crumbs": [
+      "Practicals"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html",
+    "href": "en/assessment.html",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
+    "crumbs": [
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#assessment-weights",
+    "href": "en/assessment.html#assessment-weights",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
+    "crumbs": [
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#lab-assignments",
+    "href": "en/assessment.html#lab-assignments",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Lab assignments",
+    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
+    "crumbs": [
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#exams",
+    "href": "en/assessment.html#exams",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Exams",
+    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
+    "crumbs": [
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#extra-report-bio5158-only",
+    "href": "en/assessment.html#extra-report-bio5158-only",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Extra report (Bio5158 only)",
+    "text": "Extra report (Bio5158 only)",
+    "crumbs": [
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "fr/404.html",
+    "href": "fr/404.html",
+    "title": "Page Not Found",
+    "section": "",
+    "text": "It seems you  lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+  },
+  {
+    "objectID": "en/404.html",
+    "href": "en/404.html",
+    "title": "Page Not Found",
+    "section": "",
+    "text": "It seems you  lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+  },
+  {
+    "objectID": "en/people.html",
+    "href": "en/people.html",
+    "title": "Julien Martin",
+    "section": "",
+    "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "fr/people.html",
+    "href": "fr/people.html",
+    "title": "Julien Martin",
+    "section": "",
+    "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "fr/assessment.html",
+    "href": "fr/assessment.html",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
+    "crumbs": [
+      "Évaluation"
+    ]
+  },
+  {
+    "objectID": "fr/assessment.html#assessment-weights",
+    "href": "fr/assessment.html#assessment-weights",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
+    "crumbs": [
+      "Évaluation"
+    ]
+  },
+  {
+    "objectID": "fr/assessment.html#lab-assignments",
+    "href": "fr/assessment.html#lab-assignments",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Lab assignments",
+    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
+    "crumbs": [
+      "Évaluation"
+    ]
+  },
+  {
+    "objectID": "fr/assessment.html#exams",
+    "href": "fr/assessment.html#exams",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Exams",
+    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
+    "crumbs": [
+      "Évaluation"
+    ]
+  },
+  {
+    "objectID": "fr/assessment.html#extra-report-bio5158-only",
+    "href": "fr/assessment.html#extra-report-bio5158-only",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Extra report (Bio5158 only)",
+    "text": "Extra report (Bio5158 only)",
+    "crumbs": [
+      "Évaluation"
+    ]
+  },
+  {
+    "objectID": "fr/practical.html",
+    "href": "fr/practical.html",
+    "title": "Practicals",
+    "section": "",
+    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule.\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
+    "crumbs": [
+      "Labo"
+    ]
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html",
+    "href": "fr/slides/lec-01_intro.notes.html",
+    "title": "Advanced stats and Open Science",
+    "section": "",
+    "text": "Evolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old\n\n\nName\nPI\nSubject\nR knowledge\nExpectation from the course"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#me",
+    "href": "fr/slides/lec-01_intro.notes.html#me",
+    "title": "Advanced stats and Open Science",
+    "section": "",
+    "text": "Evolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#you",
+    "href": "fr/slides/lec-01_intro.notes.html#you",
+    "title": "Advanced stats and Open Science",
+    "section": "",
+    "text": "Name\nPI\nSubject\nR knowledge\nExpectation from the course"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#topics",
+    "href": "fr/slides/lec-01_intro.notes.html#topics",
+    "title": "Advanced stats and Open Science",
+    "section": "\n2.1 Topics",
+    "text": "2.1 Topics\n\nIntro to github with exercises\nIntro to Open science\nIntro to rmarkdown and to workflowr\nMixed models\n\nIntro, why, when and how\nNon gaussian, non-linear ?\nmultivariate ?\n\n\np-values and their limits"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#teaching-style",
+    "href": "fr/slides/lec-01_intro.notes.html#teaching-style",
+    "title": "Advanced stats and Open Science",
+    "section": "\n2.2 Teaching style",
+    "text": "2.2 Teaching style\n\nMinimum slides from myself\nflipped classroom or learning by problems\nSession = mixed of lecture, discussion and exercises"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#schedule",
+    "href": "fr/slides/lec-01_intro.notes.html#schedule",
+    "title": "Advanced stats and Open Science",
+    "section": "\n2.3 Schedule",
+    "text": "2.3 Schedule\n\n\n\nWeek\nTheme\n\n\n\n1\nIntro\n\n\n2\nGithub\n\n\n3\nMarkdown / Quarto\n\n\n4\nLm & glm\n\n\n5\nCausal structure\n\n\n6\nLmm\n\n\n7\nBayesian approach\n\n\n8\nGlmm\n\n\n9\nto\n\n\n10\nbe\n\n\n11\ndecided\n\n\n12\ntogether"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#in-class-50",
+    "href": "fr/slides/lec-01_intro.notes.html#in-class-50",
+    "title": "Advanced stats and Open Science",
+    "section": "\n3.1 In class (50%)",
+    "text": "3.1 In class (50%)\n\nparticipation to discussion (20%)\npresentation on a given topic in small teams (30%)"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#project-50",
+    "href": "fr/slides/lec-01_intro.notes.html#project-50",
+    "title": "Advanced stats and Open Science",
+    "section": "\n3.2 Project (50%)",
+    "text": "3.2 Project (50%)\n\nanalysis of data using techniques from courses or beyond\nReport written using Rmarkdown\nposted on Github classroom"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#softwares",
+    "href": "fr/slides/lec-01_intro.notes.html#softwares",
+    "title": "Advanced stats and Open Science",
+    "section": "\n4.1 Softwares",
+    "text": "4.1 Softwares\n\nR (version 4.0 or higher)\nText editor: Rstudio or VSCode\nR packages (up to date)\n\nopen science: rmarkdown, tinytex\nmixed models: lme4, gremlin, glmmTMB, MCMCglmm\nlatex: full version or tinytex"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#accounts",
+    "href": "fr/slides/lec-01_intro.notes.html#accounts",
+    "title": "Advanced stats and Open Science",
+    "section": "\n4.2 Accounts",
+    "text": "4.2 Accounts\n\ngithub (https://github.com/)\nOpen Science Framework (OSF, https://osf.io/)"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.notes.html#what-is-expected-from-you-1",
+    "href": "fr/slides/lec-01_intro.notes.html#what-is-expected-from-you-1",
+    "title": "Advanced stats and Open Science",
+    "section": "\n5.1 What is expected from you",
+    "text": "5.1 What is expected from you\n\nWeekly Reading\nIn class participation\nDo the praticals"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#me",
+    "href": "fr/slides/lec-01_intro.slides.html#me",
+    "title": "Advanced stats and Open Science",
+    "section": "… me",
+    "text": "… me\n\nEvolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#you",
+    "href": "fr/slides/lec-01_intro.slides.html#you",
+    "title": "Advanced stats and Open Science",
+    "section": "… you",
+    "text": "… you\n\nName\nPI\nSubject\nR knowledge\nExpectation from the course"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#topics",
+    "href": "fr/slides/lec-01_intro.slides.html#topics",
+    "title": "Advanced stats and Open Science",
+    "section": "Topics",
+    "text": "Topics\n\nIntro to github with exercises\nIntro to Open science\nIntro to rmarkdown and to workflowr\nMixed models\n\nIntro, why, when and how\nNon gaussian, non-linear ?\nmultivariate ?\n\np-values and their limits"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#teaching-style",
+    "href": "fr/slides/lec-01_intro.slides.html#teaching-style",
+    "title": "Advanced stats and Open Science",
+    "section": "Teaching style",
+    "text": "Teaching style\n\nMinimum slides from myself\nflipped classroom or learning by problems\nSession = mixed of lecture, discussion and exercises"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#schedule",
+    "href": "fr/slides/lec-01_intro.slides.html#schedule",
+    "title": "Advanced stats and Open Science",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\nWeek\nTheme\n\n\n\n\n1\nIntro\n\n\n2\nGithub\n\n\n3\nMarkdown / Quarto\n\n\n4\nLm & glm\n\n\n5\nCausal structure\n\n\n6\nLmm\n\n\n7\nBayesian approach\n\n\n8\nGlmm\n\n\n9\nto\n\n\n10\nbe\n\n\n11\ndecided\n\n\n12\ntogether"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#in-class-50",
+    "href": "fr/slides/lec-01_intro.slides.html#in-class-50",
+    "title": "Advanced stats and Open Science",
+    "section": "In class (50%)",
+    "text": "In class (50%)\n\nparticipation to discussion (20%)\npresentation on a given topic in small teams (30%)"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#project-50",
+    "href": "fr/slides/lec-01_intro.slides.html#project-50",
+    "title": "Advanced stats and Open Science",
+    "section": "Project (50%)",
+    "text": "Project (50%)\n\nanalysis of data using techniques from courses or beyond\nReport written using Rmarkdown\nposted on Github classroom"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#softwares",
+    "href": "fr/slides/lec-01_intro.slides.html#softwares",
+    "title": "Advanced stats and Open Science",
+    "section": "Softwares",
+    "text": "Softwares\n\nR (version 4.0 or higher)\nText editor: Rstudio or VSCode\nR packages (up to date)\n\nopen science: rmarkdown, tinytex\nmixed models: lme4, gremlin, glmmTMB, MCMCglmm\nlatex: full version or tinytex"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#accounts",
+    "href": "fr/slides/lec-01_intro.slides.html#accounts",
+    "title": "Advanced stats and Open Science",
+    "section": "Accounts",
+    "text": "Accounts\n\ngithub (https://github.com/)\nOpen Science Framework (OSF, https://osf.io/)"
+  },
+  {
+    "objectID": "fr/slides/lec-01_intro.slides.html#what-is-expected-from-you-1",
+    "href": "fr/slides/lec-01_intro.slides.html#what-is-expected-from-you-1",
+    "title": "Advanced stats and Open Science",
+    "section": "What is expected from you",
+    "text": "What is expected from you\n\nWeekly Reading\nIn class participation\nDo the praticals\n\n\n\n\nBIO 8940 - Lecture 1"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
+    "section": "",
+    "text": "This is the site for the courses Bio4158/Bio5158 at the University of Ottawa. You will find all the course information including the course schedule, slides, course notes, practicals info and exercises, description of assessments as well as the (official) syllabus for the course.\nSubmission of course work is done via brighspace.",
+    "crumbs": [
+      "Course info"
+    ]
+  },
+  {
+    "objectID": "en/index.html#teaching-team",
+    "href": "en/index.html#teaching-team",
+    "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
+    "section": "Teaching team",
+    "text": "Teaching team\n\nLecturer \n\nJulien Martin (email)\n\n\n\nTeaching assistants\n\nIgor Tex (email)\nBob Hêtte (email)",
+    "crumbs": [
+      "Course info"
+    ]
+  },
+  {
+    "objectID": "en/index.html#office-hours",
+    "href": "en/index.html#office-hours",
+    "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
+    "section": "Office hours ",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)",
+    "crumbs": [
+      "Course info"
+    ]
+  },
+  {
+    "objectID": "en/index.html#schedule",
+    "href": "en/index.html#schedule",
+    "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
+    "section": "Schedule ",
+    "text": "Schedule \n\nLectures\n\nMondays, 1430-1720 in CRX-C323\nWednesdays, 1430-1720 in CRX-C323\n\nPracticals\n\nWednesdays, 1430-1720 in CRX-C323\n\n\nThere are no lectures or tutorials during reading week.",
+    "crumbs": [
+      "Course info"
+    ]
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Biostatistiques appliquées avec R (Bio4558 / Bio5558)",
+    "section": "",
+    "text": "This is the site for the courses Bio4158/Bio5158 at the University of Ottawa. You will find all the course information including the course schedule, slides, course notes, practicals info and exercises, description of assessments as well as the (official) syllabus for the course.\nSubmission of course work is done via brighspace.",
+    "crumbs": [
+      "Info générale"
+    ]
+  },
+  {
+    "objectID": "fr/index.html#teaching-team",
+    "href": "fr/index.html#teaching-team",
+    "title": "Biostatistiques appliquées avec R (Bio4558 / Bio5558)",
+    "section": "Teaching team",
+    "text": "Teaching team\n\nLecturer \n\nJulien Martin\n\n\n\nTeaching assitants",
+    "crumbs": [
+      "Info générale"
+    ]
+  },
+  {
+    "objectID": "fr/index.html#office-hours",
+    "href": "fr/index.html#office-hours",
+    "title": "Biostatistiques appliquées avec R (Bio4558 / Bio5558)",
+    "section": "Office hours ",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Check brightspace for the links Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)",
+    "crumbs": [
+      "Info générale"
+    ]
+  },
+  {
+    "objectID": "fr/index.html#schedule",
+    "href": "fr/index.html#schedule",
+    "title": "Biostatistiques appliquées avec R (Bio4558 / Bio5558)",
+    "section": "Schedule ",
+    "text": "Schedule \n\nLecture: Mondays, 1430-1720 in CRX-C323\nLecture: Wednesdays, 1430-1720 in CRX-C323\nPractical: Wednesdays, 1430-1720 in CRX-C323\n\nThere are no lectures or tutorials during reading week.",
+    "crumbs": [
+      "Info générale"
+    ]
+  },
+  {
+    "objectID": "en/lectures.html",
+    "href": "en/lectures.html",
+    "title": "Slides and course notes",
+    "section": "",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 6\nNo lab\n\n\n\n\n\nSep 11\nConfidence intervals & statistical models\n \n\n\n\nSep 13\nGaussian dist, SEM & CLT\n\n\n\n\nSep 13\nNo lab\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 20\nLab: intro to R\nchap 1-4\n\n\n\nSep 25\nIntroduction to Github\n\n\n\n\nSep 27\n\n\n\n\n\nSep 27\nLab: Power analysis with GPower*\nchap ??\nReport 1: Hypothesis\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 4\nLab: Correlation & linear regression\nchap ??\nReport 2: power\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 11\nLab: Two-sample comparisons\nchap ??\nReport 3: Regression\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\nOct 18\nLab: One-way ANOVA\nchap ??\nReport 4: Two-sample comparisons\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 1\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 8\nLab: Multiway ANOVA\nchap ??\nReport 5: One-way ANOVA\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 15\nLab: Multiple regression\nchap ??\nReport 6: Multi-way ANOVA\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 22\nLab: General linear model\nchap ??\nReport 7: Multiple regression\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nNov 29\nLab: Analysis of frequency data\nchap ??\nReport 8: General linear model\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\nDec 6\nNo lab\n\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "en/lectures.html#schedule",
+    "href": "en/lectures.html#schedule",
+    "title": "Slides and course notes",
+    "section": "",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 6\nNo lab\n\n\n\n\n\nSep 11\nConfidence intervals & statistical models\n \n\n\n\nSep 13\nGaussian dist, SEM & CLT\n\n\n\n\nSep 13\nNo lab\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 20\nLab: intro to R\nchap 1-4\n\n\n\nSep 25\nIntroduction to Github\n\n\n\n\nSep 27\n\n\n\n\n\nSep 27\nLab: Power analysis with GPower*\nchap ??\nReport 1: Hypothesis\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 4\nLab: Correlation & linear regression\nchap ??\nReport 2: power\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 11\nLab: Two-sample comparisons\nchap ??\nReport 3: Regression\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\nOct 18\nLab: One-way ANOVA\nchap ??\nReport 4: Two-sample comparisons\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 1\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 8\nLab: Multiway ANOVA\nchap ??\nReport 5: One-way ANOVA\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 15\nLab: Multiple regression\nchap ??\nReport 6: Multi-way ANOVA\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 22\nLab: General linear model\nchap ??\nReport 7: Multiple regression\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nNov 29\nLab: Analysis of frequency data\nchap ??\nReport 8: General linear model\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\nDec 6\nNo lab\n\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "en/lectures.html#about-slides-and-notes",
+    "href": "en/lectures.html#about-slides-and-notes",
+    "title": "Slides and course notes",
+    "section": "About slides  and notes ",
+    "text": "About slides  and notes \n\nSlides \nSlides in revealjs format (html). If you want then as a pdf (note you might loose some functionality or contents due to tabs and scroll sections):\n\nOpen the slides in your browser from a link on this page\nPress e to get into the PDF export mode (?print-pdf should appear near the end of the url and white borders should appear)\nOpen the in-browser print dialog (CTRL/CMD+P).\nChange the Destination setting to Save as PDF.\nChange the Layout to Landscape.\nChange the Margins to None.\nEnable the Background graphics option (if you want it)\nClick Save 🎉\n\n\n\nNotes \nContent of the slides in html format as a self-contained downloadable file and including tabs and scroll sections.\nMore importantly, notes have the commenting and annotateing tools activated via https://hypothes.is/. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.",
+    "crumbs": [
+      "Lectures"
+    ]
+  },
+  {
+    "objectID": "en/dataset.html",
+    "href": "en/dataset.html",
+    "title": "Data and code",
+    "section": "",
+    "text": "All data and code files in a nice zip file",
+    "crumbs": [
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "en/dataset.html#data-for-practicals",
+    "href": "en/dataset.html#data-for-practicals",
+    "title": "Data and code",
+    "section": "Data for practicals",
+    "text": "Data for practicals\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
+    "crumbs": [
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "en/dataset.html#r-code-and-functions-used-in-slides",
+    "href": "en/dataset.html#r-code-and-functions-used-in-slides",
+    "title": "Data and code",
+    "section": "R code and functions used in slides",
+    "text": "R code and functions used in slides",
+    "crumbs": [
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "en/who_when.html",
+    "href": "en/who_when.html",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Julien Martin (email)\n\n\n\n\n\nIgor Tex (email)\nBob Hêtte (email)"
+  },
+  {
+    "objectID": "en/who_when.html#teaching-team",
+    "href": "en/who_when.html#teaching-team",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "",
+    "text": "Julien Martin (email)\n\n\n\n\n\nIgor Tex (email)\nBob Hêtte (email)"
+  },
+  {
+    "objectID": "en/who_when.html#office-hours",
+    "href": "en/who_when.html#office-hours",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Office hours ",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)"
+  },
+  {
+    "objectID": "en/who_when.html#schedule",
+    "href": "en/who_when.html#schedule",
+    "title": "Bio4x58 / Bio5x58",
+    "section": "Schedule ",
+    "text": "Schedule \n\nLectures\n\nMondays, 1430-1720 in CRX-C323\nWednesdays, 1430-1720 in CRX-C323\n\nPracticals\n\nWednesdays, 1430-1720 in CRX-C323\n\n\nThere are no lectures or tutorials during reading week."
+  }
+]
