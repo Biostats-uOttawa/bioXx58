@@ -1,0 +1,47 @@
+{{< include ../_links.qmd >}}
+
+## Assessment weights
+### Bio4158
+
+* Lab assignments: 40% (8 reports, 5% each)
+* Midterm (during lab): 20%
+* Final exam: 40%
+
+### Bio5158
+
+* Lab assignments: 40% (8 reports, 5% each)
+* Midterm (during lab): 20%
+* Final exam: 30%
+* Extra report: 10%
+
+## Lab assignments
+
+The written reports count for 40% of the final grade.
+There are 8 reports and thus are 5% each. 
+You can work individually or in teams up to three (latter is encouraged).
+If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade.
+You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group).
+Late assignments will be penalized 10% per day or part thereof.
+Assignments will consist of either a series of questions to answer or a statistical analysis to perform.
+Specific grading scheme is provided for each report on [Brightspace][brightspace]
+
+## Exams
+
+### Midterm
+
+1h30 long after the Reading week proctored during a practical.
+In class (see schedule for date), open book, calculators are permitted.
+A make-up will not be offered.
+<!-- Those with a valid excuse for missing the midterm (e.g., a doctor’s note) will have the final exam re-weighted to be worth 50%.-->
+The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won't count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.
+
+<!--
+### Session project
+
+The final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.
+-->
+### Final exam
+
+This is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code. 
+
+## Extra report (Bio5158 only)

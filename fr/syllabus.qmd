@@ -1,0 +1,70 @@
+---
+title: Syllabus
+---
+
+{{< include ../_links.qmd >}}
+
+# Course description
+
+Applied biostatistics to real problems.
+Experimental design and data collection.
+Consequences of violating assumptions of different tests.
+Monte Carlo and Bootstrap analysis.
+Case studies and exercises in using statistical analysis packages.
+
+# Classes
+
+* Duration: 2 lectures of 1h20 and a 2h50 practical each week
+<!-- * Style: mix of lecture, discussion and practical -->
+* How: In-person. 
+* When: Usually Mondays and Wednesdays during the fall term
+* Course info and slides: <https://biostats-uottawa.github.io/bioxx58_course/>
+* Lab manual: <https://biostats-uottawa.github.io/R/en/>
+
+# Prerequisite
+
+MAT 2379/2779 or an equivalent introductory statistics course
+
+# Course objectives
+
+* Understand the fundamental principles of statistical inference
+* Understand the general principles underlying the most common tests
+* Know the assumptions underlying common tests and understand the impact of violating them
+* Be able to perform standard statistical analyses using R
+* Acquire the capacity to correctly interpret the statistical and biological significance of statistical tests
+
+# Organization
+
+Lectures and class discussions on most common statistical tests.
+
+Laboratory exercises that illustrate main concepts and allow application of theory to real situations.
+
+# Texts and software
+
+* (recommended but not mandatory) Motulsky, H. J. Intuitive biostatistics. 4th Edition. Oxford University Press, available at the uOttawa bookstore. Used copies of the 4th edition should be around (we used it last year); used copies of the 3rd edition would also be fine.
+Errata: See here for corrections to errors in the 2nd, 3rd and 4th edition.
+* R - a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To download R, please follow this link and then choose your preferred CRAN mirror. 
+
+# Evaluation
+{{< include assessment.qmd >}}
+
+
+# Marking disputes
+If you feel an error has been made in the grading of an assignment or exam, you have 10 working days from the date the item was returned to request a regrading. Beyond 10 working days the mark is considered final. If the issue concerns a lab assignment, please consult the TA that marked it; if it concerns and exam, please see the course instructor.
+
+When a regrading occurs, the new mark will stand whether it is higher or lower, so there is no guarantee your mark will increase. Simple adding mistakes unfortunately happen on occasion given the volume of assignments and exams we have to mark and such cases are easy to correct. However, disputes over partial marks on partially correct answers will not always work out in your favour and should be reserved for situations in which you feel you have a strong case. When requesting a regrading, you must provide an explanation as to what you feel the issue is (i.e. why you think you deserve a higher grade). The more specific this is the better your chance of success.
+
+I do not consider arguments for additional marks simply because you are close to the next letter grade. Sorry.
+
+
+# Plagiarism
+
+Plagiarism is the act of passing off someone else’s words or ideas as your own. Plagiarism is a major academic offence (see the University of Ottawa regulation on academic fraud: Academic fraud) and is also illegal. We uphold the law. It is critical that you understand what constitutes plagiarism and how you can avoid it. For more information, consult the following document from the Student Academic Success Service.
+
+# Attendance
+
+As per uOttawa policy, to ensure they succeed in all courses of their program of study, students have the responsibility to participate in the various learning and assessment activities for this course. Attendance of the lectures and laboratory are not formally required for this course, although both are STRONGLY recommended. The supplied lecture slides will not include all content presented and discussed in class, and teaching assistants and the professor are available during the labs for help with exercises and assignments. TA and professor office hours are to allow you an opportunity to ask questions related to course material and cannot replace a missed lecture or lab.
+
+
+
+

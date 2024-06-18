@@ -1,0 +1,99 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+#    - "!slides/"
+  resources:
+#    - "slides/"
+    - "data/"
+#execute:
+#  freeze: auto
+website:
+  google-analytics: G-6LLMGL3T2Q
+  title: "Bio4x58 / Bio5x58"
+#  margin-header: "![](/img/logo_hex.png){width='100px'}"
+  description: "Intro. Biostat."
+  favicon: /img/logo_hex.png
+  site-url: https://biostats-uottawa.github.io/bioxx58/
+  repo-url: https://github.com/biostats-uottawa/bioxx58/
+  repo-actions: [issue]
+  navbar:
+    title: '![](/img/logo_hex.png){width="50px"} Bio4x58 / Bio5x58' 
+    left:
+      - text: Biostats uOttawa
+        menu:
+          - text: "General info / Info Générale"
+            href: https://biostats-uottawa.github.io/
+          - text: Advanced biostats and open science (Bio8940)
+            href: https://biostats-uottawa.github.io/bio8940_course/
+          - text: Biostat avancées et science ouverte (Bio8940)
+            href: https://biostats-uottawa.github.io/bio8940_cours/
+          - text: R-way to hell (R book)
+            href: https://biostats-uottawa.github.io/R/en/
+          - text: Chemin de l'enf-R (livre R)
+            href: https://biostats-uottawa.github.io/R/fr/
+    # right:
+    #   - icon: github
+    #     menu:
+    #     - text: Code
+    #       href: https://github.com/biostats-uOttawa/bio8940_course
+    #     - text: Issues
+    #       href: https://github.com/Biostats-uOttawa/bio8940_course/issues
+  sidebar:
+    - id: fr
+      title: "Français"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - icon: flag
+          text: English (Bio4158)
+          href: en/index.qmd
+        - text: Info générale
+          href: fr/index.qmd
+        - text: Diapos et notes
+          href: fr/lectures.qmd
+        - text: Labo
+          href: fr/practical.qmd
+        - text: Évaluation
+          href: fr/assessment.qmd
+        - fr/dataset.qmd
+        - fr/syllabus.qmd
+        - icon: envelope
+          text: Contact
+          href: fr/people.qmd
+    - id: en
+      title: "English"
+      style: "floating"
+      collapse-level: 2
+      contents:
+        - icon: flag
+          text: Français (Bio4558)
+          href: fr/index.qmd
+        - text: Course info
+          href: en/index.qmd
+        - text: Lectures
+          href: en/lectures.qmd
+        - text: Practicals
+          href: en/practical.qmd
+        - text: Assessments
+          href: en/assessment.qmd
+        - en/dataset.qmd
+        - en/syllabus.qmd
+        - icon: envelope
+          text: "Contact"
+          href: en/people.qmd
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: [cosmo, css/theme-dark.scss]
+    highlight: kate
+    fig_align: center
+    css: css/biostat.css
+    toc: true
+
+bibliography: [biblio/bio8940_zot.bib, biblio/book.bib]
+biblio-style: apalike
+csl: biblio/ecology.csl

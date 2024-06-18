@@ -1,0 +1,132 @@
+---
+title: Slides and course notes
+---
+
+{{< include ../_links.qmd >}}
+
+```{r}
+#| echo: false
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+library(gt)
+library(lubridate)
+source("../_yaml_extract.R")
+dat <- read_yaml("_course.yml")
+extract_course(dat)
+```
+
+
+## Schedule 
+
+```{r}
+check <- character(0)
+schedule <- schedule_df %>%
+  rowwise() %>%
+  mutate(
+    day = case_match(
+      session,
+      1 ~ "mon",
+      2 ~ "wed",
+      3 ~ "thu"
+    ),
+    qmd_file = ifelse(
+      identical(
+        str_subset(
+          list.files("slides", pattern = "qmd", full.names = TRUE),
+          pattern = sprintf("lec-%1$.2d-%2$x", week, session)
+        ),
+        check
+      ),
+      NA,
+      str_subset(
+        list.files("slides", pattern = "qmd", full.names = TRUE),
+        pattern = sprintf("lec-%1$.2d-%2$x", week, session)
+      )
+    ),
+    lecture_file = ifelse(!is.na(qmd_file),
+      gsub("qmd", "slides.html", qmd_file),
+      NA
+    ),
+    notes_file = ifelse(!is.na(qmd_file),
+      gsub("qmd", "notes.html", qmd_file),
+      NA
+    ), ,
+    lecture = !is.na(lecture_file)
+  ) %>%
+  ungroup() %>%
+  mutate(
+    Material = case_when(
+      session != 3 & lecture == TRUE ~ glue("<a class='fa fa-display' href='{lecture_file}' target='_blank'></a> <a class='fa fa-note-sticky' href='{notes_file}' target='_blank'></a>"),
+      session == 3 ~ reading,
+      TRUE ~ ""
+    ),
+    Topic = ifelse(is.na(topic), "", topic),
+    Assessment = ifelse(is.na(assessment), "", assessment),
+    Reading = ifelse(is.na(reading), "", reading),
+    Date = as.Date(
+      case_when(
+        week > 20 ~ NA,
+        day == "wed" & week <= 6 ~ ymd(dat$date_start) + weeks(week),
+        day == "wed" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1),
+        day == "mon" & week <= 6 ~ ymd(dat$date_start) + weeks(week) - days(2),
+        day == "mon" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1) - days(2),
+        day == "thu" & week <= 6 ~ ymd(dat$date_start) + weeks(week) + days(1),
+        day == "thu" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1) + days(1)
+      )
+    ),
+    wk = ifelse((week %% 2) == 0, "a", ifelse(week < 20, "b", "c"))
+  ) %>%
+  select(Date, Topic, Material, Assessment, week, wk)
+
+midsem_break <- 6 # after which week
+
+schedule |>
+  gt() |>
+  cols_hide(c(week, wk)) |>
+  fmt_markdown(columns = c("Topic", "Material", "Assessment")) |>
+  fmt_date(
+    columns = Date,
+    date_style = "MMMd",
+    locale = "en"
+  ) |>
+  data_color(
+    columns = wk,
+    method = "factor",
+    target_columns = everything(),
+    palette = c("lightblue", "grey80", "pink")
+  ) |>
+  #  tab_row_group(
+  #    label = "Reading week",
+  #    rows = (midsem_break * 2 + 2):26
+  #  ) |>
+  # row_group_order(groups = c(NA, "Reading week")) |>
+  cols_width(
+    Date ~ px(50),
+    Material ~ px(20)
+  ) |>
+  sub_missing(missing_text = "") |>
+  tab_options(
+    table.width = pct(100),
+  )
+```
+
+## About slides {{< fa display >}} and notes {{< fa note-sticky >}}
+
+### Slides {{< fa display >}} 
+
+Slides in `revealjs` format (html). If you want then as a pdf (*note you might loose some functionality or contents due to tabs and scroll sections*):
+
+1. Open the slides in your browser from a link on this page
+2. Press `e` to get into the PDF export mode (*`?print-pdf` should appear near the end of the url and white borders should appear*)
+1. Open the in-browser print dialog (CTRL/CMD+P).
+1. Change the `Destination` setting to `Save as PDF`.
+1. Change the `Layout` to `Landscape`.
+1. Change the `Margins` to `None`.
+1. Enable the Background graphics option (if you want it)
+1. Click Save 🎉
+
+### Notes {{< fa note-sticky >}}
+
+Content of the slides in html format as a self-contained downloadable file and including tabs and scroll sections. 
+
+More importantly, notes have the commenting and annotateing tools activated via <https://hypothes.is/>. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.

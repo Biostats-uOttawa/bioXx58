@@ -1,0 +1,28 @@
+---
+title: "Julien Martin"
+about:
+  template: trestles
+  image: "../img/moi.jpg"
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/juliengamartin
+    - icon: window
+      text: website
+      href: https://www.uottawa.ca/faculty-science/professors/julien-martin
+    - icon: window
+      text: lab page
+      href: https://juliengamartin.github.io/
+    - icon: envelope
+      text: email
+      href: "mailto:julien.martin@uottawa.ca"
+---
+
+Julien is an Associate Professor at the University of Ottawa and has
+been teaching (and learning) R for the last 15 years.
+
+I created the websites using `Quarto`, `R`, `revealjs`, `mermaid.js` and
+`graphViz`. I developed the theme for the slides based on the [xaringan
+blackboard
+theme](https://github.com/juancarloscastillo/xaringan-themes-blackboard).

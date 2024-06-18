@@ -1,0 +1,12 @@
+#*assets/libs/
+/.quarto/
+*chunks/
+*_files/
+*_cache/
+/_site/
+/docs/
+plots/
+libs/
+*.zip
+Untitled*
+_freeze/

@@ -1,0 +1,65 @@
+{{< include ../_links.qmd >}}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+#| echo: false
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+library(yaml)
+library(gt)
+library(lubridate)
+source("../_yaml_extract.R")
+dat <- read_yaml("_course.yml")
+extract_course(dat)
+
+```
+
+## Teaching team
+### Lecturer {{< fa person-chalkboard >}}
+
+```{r}
+#| label: lecturers
+#| results: "asis"
+team_df %>%
+  filter(role == "lecturer") %>%
+  pull(name) %>%
+  ui_list()
+```
+
+### Teaching assitant`r ifelse(ntutor > 1, 's', '')`
+```{r tutors, results="asis"}
+team_df %>%
+  filter(role == "tutor") %>%
+  pull(name) %>%
+  ui_list()
+```
+
+## Office hours {{< fa clock >}}
+
+Meetings will be in-person or online using zoom. Check brightspace for the links
+Please consult the TA's first for questions related to the lab exercises and assignments.
+
+```{r}
+#| label: consult
+#| results: "asis"
+team_df %>%
+  mutate(consult_print = glue::glue("**{name}**: {consult}")) %>%
+  pull(consult_print) %>%
+  ui_list()
+```
+
+## Schedule {{< fa calendar-days >}}
+
+```{r}
+#| label: timetable
+#| results: "asis"
+timetable_df %>%
+  mutate(timetable = glue::glue("**{class}**: {day}, {when} in {where}")) %>%
+  pull(timetable) %>%
+  ui_list()
+```
+
+There are no lectures or tutorials during reading week.

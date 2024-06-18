@@ -1,0 +1,126 @@
+date_start: "2023-09-06"
+date_read: "2023-10-23"
+date_thks: "2023-10-09"
+
+schedule:
+  - week: 0
+    session: 2 
+    topic: Introduction
+  - week: 1
+    session: 1
+    topic: "Introduction"
+    topic_fr: "Introduction"
+    reading: "@smaldino_natural_2016"
+  - week: 1
+    session: 2
+    topic: "Awesome subject"
+  - week: 1
+    session: 3
+    topic: "*Lab: intro to R*"
+    reading: "[chap 3](https://biostats-uottawa.github.io/)"
+  - week: 2
+    session: 1
+    topic: ""
+  - week: 2
+    session: 2
+    topic: ""
+  - week: 3
+    session: 3
+    topic: "Introduction to Github"
+    topic_fr: "Introduction à Github"
+#    tools: ""
+#    assessment: "Assessment 2 **due Fri 6 Oct 11:55 PM**"
+    reading: "@ivimey-cook_implementing_2023"
+  - week: 3
+    session: 2
+    topic: ""
+  - week: 4
+    session: 1
+    topic: ""
+  - week: 4
+    session: 2
+    topic: ""
+  - week: 5
+    session: 1
+    topic: " Thanksgiving"
+  - week: 5
+    session: 2
+    topic: ""
+  - week: 6
+    session: 1
+    topic: ""
+  - week: 6
+    session: 2
+    topic: ""
+# reading_week
+  - week: 21
+    topic: "**Reading week**"
+# reading week
+  - week: 7
+    session: 1
+    topic: ""
+  - week: 7
+    session: 2
+    topic: "No class"
+  - week: 7
+    session: 3
+    topic: "**Mid-term**"
+    assessment: "in person during practical"
+  - week: 8
+    session: 1
+    topic: ""
+  - week: 8
+    session: 2
+    topic: ""
+  - week: 9
+    session: 1
+    topic: ""
+  - week: 9
+    session: 2
+    topic: ""
+  - week: 10
+    session: 1
+    topic: ""
+  - week: 10
+    session: 2
+    topic: ""
+  - week: 11
+    session: 1
+    topic: ""
+  - week: 11
+    session: 2
+    topic: ""
+  - week: 12
+    session: 1
+    topic: "Q&A"
+  - week: 12
+    session: 2
+    topic: "No lecture"
+  - week: 31
+    topic: "**Final exam**"
+    assessment: "during exam period"
+
+team:
+  - name: Julien Martin
+    role: lecturer
+    consult: Wed 1100-1200 (in-person & online)
+  - name: Igor Tex
+    role: TA
+    consult: Fri 5.00-5.45pm (in-person)
+  - name: Bob Hêtte
+    role: TA
+    consult: Thu 6.00-6.45pm (in-person)
+
+timetable:
+  - class: Lecture
+    day: Mondays
+    when: 1430-1720
+    where: CRX-C323
+  - class: Lecture
+    day: Wednesdays
+    when: 1430-1720
+    where: CRX-C323
+  - class: Practical
+    day: Wednesdays
+    when: 1430-1720
+    where: CRX-C323

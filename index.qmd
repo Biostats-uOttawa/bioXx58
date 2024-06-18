@@ -1,0 +1,25 @@
+---
+title: | 
+  Applied Biostatistics with R </br>
+  Biostatistiques appliquées avec R
+format:
+  html:
+    toc: false
+---
+<style>
+  .quarto-title-block .quarto-title{
+  text-align: center;
+}
+</style>
+
+{{< include _links.qmd >}}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](img/bio4x58_logo_hex.png){fig-align="center"}
+
+::: {style="text-align: center;"}
+{{< fa flag >}} [Contenu disponible en **français**](fr/index.qmd) / [Content available in **english**](en/index.qmd) {{< fa flag >}}
+:::
