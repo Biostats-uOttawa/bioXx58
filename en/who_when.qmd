@@ -7,6 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 library(yaml)
 library(gt)
 library(lubridate)
+library(glue)
 source("../_yaml_extract.R")
 dat <- read_yaml("_course.yml")
 extract_course(dat)
@@ -19,17 +20,22 @@ extract_course(dat)
 ```{r}
 #| label: lecturers
 #| results: "asis"
+
 team_df %>%
-  mutate(name_print = glue::glue("{name} ({contact})")) %>%
+  mutate(name_print = glue("{name} ({contact})")) %>%
   filter(role == "lecturer") %>%
   pull(name_print) %>%
   ui_list()
 ```
 
 ### Teaching assistant`r ifelse(ntutor > 1, 's', '')`
-```{r tutors, results="asis"}
+
+```{r}
+#| label: tutors
+#| results: "asis"
+
 team_df %>%
-  mutate(name_print = glue::glue("{name} ({contact})")) %>%
+  mutate(name_print = glue("{name} ({contact})")) %>%
   filter(role == "TA") %>%
   pull(name_print) %>%
   ui_list()

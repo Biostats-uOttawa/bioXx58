@@ -65,18 +65,24 @@ schedule <- schedule_df %>%
     Reading = ifelse(is.na(reading), "", reading),
     Date = as.Date(
       case_when(
-        week > 20 ~ NA,
-        day == "wed" & week <= 6 ~ ymd(dat$date_start) + weeks(week),
-        day == "wed" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1),
-        day == "mon" & week <= 6 ~ ymd(dat$date_start) + weeks(week) - days(2),
-        day == "mon" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1) - days(2),
-        day == "thu" & week <= 6 ~ ymd(dat$date_start) + weeks(week) + days(1),
-        day == "thu" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1) + days(1)
+        week == 21 ~ ymd(dat$date_read),
+        week == 31 ~ ymd(dat$date_final),
+        day == "wed" & week <= 6 ~ ymd(dat$date_start) + weeks(week-1),
+        day == "wed" & week > 6 ~ ymd(dat$date_start) + weeks(week),
+        day == "mon" & week <= 6 ~ ymd(dat$date_start) + weeks(week-1) - days(2),
+        day == "mon" & week > 6 ~ ymd(dat$date_start) + weeks(week) - days(2),
+        day == "thu" & week <= 6 ~ ymd(dat$date_start) + weeks(week-1) + days(1),
+        day == "thu" & week > 6 ~ ymd(dat$date_start) + weeks(week) + days(1)
       )
     ),
     wk = ifelse((week %% 2) == 0, "a", ifelse(week < 20, "b", "c"))
   ) %>%
-  select(Date, Topic, Material, Assessment, week, wk)
+  select(Date, Topic, Material, Assessment, week, wk) %>%
+  arrange(Date) %>%
+  mutate(Date = case_match(week,
+        21 ~ NA,
+        31 ~ NA,
+        .default = Date))
 
 midsem_break <- 6 # after which week
 

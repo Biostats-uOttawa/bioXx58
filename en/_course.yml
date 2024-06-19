@@ -1,78 +1,68 @@
-date_start: "2023-09-06"
-date_read: "2023-10-23"
-date_thks: "2023-10-09"
+date_start: "2024-09-04"
+date_read:  "2024-10-13"
+date_thks:  "2024-10-14"
+date_final: "2024-12-05"
 
 schedule:
-  - week: 0
+  - week: 1
     session: 2 
     topic: Introduction
-  - week: 0
+  - week: 1
     session: 3
     topic: "No lab"
-  - week: 1
+  - week: 2
     session: 1
     topic: "Confidence intervals & statistical models"
-  - week: 1
+  - week: 2
     session: 2
     topic: "Gaussian dist, SEM & CLT"
-  - week: 1
+  - week: 2
     session: 3
     topic: "No lab"
-  - week: 2
+  - week: 3
     session: 1
     topic: ""
-  - week: 2
+  - week: 3
     session: 2
     topic: ""
-  - week: 2
+  - week: 3
     session: 3
     topic: "[Lab: *intro to R*]{.underline}"
     reading: "[chap 1-4](https://biostats-uottawa.github.io/R/en/)"
     assessment: ""
-  - week: 3
+  - week: 4
     session: 1
     topic: "Introduction to Github"
-  - week: 3
+  - week: 4
     session: 2
     topic: ""
-  - week: 3
+  - week: 4
     session: 3
     topic: "[Lab: *Power analysis with G*Power*]{.underline}"
     reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 1: Hypothesis"
-  - week: 4
+  - week: 5
     session: 1
     topic: ""
-  - week: 4
+  - week: 5
     session: 2
     topic: ""
-  - week: 4
+  - week: 5
     session: 3
     topic: "[Lab: *Correlation & linear regression*]{.underline}"
     reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 2: power"
-  - week: 5
+  - week: 6
     session: 1
-    topic: " Thanksgiving"
-  - week: 5
+    topic: 
+  - week: 6
     session: 2
     topic: ""
-  - week: 5
+  - week: 6
     session: 3
     topic: "[Lab: *Two-sample comparisons*]{.underline}"
     reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 3: Regression"
-  - week: 6
-    session: 1
-    topic: ""
-  - week: 6
-    session: 2
-    topic: ""
-  - week: 6
-    session: 3
-    topic: "[Lab: *One-way ANOVA*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
-    assessment: "Report 4: Two-sample comparisons"
 ################################################################################
 ## reading_week
   - week: 21
@@ -83,64 +73,75 @@ schedule:
     topic: ""
   - week: 7
     session: 2
-    topic: "No class"
+    topic: ""
   - week: 7
     session: 3
-    topic: "**Mid-term**"
-    assessment: "in person during practical"
+    topic: "[Lab: *One-way ANOVA*]{.underline}"
+    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Report 4: Two-sample comparisons"
   - week: 8
     session: 1
     topic: ""
   - week: 8
     session: 2
-    topic: ""
+    topic: "No class"
   - week: 8
+    session: 3
+    topic: "**Mid-term**"
+    assessment: "in person during practical"
+  - week: 9
+    session: 1
+    topic: ""
+  - week: 9
+    session: 2
+    topic: ""
+  - week: 9
     session: 3
     topic: "[Lab: *Multiway ANOVA*]{.underline}"
     reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 5: One-way ANOVA"
-  - week: 9
+  - week: 10
     session: 1
     topic: ""
-  - week: 9
+  - week: 10
     session: 2
     topic: ""
-  - week: 9
+  - week: 10
     session: 3
     topic: "[Lab: *Multiple regression*]{.underline}"
     reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 6: Multi-way ANOVA"
-  - week: 10
+  - week: 11
     session: 1
     topic: ""
-  - week: 10
+  - week: 11
     session: 2
     topic: ""
-  - week: 10
+  - week: 11
     session: 3
     topic: "[Lab: *General linear model*]{.underline}"
     reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 7: Multiple regression"
-  - week: 11
+  - week: 12
     session: 1
     topic: ""
-  - week: 11
+  - week: 12
     session: 2
     topic: ""
-  - week: 11
+  - week: 12
     session: 3
     topic: "[Lab: *Analysis of frequency data*]{.underline}"
     reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 8: General linear model"
-  - week: 12
+  - week: 13
     session: 1
     topic: "Q&A"
-  - week: 12
-    session: 2
-    topic: "No lecture"
-  - week: 12
-    session: 3
-    topic: "No lab"
+#  - week: 12
+#    session: 2
+#    topic: "No lecture"
+#  - week: 12
+#    session: 3
+#    topic: "No lab"
   - week: 31
     topic: "**Final exam**"
     assessment: "during exam period"
@@ -148,7 +149,7 @@ schedule:
 team:
   - name: Julien Martin
     role: lecturer
-    consult: Wed 1100-1200 (in-person & online)
+    consult: Monday 1430-1530 (in-person & online)
     contact: "[email](people.qmd)"
   - name: Igor Tex
     role: TA
@@ -162,13 +163,13 @@ team:
 timetable:
   - class: Lecture
     day: Mondays
-    when: 1430-1720
-    where: CRX-C323
+    when: 1300-1420
+    where: SMD-224
   - class: Lecture
     day: Wednesdays
-    when: 1430-1720
-    where: CRX-C323
+    when: 1130-1250
+    where: SMD-224
   - class: Practical
     day: Wednesdays
     when: 1430-1720
-    where: CRX-C323
+    where: LPR-155
