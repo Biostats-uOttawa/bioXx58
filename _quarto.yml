@@ -22,16 +22,16 @@ website:
     title: '![](/img/logo_hex.png){width="50px"} Bio4x58 / Bio5x58' 
     left:
       - text: Biostats uOttawa
+        href: https://biostats-uottawa.github.io/
+#      - text: Intro Biostats & R (BioXx58)
+#        href: https://biostats-uottawa.github.io/bioxx58/
+      - text: Biostats adv. / av.(Bio8940)
+        href: https://biostats-uottawa.github.io/bio8940_course/
+      - text: Livre / Book
         menu:
-          - text: "General info / Info Générale"
-            href: https://biostats-uottawa.github.io/
-          - text: Advanced biostats and open science (Bio8940)
-            href: https://biostats-uottawa.github.io/bio8940_course/
-          - text: Biostat avancées et science ouverte (Bio8940)
-            href: https://biostats-uottawa.github.io/bio8940_cours/
-          - text: R-way to hell (R book)
+          - text: R-way to hell
             href: https://biostats-uottawa.github.io/R/en/
-          - text: Chemin de l'enf-R (livre R)
+          - text: Chemin de l'enf-R
             href: https://biostats-uottawa.github.io/R/fr/
     # right:
     #   - icon: github
