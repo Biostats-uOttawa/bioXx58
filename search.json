@@ -4,28 +4,28 @@
     "href": "fr/who_when.html",
     "title": "Bio4x58 / Bio5x58",
     "section": "",
-    "text": "Julien Martin"
+    "text": "Julien Martin (email)\n\n\n\n\n\nIgor Tex (email)"
   },
   {
     "objectID": "fr/who_when.html#teaching-team",
     "href": "fr/who_when.html#teaching-team",
     "title": "Bio4x58 / Bio5x58",
     "section": "",
-    "text": "Julien Martin"
+    "text": "Julien Martin (email)\n\n\n\n\n\nIgor Tex (email)"
   },
   {
     "objectID": "fr/who_when.html#office-hours",
     "href": "fr/who_when.html#office-hours",
     "title": "Bio4x58 / Bio5x58",
     "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Check brightspace for the links Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)"
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)"
   },
   {
     "objectID": "fr/who_when.html#schedule",
     "href": "fr/who_when.html#schedule",
     "title": "Bio4x58 / Bio5x58",
     "section": "Schedule ",
-    "text": "Schedule \n\nLecture: Mondays, 1430-1720 in CRX-C323\nLecture: Wednesdays, 1430-1720 in CRX-C323\nPractical: Wednesdays, 1430-1720 in CRX-C323\n\nThere are no lectures or tutorials during reading week."
+    "text": "Schedule \n\nLectures\n\nLundi, 1000-1120 in TBD\nMercredi, 0830-0950 in TBD\n\nPracticals\n\nJeudi, 1130-1420 in TBD\n\n\nThere are no lectures or tutorials during reading week."
   },
   {
     "objectID": "fr/dataset.html",
@@ -34,6 +34,7 @@
     "section": "",
     "text": "All data and code files in a nice zip file",
     "crumbs": [
+      "Biostats uOttawa",
       "Data and code"
     ]
   },
@@ -44,6 +45,7 @@
     "section": "Data for practicals",
     "text": "Data for practicals\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
     "crumbs": [
+      "Biostats uOttawa",
       "Data and code"
     ]
   },
@@ -54,6 +56,7 @@
     "section": "R code and functions used in slides",
     "text": "R code and functions used in slides",
     "crumbs": [
+      "Biostats uOttawa",
       "Data and code"
     ]
   },
@@ -62,8 +65,9 @@
     "href": "fr/lectures.html",
     "title": "Slides and course notes",
     "section": "",
-    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 11\nIntroduction\n\n\n\n\nSep 13\nAwesome subject\n\n\n\n\nSep 14\nLab: intro to R\nchap 3\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 28\nIntroduction to Github\nIvimey-Cook et al. (2023)\n\n\n\nSep 27\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 2\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 9\nIntroduction\n\n\n\n\nSep 11\nAwesome subject\n\n\n\n\nSep 12\nLab: intro to R\nchap 3\n\n\n\nSep 16\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 26\nIntroduction to Github\nIvimey-Cook et al. (2023)\n\n\n\nSep 25\n\n\n\n\n\nSep 30\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 7\nThanksgiving\n\n\n\n\nOct 9\n\n\n\n\n\nOct 14\n\n\n\n\n\nOct 16\n\n\n\n\n\n\n\nReading week\n\n\n\n\nOct 28\n\n\n\n\n\nOct 30\nNo class\n\n\n\n\nOct 31\nMid-term\n\n\nin person during practical\n\n\nNov 4\n\n\n\n\n\nNov 6\n\n\n\n\n\nNov 11\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 18\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 25\n\n\n\n\n\nNov 27\n\n\n\n\n\nDec 2\nQ&A\n\n\n\n\nDec 4\nNo lecture\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
     "crumbs": [
+      "Biostats uOttawa",
       "Diapos et notes"
     ]
   },
@@ -72,8 +76,9 @@
     "href": "fr/lectures.html#schedule",
     "title": "Slides and course notes",
     "section": "",
-    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 11\nIntroduction\n\n\n\n\nSep 13\nAwesome subject\n\n\n\n\nSep 14\nLab: intro to R\nchap 3\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 28\nIntroduction to Github\nIvimey-Cook et al. (2023)\n\n\n\nSep 27\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 2\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 9\nIntroduction\n\n\n\n\nSep 11\nAwesome subject\n\n\n\n\nSep 12\nLab: intro to R\nchap 3\n\n\n\nSep 16\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 26\nIntroduction to Github\nIvimey-Cook et al. (2023)\n\n\n\nSep 25\n\n\n\n\n\nSep 30\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 7\nThanksgiving\n\n\n\n\nOct 9\n\n\n\n\n\nOct 14\n\n\n\n\n\nOct 16\n\n\n\n\n\n\n\nReading week\n\n\n\n\nOct 28\n\n\n\n\n\nOct 30\nNo class\n\n\n\n\nOct 31\nMid-term\n\n\nin person during practical\n\n\nNov 4\n\n\n\n\n\nNov 6\n\n\n\n\n\nNov 11\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 18\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 25\n\n\n\n\n\nNov 27\n\n\n\n\n\nDec 2\nQ&A\n\n\n\n\nDec 4\nNo lecture\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
     "crumbs": [
+      "Biostats uOttawa",
       "Diapos et notes"
     ]
   },
@@ -84,6 +89,7 @@
     "section": "About slides  and notes ",
     "text": "About slides  and notes \n\nSlides \nSlides in revealjs format (html). If you want then as a pdf (note you might loose some functionality or contents due to tabs and scroll sections):\n\nOpen the slides in your browser from a link on this page\nPress e to get into the PDF export mode (?print-pdf should appear near the end of the url and white borders should appear)\nOpen the in-browser print dialog (CTRL/CMD+P).\nChange the Destination setting to Save as PDF.\nChange the Layout to Landscape.\nChange the Margins to None.\nEnable the Background graphics option (if you want it)\nClick Save 🎉\n\n\n\nNotes \nContent of the slides in html format as a self-contained downloadable file and including tabs and scroll sections.\nMore importantly, notes have the commenting and annotateing tools activated via https://hypothes.is/. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.",
     "crumbs": [
+      "Biostats uOttawa",
       "Diapos et notes"
     ]
   },
@@ -94,6 +100,7 @@
     "section": "",
     "text": "Applied biostatistics to real problems. Experimental design and data collection. Consequences of violating assumptions of different tests. Monte Carlo and Bootstrap analysis. Case studies and exercises in using statistical analysis packages.",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -104,6 +111,7 @@
     "section": "Assessment weights",
     "text": "Assessment weights\n\nBio4158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\nBio5158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -114,6 +122,7 @@
     "section": "Lab assignments",
     "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -124,6 +133,7 @@
     "section": "Exams",
     "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -134,6 +144,7 @@
     "section": "Extra report (Bio5158 only)",
     "text": "Extra report (Bio5158 only)",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -144,6 +155,7 @@
     "section": "",
     "text": "Applied biostatistics to real problems. Experimental design and data collection. Consequences of violating assumptions of different tests. Monte Carlo and Bootstrap analysis. Case studies and exercises in using statistical analysis packages.",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -154,6 +166,7 @@
     "section": "Assessment weights",
     "text": "Assessment weights\n\nBio4158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\nBio5158\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -164,6 +177,7 @@
     "section": "Lab assignments",
     "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -174,6 +188,7 @@
     "section": "Exams",
     "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -184,6 +199,7 @@
     "section": "Extra report (Bio5158 only)",
     "text": "Extra report (Bio5158 only)",
     "crumbs": [
+      "Biostats uOttawa",
       "Syllabus"
     ]
   },
@@ -348,6 +364,7 @@
     "section": "",
     "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule.\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
     "crumbs": [
+      "Biostats uOttawa",
       "Practicals"
     ]
   },
@@ -358,6 +375,7 @@
     "section": "",
     "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
     "crumbs": [
+      "Biostats uOttawa",
       "Assessments"
     ]
   },
@@ -368,6 +386,7 @@
     "section": "",
     "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
     "crumbs": [
+      "Biostats uOttawa",
       "Assessments"
     ]
   },
@@ -378,6 +397,7 @@
     "section": "Lab assignments",
     "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
     "crumbs": [
+      "Biostats uOttawa",
       "Assessments"
     ]
   },
@@ -388,6 +408,7 @@
     "section": "Exams",
     "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
     "crumbs": [
+      "Biostats uOttawa",
       "Assessments"
     ]
   },
@@ -398,6 +419,7 @@
     "section": "Extra report (Bio5158 only)",
     "text": "Extra report (Bio5158 only)",
     "crumbs": [
+      "Biostats uOttawa",
       "Assessments"
     ]
   },
@@ -422,6 +444,7 @@
     "section": "",
     "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
     "crumbs": [
+      "Biostats uOttawa",
       "Contact"
     ]
   },
@@ -432,6 +455,7 @@
     "section": "",
     "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
     "crumbs": [
+      "Biostats uOttawa",
       "Contact"
     ]
   },
@@ -442,6 +466,7 @@
     "section": "",
     "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
     "crumbs": [
+      "Biostats uOttawa",
       "Évaluation"
     ]
   },
@@ -452,6 +477,7 @@
     "section": "",
     "text": "Lab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 40%\n\n\n\n\n\nLab assignments: 40% (8 reports, 5% each)\nMidterm (during lab): 20%\nFinal exam: 30%\nExtra report: 10%",
     "crumbs": [
+      "Biostats uOttawa",
       "Évaluation"
     ]
   },
@@ -462,6 +488,7 @@
     "section": "Lab assignments",
     "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
     "crumbs": [
+      "Biostats uOttawa",
       "Évaluation"
     ]
   },
@@ -472,6 +499,7 @@
     "section": "Exams",
     "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\n\nFinal exam\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
     "crumbs": [
+      "Biostats uOttawa",
       "Évaluation"
     ]
   },
@@ -482,6 +510,7 @@
     "section": "Extra report (Bio5158 only)",
     "text": "Extra report (Bio5158 only)",
     "crumbs": [
+      "Biostats uOttawa",
       "Évaluation"
     ]
   },
@@ -492,6 +521,7 @@
     "section": "",
     "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule.\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
     "crumbs": [
+      "Biostats uOttawa",
       "Labo"
     ]
   },
@@ -649,6 +679,7 @@
     "section": "",
     "text": "This is the site for the courses Bio4158/Bio5158 at the University of Ottawa. You will find all the course information including the course schedule, slides, course notes, practicals info and exercises, description of assessments as well as the (official) syllabus for the course.\nSubmission of course work is done via brighspace.",
     "crumbs": [
+      "Biostats uOttawa",
       "Course info"
     ]
   },
@@ -659,6 +690,7 @@
     "section": "Teaching team",
     "text": "Teaching team\n\nLecturer \n\nJulien Martin (email)\n\n\n\nTeaching assistants\n\nIgor Tex (email)\nBob Hêtte (email)",
     "crumbs": [
+      "Biostats uOttawa",
       "Course info"
     ]
   },
@@ -667,8 +699,9 @@
     "href": "en/index.html#office-hours",
     "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
     "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)",
     "crumbs": [
+      "Biostats uOttawa",
       "Course info"
     ]
   },
@@ -677,8 +710,9 @@
     "href": "en/index.html#schedule",
     "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
     "section": "Schedule ",
-    "text": "Schedule \n\nLectures\n\nMondays, 1430-1720 in CRX-C323\nWednesdays, 1430-1720 in CRX-C323\n\nPracticals\n\nWednesdays, 1430-1720 in CRX-C323\n\n\nThere are no lectures or tutorials during reading week.",
+    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in SMD-224\nWednesdays, 1130-1250 in SMD-224\n\nPracticals\n\nWednesdays, 1430-1720 in LPR-155\n\n\nThere are no lectures or tutorials during reading week.",
     "crumbs": [
+      "Biostats uOttawa",
       "Course info"
     ]
   },
@@ -689,6 +723,7 @@
     "section": "",
     "text": "This is the site for the courses Bio4158/Bio5158 at the University of Ottawa. You will find all the course information including the course schedule, slides, course notes, practicals info and exercises, description of assessments as well as the (official) syllabus for the course.\nSubmission of course work is done via brighspace.",
     "crumbs": [
+      "Biostats uOttawa",
       "Info générale"
     ]
   },
@@ -697,8 +732,9 @@
     "href": "fr/index.html#teaching-team",
     "title": "Biostatistiques appliquées avec R (Bio4558 / Bio5558)",
     "section": "Teaching team",
-    "text": "Teaching team\n\nLecturer \n\nJulien Martin\n\n\n\nTeaching assitants",
+    "text": "Teaching team\n\nLecturer \n\nJulien Martin (email)\n\n\n\nTeaching assistant\n\nIgor Tex (email)",
     "crumbs": [
+      "Biostats uOttawa",
       "Info générale"
     ]
   },
@@ -707,8 +743,9 @@
     "href": "fr/index.html#office-hours",
     "title": "Biostatistiques appliquées avec R (Bio4558 / Bio5558)",
     "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Check brightspace for the links Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)",
     "crumbs": [
+      "Biostats uOttawa",
       "Info générale"
     ]
   },
@@ -717,8 +754,9 @@
     "href": "fr/index.html#schedule",
     "title": "Biostatistiques appliquées avec R (Bio4558 / Bio5558)",
     "section": "Schedule ",
-    "text": "Schedule \n\nLecture: Mondays, 1430-1720 in CRX-C323\nLecture: Wednesdays, 1430-1720 in CRX-C323\nPractical: Wednesdays, 1430-1720 in CRX-C323\n\nThere are no lectures or tutorials during reading week.",
+    "text": "Schedule \n\nLectures\n\nLundi, 1000-1120 in TBD\nMercredi, 0830-0950 in TBD\n\nPracticals\n\nJeudi, 1130-1420 in TBD\n\n\nThere are no lectures or tutorials during reading week.",
     "crumbs": [
+      "Biostats uOttawa",
       "Info générale"
     ]
   },
@@ -727,8 +765,9 @@
     "href": "en/lectures.html",
     "title": "Slides and course notes",
     "section": "",
-    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 6\nNo lab\n\n\n\n\n\nSep 11\nConfidence intervals & statistical models\n \n\n\n\nSep 13\nGaussian dist, SEM & CLT\n\n\n\n\nSep 13\nNo lab\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 20\nLab: intro to R\nchap 1-4\n\n\n\nSep 25\nIntroduction to Github\n\n\n\n\nSep 27\n\n\n\n\n\nSep 27\nLab: Power analysis with GPower*\nchap ??\nReport 1: Hypothesis\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 4\nLab: Correlation & linear regression\nchap ??\nReport 2: power\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 11\nLab: Two-sample comparisons\nchap ??\nReport 3: Regression\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\nOct 18\nLab: One-way ANOVA\nchap ??\nReport 4: Two-sample comparisons\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 1\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 8\nLab: Multiway ANOVA\nchap ??\nReport 5: One-way ANOVA\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 15\nLab: Multiple regression\nchap ??\nReport 6: Multi-way ANOVA\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 22\nLab: General linear model\nchap ??\nReport 7: Multiple regression\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nNov 29\nLab: Analysis of frequency data\nchap ??\nReport 8: General linear model\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\nDec 6\nNo lab\n\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 4\nNo lab\n\n\n\n\n\nSep 9\nConfidence intervals & statistical models\n\n\n\n\nSep 11\nGaussian dist, SEM & CLT\n\n\n\n\nSep 11\nNo lab\n\n\n\n\n\nSep 16\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 18\nLab: intro to R\nchap 1-4\n\n\n\nSep 23\nIntroduction to Github\n\n\n\n\nSep 25\n\n\n\n\n\nSep 25\nLab: Power analysis with GPower*\nchap ??\nReport 1: Hypothesis\n\n\nSep 30\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 2\nLab: Correlation & linear regression\nchap ??\nReport 2: power\n\n\nOct 7\n\n\n\n\n\nOct 9\n\n\n\n\n\nOct 9\nLab: Two-sample comparisons\nchap ??\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 21\n\n\n\n\n\nOct 23\n\n\n\n\n\nOct 23\nLab: One-way ANOVA\nchap ??\nReport 4: Two-sample comparisons\n\n\nOct 28\n\n\n\n\n\nOct 30\nNo class\n\n\n\n\nOct 30\nMid-term\n\n\nin person during practical\n\n\nNov 4\n\n\n\n\n\nNov 6\n\n\n\n\n\nNov 6\nLab: Multiway ANOVA\nchap ??\nReport 5: One-way ANOVA\n\n\nNov 11\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 13\nLab: Multiple regression\nchap ??\nReport 6: Multi-way ANOVA\n\n\nNov 18\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 20\nLab: General linear model\nchap ??\nReport 7: Multiple regression\n\n\nNov 25\n\n\n\n\n\nNov 27\n\n\n\n\n\nNov 27\nLab: Analysis of frequency data\nchap ??\nReport 8: General linear model\n\n\nDec 2\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
     "crumbs": [
+      "Biostats uOttawa",
       "Lectures"
     ]
   },
@@ -737,8 +776,9 @@
     "href": "en/lectures.html#schedule",
     "title": "Slides and course notes",
     "section": "",
-    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 6\nIntroduction\n\n\n\n\nSep 6\nNo lab\n\n\n\n\n\nSep 11\nConfidence intervals & statistical models\n \n\n\n\nSep 13\nGaussian dist, SEM & CLT\n\n\n\n\nSep 13\nNo lab\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 20\n\n\n\n\n\nSep 20\nLab: intro to R\nchap 1-4\n\n\n\nSep 25\nIntroduction to Github\n\n\n\n\nSep 27\n\n\n\n\n\nSep 27\nLab: Power analysis with GPower*\nchap ??\nReport 1: Hypothesis\n\n\nOct 2\n\n\n\n\n\nOct 4\n\n\n\n\n\nOct 4\nLab: Correlation & linear regression\nchap ??\nReport 2: power\n\n\nOct 9\nThanksgiving\n\n\n\n\nOct 11\n\n\n\n\n\nOct 11\nLab: Two-sample comparisons\nchap ??\nReport 3: Regression\n\n\nOct 16\n\n\n\n\n\nOct 18\n\n\n\n\n\nOct 18\nLab: One-way ANOVA\nchap ??\nReport 4: Two-sample comparisons\n\n\n\n\nReading week\n\n\n\n\nOct 30\n\n\n\n\n\nNov 1\nNo class\n\n\n\n\nNov 1\nMid-term\n\n\nin person during practical\n\n\nNov 6\n\n\n\n\n\nNov 8\n\n\n\n\n\nNov 8\nLab: Multiway ANOVA\nchap ??\nReport 5: One-way ANOVA\n\n\nNov 13\n\n\n\n\n\nNov 15\n\n\n\n\n\nNov 15\nLab: Multiple regression\nchap ??\nReport 6: Multi-way ANOVA\n\n\nNov 20\n\n\n\n\n\nNov 22\n\n\n\n\n\nNov 22\nLab: General linear model\nchap ??\nReport 7: Multiple regression\n\n\nNov 27\n\n\n\n\n\nNov 29\n\n\n\n\n\nNov 29\nLab: Analysis of frequency data\nchap ??\nReport 8: General linear model\n\n\nDec 4\nQ&A\n\n\n\n\nDec 6\nNo lecture\n\n\n\n\nDec 6\nNo lab\n\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "text": "Date\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 4\nNo lab\n\n\n\n\n\nSep 9\nConfidence intervals & statistical models\n\n\n\n\nSep 11\nGaussian dist, SEM & CLT\n\n\n\n\nSep 11\nNo lab\n\n\n\n\n\nSep 16\n\n\n\n\n\nSep 18\n\n\n\n\n\nSep 18\nLab: intro to R\nchap 1-4\n\n\n\nSep 23\nIntroduction to Github\n\n\n\n\nSep 25\n\n\n\n\n\nSep 25\nLab: Power analysis with GPower*\nchap ??\nReport 1: Hypothesis\n\n\nSep 30\n\n\n\n\n\nOct 2\n\n\n\n\n\nOct 2\nLab: Correlation & linear regression\nchap ??\nReport 2: power\n\n\nOct 7\n\n\n\n\n\nOct 9\n\n\n\n\n\nOct 9\nLab: Two-sample comparisons\nchap ??\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 21\n\n\n\n\n\nOct 23\n\n\n\n\n\nOct 23\nLab: One-way ANOVA\nchap ??\nReport 4: Two-sample comparisons\n\n\nOct 28\n\n\n\n\n\nOct 30\nNo class\n\n\n\n\nOct 30\nMid-term\n\n\nin person during practical\n\n\nNov 4\n\n\n\n\n\nNov 6\n\n\n\n\n\nNov 6\nLab: Multiway ANOVA\nchap ??\nReport 5: One-way ANOVA\n\n\nNov 11\n\n\n\n\n\nNov 13\n\n\n\n\n\nNov 13\nLab: Multiple regression\nchap ??\nReport 6: Multi-way ANOVA\n\n\nNov 18\n\n\n\n\n\nNov 20\n\n\n\n\n\nNov 20\nLab: General linear model\nchap ??\nReport 7: Multiple regression\n\n\nNov 25\n\n\n\n\n\nNov 27\n\n\n\n\n\nNov 27\nLab: Analysis of frequency data\nchap ??\nReport 8: General linear model\n\n\nDec 2\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
     "crumbs": [
+      "Biostats uOttawa",
       "Lectures"
     ]
   },
@@ -749,6 +789,7 @@
     "section": "About slides  and notes ",
     "text": "About slides  and notes \n\nSlides \nSlides in revealjs format (html). If you want then as a pdf (note you might loose some functionality or contents due to tabs and scroll sections):\n\nOpen the slides in your browser from a link on this page\nPress e to get into the PDF export mode (?print-pdf should appear near the end of the url and white borders should appear)\nOpen the in-browser print dialog (CTRL/CMD+P).\nChange the Destination setting to Save as PDF.\nChange the Layout to Landscape.\nChange the Margins to None.\nEnable the Background graphics option (if you want it)\nClick Save 🎉\n\n\n\nNotes \nContent of the slides in html format as a self-contained downloadable file and including tabs and scroll sections.\nMore importantly, notes have the commenting and annotateing tools activated via https://hypothes.is/. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.",
     "crumbs": [
+      "Biostats uOttawa",
       "Lectures"
     ]
   },
@@ -759,6 +800,7 @@
     "section": "",
     "text": "All data and code files in a nice zip file",
     "crumbs": [
+      "Biostats uOttawa",
       "Data and code"
     ]
   },
@@ -769,6 +811,7 @@
     "section": "Data for practicals",
     "text": "Data for practicals\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
     "crumbs": [
+      "Biostats uOttawa",
       "Data and code"
     ]
   },
@@ -779,6 +822,7 @@
     "section": "R code and functions used in slides",
     "text": "R code and functions used in slides",
     "crumbs": [
+      "Biostats uOttawa",
       "Data and code"
     ]
   },
@@ -801,13 +845,13 @@
     "href": "en/who_when.html#office-hours",
     "title": "Bio4x58 / Bio5x58",
     "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Wed 1100-1200 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)"
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nIgor Tex: Fri 5.00-5.45pm (in-person)\nBob Hêtte: Thu 6.00-6.45pm (in-person)"
   },
   {
     "objectID": "en/who_when.html#schedule",
     "href": "en/who_when.html#schedule",
     "title": "Bio4x58 / Bio5x58",
     "section": "Schedule ",
-    "text": "Schedule \n\nLectures\n\nMondays, 1430-1720 in CRX-C323\nWednesdays, 1430-1720 in CRX-C323\n\nPracticals\n\nWednesdays, 1430-1720 in CRX-C323\n\n\nThere are no lectures or tutorials during reading week."
+    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in SMD-224\nWednesdays, 1130-1250 in SMD-224\n\nPracticals\n\nWednesdays, 1430-1720 in LPR-155\n\n\nThere are no lectures or tutorials during reading week."
   }
 ]
