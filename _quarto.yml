@@ -19,7 +19,7 @@ website:
   repo-url: https://github.com/biostats-uottawa/bioxx58/
   repo-actions: [issue]
   navbar:
-    title: '![](/img/logo_hex.png){width="50px"} Bio4x58 / Bio5x58' 
+    title: '![](/img/logo_hex.png){width="50px"} Intro Biostats & R (BioXx58)' 
     left:
       - text: Biostats uOttawa
         href: https://biostats-uottawa.github.io/
@@ -48,7 +48,7 @@ website:
       align: left
       contents:
         - icon: flag
-          text: English (Bio4158)
+          text: English (Bio4158/5158)
           href: en/index.qmd
         - text: Info générale
           href: fr/index.qmd
@@ -69,7 +69,7 @@ website:
       collapse-level: 2
       contents:
         - icon: flag
-          text: Français (Bio4558)
+          text: Français (Bio4558/5558)
           href: fr/index.qmd
         - text: Course info
           href: en/index.qmd
