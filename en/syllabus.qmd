@@ -12,13 +12,15 @@ Consequences of violating assumptions of different tests.
 Monte Carlo and Bootstrap analysis.
 Case studies and exercises in using statistical analysis packages.
 
+The course covers the fundations of statistics (distributions, CIs, p-values, central limit theorem, Bayesian thinking, ...) and linear models (t-test, ANOVA, regression, ANCOVA, general linear model) using R.
+
 # Classes
 
 * Duration: 2 lectures of 1h20 and a 2h50 practical each week
 <!-- * Style: mix of lecture, discussion and practical -->
 * How: In-person. 
 * When: Usually Mondays and Wednesdays during the fall term
-* Course info and slides: <https://biostats-uottawa.github.io/bioxx58_course/>
+* Course info and slides: <https://biostats-uottawa.github.io/bioXx58/>
 * Lab manual: <https://biostats-uottawa.github.io/R/en/>
 
 # Prerequisite

@@ -18,7 +18,7 @@ Case studies and exercises in using statistical analysis packages.
 <!-- * Style: mix of lecture, discussion and practical -->
 * How: In-person. 
 * When: Usually Mondays and Wednesdays during the fall term
-* Course info and slides: <https://biostats-uottawa.github.io/bioxx58_course/>
+* Course info and slides: <https://biostats-uottawa.github.io/bioXx58/>
 * Lab manual: <https://biostats-uottawa.github.io/R/en/>
 
 # Prerequisite

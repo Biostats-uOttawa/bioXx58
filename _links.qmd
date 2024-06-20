@@ -1,11 +1,3 @@
-
-[manual_4158]: https://biostats-uottawa.github.io/bio4158_manual/ 
-[manual_4558]: https://biostats-uottawa.github.io/bio4158_manual/ 
-[manual_8940]: https://biostats-uottawa.github.io/bio8940_manual/
-
-[p_rmarkdown]: https://biostats-uottawa.github.io/bio8940_manual/2.2-practical.html
-[p_github]: https://biostats-uottawa.github.io/bio8940_manual/3.2-git_practical.html
-
 [lab_website]: https://juliengamartin.github.io/
 [moi_uo]: https://www.uottawa.ca/faculty-science/professors/julien-martin
 [moi_github]: https://github.com/juliengamartin
@@ -26,4 +18,6 @@
 
 [r_way_en]: https://biostats-uottawa.github.io/R/en/
 [r_way_fr]: https://biostats-uottawa.github.io/R/fr/
+[r_chap_en]: https://biostats-uottawa.github.io/R/en/#chapters-to-read
+[r_chap_fr]: https://biostats-uottawa.github.io/R/fr/#chapitres-a-lire
 [brightspace]: https://uottawa.brightspace.com/d2l/home

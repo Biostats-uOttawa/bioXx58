@@ -11,7 +11,7 @@ Practicals will be done in teams of 1-3 for the entire term.
 Please bring your laptop and make sure to have a recent version of [`R`][cran] (4.0.0 or higher) as well as a R IDE such as [`RStudio`][rstudio_d] or [`VSCode`][vscode_d].
 Finally it is highly recommended to also have [`quarto`][quarto_install] software to produce reproducible reports.
 
-You will find all the practicals exercises in the book ["On the R way to hell"][r_way_en] with specific chapters to read and work on indicated in the [schedule](lectures.qmd).
+You will find all the practicals exercises in the book ["On the R way to hell"][r_way_en] with specific chapters to read and work on indicated in the [schedule](lectures.qmd) (for an overview see [here][r-chap-en]).
 
 As part of the course you will have to submit lab reports (see [Assessments](assessment.qmd) for details).
 

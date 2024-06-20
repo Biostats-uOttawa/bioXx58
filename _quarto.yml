@@ -15,8 +15,8 @@ website:
 #  margin-header: "![](/img/logo_hex.png){width='100px'}"
   description: "Intro. Biostat."
   favicon: /img/logo_hex.png
-  site-url: https://biostats-uottawa.github.io/bioxx58/
-  repo-url: https://github.com/biostats-uottawa/bioxx58/
+  site-url: https://biostats-uottawa.github.io/bioXx58/
+  repo-url: https://github.com/biostats-uottawa/bioXx58/
   repo-actions: [issue]
   navbar:
     title: '![](/img/logo_hex.png){width="50px"} Intro Biostats & R (BioXx58)' 
@@ -24,9 +24,9 @@ website:
       - text: Biostats uOttawa
         href: https://biostats-uottawa.github.io/
 #      - text: Intro Biostats & R (BioXx58)
-#        href: https://biostats-uottawa.github.io/bioxx58/
+#        href: https://biostats-uottawa.github.io/bioXx58/
       - text: Biostats adv. / av.(Bio8940)
-        href: https://biostats-uottawa.github.io/bio8940_course/
+        href: https://biostats-uottawa.github.io/bio8940/
       - text: Livre / Book
         menu:
           - text: R-way to hell
@@ -37,9 +37,9 @@ website:
     #   - icon: github
     #     menu:
     #     - text: Code
-    #       href: https://github.com/biostats-uOttawa/bio8940_course
+    #       href: https://github.com/biostats-uOttawa/bio8940
     #     - text: Issues
-    #       href: https://github.com/Biostats-uOttawa/bio8940_course/issues
+    #       href: https://github.com/Biostats-uOttawa/bio8940/issues
   sidebar:
     - id: fr
       title: "Français"
