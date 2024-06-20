@@ -153,7 +153,7 @@
     "href": "en/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Applied biostatistics to real problems. Experimental design and data collection. Consequences of violating assumptions of different tests. Monte Carlo and Bootstrap analysis. Case studies and exercises in using statistical analysis packages.",
+    "text": "Applied biostatistics to real problems. Experimental design and data collection. Consequences of violating assumptions of different tests. Monte Carlo and Bootstrap analysis. Case studies and exercises in using statistical analysis packages.\nThe course covers the fundations of statistics (distributions, CIs, p-values, central limit theorem, Bayesian thinking, …) and linear models (t-test, ANOVA, regression, ANCOVA, general linear model) using R.",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
@@ -362,7 +362,7 @@
     "href": "en/practical.html",
     "title": "Practicals",
     "section": "",
-    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule.\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
+    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule (for an overview see [here][r-chap-en]).\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
     "crumbs": [
       "Biostats uOttawa",
       "Practicals"
@@ -428,14 +428,14 @@
     "href": "fr/404.html",
     "title": "Page Not Found",
     "section": "",
-    "text": "It seems you  lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
   },
   {
     "objectID": "en/404.html",
     "href": "en/404.html",
     "title": "Page Not Found",
     "section": "",
-    "text": "It seems you  lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
   },
   {
     "objectID": "en/people.html",
