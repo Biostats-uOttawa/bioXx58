@@ -39,7 +39,7 @@ schedule:
   - week: 4
     session: 3
     topic: "[Lab: *Power analysis with G*Power*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 8](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 1: Hypothesis"
   - week: 5
     session: 1
@@ -50,7 +50,7 @@ schedule:
   - week: 5
     session: 3
     topic: "[Lab: *Correlation & linear regression*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 9](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 2: power"
   - week: 6
     session: 1
@@ -61,7 +61,7 @@ schedule:
   - week: 6
     session: 3
     topic: "[Lab: *Two-sample comparisons*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 10](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 3: Regression"
 ################################################################################
 ## reading_week
@@ -87,7 +87,7 @@ schedule:
   - week: 8
     session: 3
     topic: "[Lab: *One-way ANOVA*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 11](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 4: Two-sample comparisons"
   - week: 9
     session: 1
@@ -98,7 +98,7 @@ schedule:
   - week: 9
     session: 3
     topic: "[Lab: *Multiway ANOVA*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 12](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 5: One-way ANOVA"
   - week: 10
     session: 1
@@ -109,7 +109,7 @@ schedule:
   - week: 10
     session: 3
     topic: "[Lab: *Multiple regression*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 13](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 6: Multi-way ANOVA"
   - week: 11
     session: 1
@@ -120,7 +120,7 @@ schedule:
   - week: 11
     session: 3
     topic: "[Lab: *General linear model*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 14](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 7: Multiple regression"
   - week: 12
     session: 1
@@ -131,7 +131,7 @@ schedule:
   - week: 12
     session: 3
     topic: "[Lab: *Analysis of frequency data*]{.underline}"
-    reading: "[chap ??](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 15](https://biostats-uottawa.github.io/R/en/)"
     assessment: "Report 8: General linear model"
   - week: 13
     session: 1
@@ -151,20 +151,20 @@ team:
     role: lecturer
     consult: Monday 1430-1530 (in-person & online)
     contact: "[email](people.qmd)"
-  - name: Igor Tex
+  - name: Lydia Yu
     role: TA
-    consult: Fri 5.00-5.45pm (in-person)
-    contact: "[email](mailto:tex-igor@uottawa.ca)"
-  - name: Bob Hêtte
+    consult: TBA (in-person)
+    contact: "[email](mailto:lyu047@uottawa.ca)"
+  - name: Wyeth Blumberg 
     role: TA
-    consult: Thu 6.00-6.45pm (in-person)
-    contact: "[email](mailto:hette-bob@uottawa.ca)"
+    consult: TBA (in-person)
+    contact: "[email](mailto:wblum097@uottawa.ca)"
 
 timetable:
   - class: Lecture
     day: Mondays
     when: 1300-1420
-    where: SMD-224
+    where: SMD-425
   - class: Lecture
     day: Wednesdays
     when: 1130-1250
@@ -172,4 +172,4 @@ timetable:
   - class: Practical
     day: Wednesdays
     when: 1430-1720
-    where: LPR-155
+    where: MNT-141/142

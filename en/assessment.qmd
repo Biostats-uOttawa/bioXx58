@@ -3,16 +3,15 @@
 ## Assessment weights
 ### Bio4158
 
-* Lab assignments: 40% (8 reports, 5% each)
-* Midterm (during lab): 20%
-* Final exam: 40%
+* Lab assignments: 40% (8 reports throughout the term, 5% each)
+* Midterm (during lab after reading week): 20%
+* Final exam (during exam week): 40%
 
 ### Bio5158
 
-* Lab assignments: 40% (8 reports, 5% each)
-* Midterm (during lab): 20%
-* Final exam: 30%
-* Extra report: 10%
+* Lab assignments: 40% (8 reports throughout the term, 5% each)
+* Midterm (during lab after reading week): 20%
+* Final report (to submit before exam week): 40%
 
 ## Lab assignments
 
@@ -35,13 +34,11 @@ A make-up will not be offered.
 <!-- Those with a valid excuse for missing the midterm (e.g., a doctor’s note) will have the final exam re-weighted to be worth 50%.-->
 The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won't count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.
 
-<!--
-### Session project
-
-The final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.
--->
 ### Final exam
 
 This is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code. 
 
+
 ## Extra report (Bio5158 only)
+
+The final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.

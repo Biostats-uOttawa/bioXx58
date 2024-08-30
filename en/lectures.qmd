@@ -15,6 +15,10 @@ dat <- read_yaml("_course.yml")
 extract_course(dat)
 ```
 
+::: {.callout-caution}
+# Slides availability and submissions
+Slides and submission of course work is done via [brighspace](https://uottawa.brightspace.com/d2l/home). 
+:::
 
 ## Schedule 
 

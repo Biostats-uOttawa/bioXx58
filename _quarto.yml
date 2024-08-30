@@ -11,7 +11,7 @@ project:
 #  freeze: auto
 website:
   google-analytics: G-6LLMGL3T2Q
-  title: "Bio4x58 / Bio5x58"
+  title: "Bio4x58-5x58"
 #  margin-header: "![](/img/logo_hex.png){width='100px'}"
   description: "Intro. Biostat."
   favicon: /img/logo_hex.png

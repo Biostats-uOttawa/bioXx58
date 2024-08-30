@@ -17,11 +17,14 @@ The course covers the fundations of statistics (distributions, CIs, p-values, ce
 # Classes
 
 * Duration: 2 lectures of 1h20 and a 2h50 practical each week
-<!-- * Style: mix of lecture, discussion and practical -->
+* Style: mix of lecture, discussion and practical
 * How: In-person. 
-* When: Usually Mondays and Wednesdays during the fall term
 * Course info and slides: <https://biostats-uottawa.github.io/bioXx58/>
 * Lab manual: <https://biostats-uottawa.github.io/R/en/>
+
+{{< include who_when.qmd >}}
+
+See the [course website](lectures.qmd) for details of the schedule
 
 # Prerequisite
 
@@ -56,16 +59,17 @@ If you feel an error has been made in the grading of an assignment or exam, you 
 
 When a regrading occurs, the new mark will stand whether it is higher or lower, so there is no guarantee your mark will increase. Simple adding mistakes unfortunately happen on occasion given the volume of assignments and exams we have to mark and such cases are easy to correct. However, disputes over partial marks on partially correct answers will not always work out in your favour and should be reserved for situations in which you feel you have a strong case. When requesting a regrading, you must provide an explanation as to what you feel the issue is (i.e. why you think you deserve a higher grade). The more specific this is the better your chance of success.
 
-I do not consider arguments for additional marks simply because you are close to the next letter grade. Sorry.
+I do not consider arguments for additional marks simply because you are close to the next letter grade.
 
 
 # Plagiarism
-
-Plagiarism is the act of passing off someone else’s words or ideas as your own. Plagiarism is a major academic offence (see the University of Ottawa regulation on academic fraud: Academic fraud) and is also illegal. We uphold the law. It is critical that you understand what constitutes plagiarism and how you can avoid it. For more information, consult the following document from the Student Academic Success Service.
+Plagiarism is the act of passing off someone else’s words or ideas as your own. Plagiarism is a major academic offense (see the University of Ottawa regulation on academic fraud: Academic fraud) and is also illegal. We uphold the law. It is critical that you understand what constitutes plagiarism and how you can avoid it. For more information, consult the following document from the Student Academic Success Service.
 
 # Attendance
-
 As per uOttawa policy, to ensure they succeed in all courses of their program of study, students have the responsibility to participate in the various learning and assessment activities for this course. Attendance of the lectures and laboratory are not formally required for this course, although both are STRONGLY recommended. The supplied lecture slides will not include all content presented and discussed in class, and teaching assistants and the professor are available during the labs for help with exercises and assignments. TA and professor office hours are to allow you an opportunity to ask questions related to course material and cannot replace a missed lecture or lab.
+
+# Bilingualism
+Except in programs and courses for which language is a requirement, all students have the right to produce their written work and to answer examination questions in the official language of their choice, regardless of the course’s language of instruction.
 
 
 
