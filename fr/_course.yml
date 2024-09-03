@@ -1,129 +1,171 @@
 date_start: "2024-09-04"
-date_read: "2023-10-13"
-date_thks: "2023-10-14"
+date_read:  "2024-10-13"
+date_thks:  "2024-10-14"
+date_final: "2024-12-05"
 
 schedule:
-  - week: 0
+  - week: 1
     session: 2 
     topic: Introduction
   - week: 1
-    session: 1
-    topic: "Introduction"
-    topic_fr: "Introduction"
-    reading: "@smaldino_natural_2016"
-  - week: 1
-    session: 2
-    topic: "Awesome subject"
-  - week: 1
     session: 3
-    topic: "*Lab: intro to R*"
-    reading: "[chap 3](https://biostats-uottawa.github.io/)"
+    topic: "Pas de labo"
   - week: 2
     session: 1
-    topic: ""
+    topic: "Échantillons et populations"
   - week: 2
     session: 2
-    topic: ""
+    topic: "Distributions"
+  - week: 2
+    session: 3
+    topic: "Pas de labo"
+  - week: 3
+    session: 1
+    topic: "Statistiques sommaires et intervalles de confiance"
+  - week: 3
+    session: 2
+    topic: "Valeurs de P et test d'hypothèse"
   - week: 3
     session: 3
-    topic: "Introduction to Github"
-    topic_fr: "Introduction à Github"
-#    tools: ""
-#    assessment: "Assessment 2 **due Fri 6 Oct 11:55 PM**"
-    reading: "@ivimey-cook_implementing_2023"
-  - week: 3
-    session: 2
-    topic: ""
+    topic: "[Lab: *intro à R*]{.underline}"
+    reading: "[chap 1-4](https://biostats-uottawa.github.io/R/en/)"
+    assessment: ""
   - week: 4
     session: 1
-    topic: ""
+    topic: "Puissance statistique et inférence bayésienne"
   - week: 4
     session: 2
-    topic: ""
+    topic: "Corrélation et régression linéaire simple"
+  - week: 4
+    session: 3
+    topic: "[Lab: *Puissance statistique]{.underline}"
+    reading: "[chap 8](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 1: Hypothèses"
   - week: 5
     session: 1
-    topic: " Thanksgiving"
+    topic: "Corrélation et régression linéaire simple"
   - week: 5
     session: 2
-    topic: ""
+    topic: "Comparaison de 2 groupes"
+  - week: 5
+    session: 3
+    topic: "[Lab: *Corrélation et régression linéaire simple*]{.underline}"
+    reading: "[chap 9](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 2: puissance"
   - week: 6
     session: 1
-    topic: ""
+    topic: "Comparaison de 2 groupes"
   - week: 6
     session: 2
-    topic: ""
-# reading_week
+    topic: "ANOVA simple"
+  - week: 6
+    session: 3
+    topic: "[Lab: *ANOVA simple*]{.underline}"
+    reading: "[chap 10](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 3: Régression"
+################################################################################
+## reading_week
   - week: 21
-    topic: "**Reading week**"
-# reading week
+    topic: "**Semaine de relâche**"
+################################################################################
   - week: 7
     session: 1
-    topic: ""
+    topic: "ANOVA simple"
   - week: 7
     session: 2
-    topic: "No class"
+    topic: "Pas de classe"
   - week: 7
     session: 3
-    topic: "**Mid-term**"
-    assessment: "in person during practical"
+    topic: "**Mid-session**"
+    assessment: "en personne pendant le labo"
   - week: 8
     session: 1
-    topic: ""
+    topic: "ANOVA multiple"
   - week: 8
     session: 2
-    topic: ""
+    topic: "ANOVA multiple"
+  - week: 8
+    session: 3
+    topic: "[Lab: *ANOVA simple*]{.underline}"
+    reading: "[chap 11](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 4: Comparaison de 2 groupes"
   - week: 9
     session: 1
-    topic: ""
+    topic: "Régression multiple"
   - week: 9
     session: 2
-    topic: ""
+    topic: "Régression multiple"
+  - week: 9
+    session: 3
+    topic: "[Lab: *ANOVA multiple*]{.underline}"
+    reading: "[chap 12](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 5: One-way ANOVA"
   - week: 10
     session: 1
-    topic: ""
+    topic: "Modèle linéaire général"
   - week: 10
     session: 2
-    topic: ""
+    topic: "Modèle linéaire général"
+  - week: 10
+    session: 3
+    topic: "[Lab: *Régression multiple*]{.underline}"
+    reading: "[chap 13](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 6: ANOVA multiple"
   - week: 11
     session: 1
-    topic: ""
+    topic: "Proportion, compte et modèles log-linéaires"
   - week: 11
+    session: 2
+    topic: "Proportion, compte et modèles log-linéaires"
+  - week: 11
+    session: 3
+    topic: "[Lab: *Modèle linéaire général*]{.underline}"
+    reading: "[chap 14](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 7: Régression multiple"
+  - week: 12
+    session: 1
+    topic: "Modèles linéaires généralisés (intro)"
+  - week: 12
     session: 2
     topic: ""
   - week: 12
+    session: 3
+    topic: "[Lab: *Analyse de données de fréquence*]{.underline}"
+    reading: "[chap 15](https://biostats-uottawa.github.io/R/en/)"
+    assessment: "Rapport 8: Modèle linéaire général"
+  - week: 13
     session: 1
-    topic: "Q&A"
-  - week: 12
-    session: 2
-    topic: "No lecture"
+    topic: "Q&R"
+#  - week: 12
+#    session: 2
+#    topic: "No lecture"
+#  - week: 12
+#    session: 3
+#    topic: "No lab"
   - week: 31
-    topic: "**Final exam**"
-    assessment: "during exam period"
+    topic: "**Examen final**"
+    assessment: "pendant la semaine d'examen"
 
 team:
   - name: Julien Martin
     role: lecturer
-    consult: Monday 1430-1530 (in-person & online)
+    consult: Lundi 1430-1530 (in-person & online)
     contact: "[email](people.qmd)"
-  - name: Igor Tex
+  - name: Augustin Birot
     role: TA
-    consult: Fri 5.00-5.45pm (in-person)
-    contact: "[email](mailto:tex-igor@uottawa.ca)"
-#  - name: Bob Hêtte
-#    role: TA
-#    consult: Thu 6.00-6.45pm (in-person)
-#    contact: "[email](mailto:hette-bob@uottawa.ca)"
+    consult: TBA (in-person)
+    contact: "[email](mailto:abiro093@uottawa.ca)"
 
 timetable:
   - class: Lecture
     day: Lundi
     when: 1000-1120
-    where: TBD
+    where: MRT-219
   - class: Lecture
     day: Mercredi
     when: 0830-0950
-    where: TBD
-  - class: Practical
-    day: Jeudi
-    when: 1130-1420
-    where: TBD
+    where: CRX-440
+  - class: Labos
+    day: Mercredi
+    when: 1100-1420
+    where: MNT-141

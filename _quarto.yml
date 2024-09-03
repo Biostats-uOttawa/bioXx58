@@ -52,7 +52,7 @@ website:
           href: en/index.qmd
         - text: Info générale
           href: fr/index.qmd
-        - text: Diapos et notes
+        - text: Calendrier
           href: fr/lectures.qmd
         - text: Labo
           href: fr/practical.qmd
@@ -73,7 +73,7 @@ website:
           href: fr/index.qmd
         - text: Course info
           href: en/index.qmd
-        - text: Lectures
+        - text: Schedule
           href: en/lectures.qmd
         - text: Practicals
           href: en/practical.qmd

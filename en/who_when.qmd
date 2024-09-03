@@ -14,8 +14,8 @@ extract_course(dat)
 
 ```
 
-## Teaching team
-### Lecturer {{< fa person-chalkboard >}}
+## Teaching team {{< fa person-chalkboard >}}
+### Lecturer 
 
 ```{r}
 #| label: lecturers

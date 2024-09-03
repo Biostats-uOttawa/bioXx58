@@ -15,14 +15,16 @@ about:
       text: lab page
       href: https://juliengamartin.github.io/
     - icon: envelope
-      text: email
+      text: courriel
       href: "mailto:julien.martin@uottawa.ca"
 ---
 
-Julien is an Associate Professor at the University of Ottawa and has
-been teaching (and learning) R for the last 15 years.
+Julien est Professeur agrégé à l'Université d'Ottawa en biologie
+évolutive et quantitative et il enseigne R (et l'apprend) depuis plus de
+15 ans.
 
-I created the websites using `Quarto`, `R`, `revealjs`, `mermaid.js` and
-`graphViz`. I developed the theme for the slides based on the [xaringan
-blackboard
-theme](https://github.com/juancarloscastillo/xaringan-themes-blackboard).
+J'ai créé le site internet en utilisant `Quarto`, `R`, `revealjs`,
+`mermaid.js` et `graphViz`. J'ai developpé le thème de mes présentations
+à partir de du theme ["blackboard" pour
+xaringan](https://github.com/juancarloscastillo/xaringan-themes-blackboard).
+

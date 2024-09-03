@@ -1,27 +1,27 @@
 ---
-title: |
- Biostatistiques appliquées avec R</br>
+title : 
+  Biostatistique appliquée avec R </br>
   (Bio4558 / Bio5558)
-format:
-  html:
-    toc: true
-    css: ../css/header.css
+format :
+  html :
+    toc : true
+    css : ../css/header.css
 ---
 
 {{< include ../_links.qmd >}}
 
-This is the site for the courses Bio4158/Bio5158  at the University of Ottawa.
-You will find all the course information including the course schedule, slides, course notes, practicals info and exercises, description of assessments as well as the (official) syllabus for the course.
+Ceci est le site pour les cours Bio 4558 / 5158 à l'Université d'Ottawa.
+Vous y trouverez toutes les informations sur le cours, y compris l'horaire du cours, les diapositives, les notes de cours, les informations et exercices pratiques, la description des évaluations ainsi que le syllabus (officiel) du cours.
 
-Submission of course work is done via [brighspace](https://uottawa.brightspace.com/d2l/home).
+La soumission des travaux de cours se fait via [brighspace](https://uottawa.brightspace.com/d2l/home).
  
-# Who and when 
+# Qui et quand
 {{< include who_when.qmd >}}
 
-# Software and account requirements
+# Logiciels et comptes requis
 
-* [`R`][cran] version 4.0.0 or higher
+* [`R`][cran] version 4.0.0 ou supérieure
 
-* a R IDE: [`RStudio`][rstudio_d] or [`VSCode`][vscode_d]
+* un IDE R : [`RStudio`][rstudio_d] ou [`VSCode`][vscode_d]
 
-* [`quarto`][quarto_install] software is strongly recommended
+* Le logiciel [`quarto`][quarto_install] est fortement recommandé.

@@ -1,5 +1,5 @@
 ---
-title: Slides and course notes
+title: Diapositives et notes de cours
 ---
 
 {{< include ../_links.qmd >}}
@@ -15,8 +15,14 @@ dat <- read_yaml("_course.yml")
 extract_course(dat)
 ```
 
+:: : {.callout-caution}
 
-## Schedule 
+# Disponibilité des diapositives et soumissions
+
+Les diapositives et la soumission des travaux de cours se font via [brighspace](https://uottawa.brightspace.com/d2l/home).
+:: :
+
+## Calendrier
 
 ```{r}
 check <- character(0)
@@ -25,9 +31,9 @@ schedule <- schedule_df %>%
   mutate(
     day = case_match(
       session,
-      1 ~ "mon",
-      2 ~ "wed",
-      3 ~ "thu"
+      1 ~ "Lun",
+      2 ~ "Mer",
+      3 ~ "Jeu"
     ),
     qmd_file = ifelse(
       identical(
@@ -65,25 +71,37 @@ schedule <- schedule_df %>%
     Reading = ifelse(is.na(reading), "", reading),
     Date = as.Date(
       case_when(
-        week > 20 ~ NA,
-        day == "wed" & week <= 6 ~ ymd(dat$date_start) + weeks(week),
-        day == "wed" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1),
-        day == "mon" & week <= 6 ~ ymd(dat$date_start) + weeks(week) - days(2),
-        day == "mon" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1) - days(2),
-        day == "thu" & week <= 6 ~ ymd(dat$date_start) + weeks(week) + days(1),
-        day == "thu" & week > 6 ~ ymd(dat$date_start) + weeks(week + 1) + days(1)
+        week == 21 ~ ymd(dat$date_read),
+        week == 31 ~ ymd(dat$date_final),
+        day == "Mer" & week <= 6 ~ ymd(dat$date_start) + weeks(week - 1),
+        day == "Mer" & week > 6 ~ ymd(dat$date_start) + weeks(week),
+        day == "Lun" & week <= 6 ~ ymd(dat$date_start) + weeks(week - 1) - days(2),
+        day == "Lun" & week > 6 ~ ymd(dat$date_start) + weeks(week) - days(2),
+        day == "Jeu" & week <= 6 ~ ymd(dat$date_start) + weeks(week - 1) + days(1),
+        day == "Jeu" & week > 6 ~ ymd(dat$date_start) + weeks(week) + days(1)
       )
     ),
     wk = ifelse((week %% 2) == 0, "a", ifelse(week < 20, "b", "c"))
   ) %>%
-  select(Date, Topic, Material, Assessment, week, wk)
+  select(Date, Topic, Material, Assessment, week, wk) %>%
+  arrange(Date) %>%
+  mutate(Date = case_match(week,
+    21 ~ NA,
+    31 ~ NA,
+    .default = Date
+  )) %>%
+  rename(
+    Sujet = "Topic",
+    Doc = "Material",
+    `Évaluation` = "Assessment"
+  )
 
 midsem_break <- 6 # after which week
 
 schedule |>
   gt() |>
   cols_hide(c(week, wk)) |>
-  fmt_markdown(columns = c("Topic", "Material", "Assessment")) |>
+  fmt_markdown(columns = c("Sujet", "Doc", "Évaluation")) |>
   fmt_date(
     columns = Date,
     date_style = "MMMd",
@@ -102,7 +120,7 @@ schedule |>
   # row_group_order(groups = c(NA, "Reading week")) |>
   cols_width(
     Date ~ px(50),
-    Material ~ px(20)
+    `Évaluation` ~ px(20)
   ) |>
   sub_missing(missing_text = "") |>
   tab_options(
@@ -110,23 +128,25 @@ schedule |>
   )
 ```
 
-## About slides {{< fa display >}} and notes {{< fa note-sticky >}}
+## À propos des diapositives {{< fa display >}} et notes {{< fa note-sticky >}}
 
-### Slides {{< fa display >}} 
+### Diapositives {{< fa display >}}
 
-Slides in `revealjs` format (html). If you want then as a pdf (*note you might loose some functionality or contents due to tabs and scroll sections*):
+Diapositives en `revealjs` format (html). Si vous les souhaitez en format pdf (*Remarque : il se peut que vous perdiez certaines fonctionnalités ou certains contenus en raison des onglets et des sections de défilement.*) :
 
-1. Open the slides in your browser from a link on this page
-2. Press `e` to get into the PDF export mode (*`?print-pdf` should appear near the end of the url and white borders should appear*)
-1. Open the in-browser print dialog (CTRL/CMD+P).
-1. Change the `Destination` setting to `Save as PDF`.
-1. Change the `Layout` to `Landscape`.
-1. Change the `Margins` to `None`.
-1. Enable the Background graphics option (if you want it)
-1. Click Save 🎉
+1. Ouvrez les diapositives dans votre navigateur à partir d'un lien sur cette page
+2. Appuyez sur `e` pour passer en mode d'exportation PDF (*`?print-pdf` devrait apparaître vers la fin de l'url et des bordures blanches devraient apparaître.*)
+3. Ouvrez la boîte de dialogue d'impression du navigateur (CTRL/CMD+P).
+4. Modifiez l'option `Destination` en `Save as PDF`.
+5. Modifier le `Layout` à `Landscape`.
+6. Modifier le `Margins` à `None`.
+7. Activez l'option Graphiques d'arrière-plan (si vous le souhaitez)
+8. Cliquez sur Enregistrer 🎉
 
 ### Notes {{< fa note-sticky >}}
 
-Content of the slides in html format as a self-contained downloadable file and including tabs and scroll sections. 
+Contenu des diapositives au format html sous la forme d'un fichier téléchargeable autonome et comprenant des onglets et des sections de défilement.
 
-More importantly, notes have the commenting and annotateing tools activated via <https://hypothes.is/>. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.
+Plus important encore, les notes ont les outils de commentaire et d'annotation activés via [https://hypothes.is/](https://hypothes.is/). Si vous créez un compte gratuit, vous pouvez annoter et commenter des diapositives et partager vos annotations/commentaires avec le public ou via des groupes privés ou publics.
+
+

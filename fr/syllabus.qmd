@@ -4,67 +4,74 @@ title: Syllabus
 
 {{< include ../_links.qmd >}}
 
-# Course description
+# Description du cours
 
-Applied biostatistics to real problems.
-Experimental design and data collection.
-Consequences of violating assumptions of different tests.
-Monte Carlo and Bootstrap analysis.
-Case studies and exercises in using statistical analysis packages.
+Biostatistique appliquée à des problèmes réels.
+Conception expérimentale et collecte de données.
+Conséquences de la violation des hypothèses de différents tests.
+Analyse de Monte Carlo et Bootstrap.
+Études de cas et exercices d'utilisation de progiciels d'analyse statistique.
 
-# Classes
+Le cours couvre les fondements des statistiques (distributions, ICs, p-values, théorème de la limite centrale, pensée bayésienne, ...) et les modèles linéaires (t-test, ANOVA, régression, ANCOVA, modèle linéaire général) en utilisant R.
 
-* Duration: 2 lectures of 1h20 and a 2h50 practical each week
-<!-- * Style: mix of lecture, discussion and practical -->
-* How: In-person. 
-* When: Usually Mondays and Wednesdays during the fall term
-* Course info and slides: <https://biostats-uottawa.github.io/bioXx58/>
-* Lab manual: <https://biostats-uottawa.github.io/R/en/>
+# Cours
 
-# Prerequisite
+- Durée : 2 cours magistraux de 1h20 et un cours pratique de 2h50 par semaine
+- Style : mélange d'exposés, de discussions et de travaux pratiques
+- Comment ? En personne.
+- Informations sur le cours et diapositives : [https://biostats-uottawa.github.io/bioXx58/](https://biostats-uottawa.github.io/bioXx58/)
+- Manuel de laboratoire : [https://biostats-uottawa.github.io/R/en/](https://biostats-uottawa.github.io/R/en/)
 
-MAT 2379/2779 or an equivalent introductory statistics course
+{{< include who_when.qmd >}}
 
-# Course objectives
+Voir le [site web du cours](lectures.qmd) pour les détails de l'horaire
 
-* Understand the fundamental principles of statistical inference
-* Understand the general principles underlying the most common tests
-* Know the assumptions underlying common tests and understand the impact of violating them
-* Be able to perform standard statistical analyses using R
-* Acquire the capacity to correctly interpret the statistical and biological significance of statistical tests
+# Conditions préalables
 
-# Organization
+MAT 2379/2779 ou un cours d'introduction aux statistiques équivalent.
 
-Lectures and class discussions on most common statistical tests.
+# Objectifs du cours
 
-Laboratory exercises that illustrate main concepts and allow application of theory to real situations.
+- Comprendre les principes fondamentaux de l'inférence statistique
+- Comprendre les principes généraux qui sous-tendent les tests les plus courants
+- Connaître les hypothèses sous-jacentes aux tests les plus courants et comprendre l'impact de leur violation
+- Être capable d'effectuer des analyses statistiques standard à l'aide de R
+- Acquérir la capacité d'interpréter correctement la signification statistique et biologique des tests statistiques
 
-# Texts and software
+# Organisation
 
-* (recommended but not mandatory) Motulsky, H. J. Intuitive biostatistics. 4th Edition. Oxford University Press, available at the uOttawa bookstore. Used copies of the 4th edition should be around (we used it last year); used copies of the 3rd edition would also be fine.
-Errata: See here for corrections to errors in the 2nd, 3rd and 4th edition.
-* R - a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To download R, please follow this link and then choose your preferred CRAN mirror. 
+Cours magistraux et discussions en classe sur les tests statistiques les plus courants.
 
-# Evaluation
+Exercices en laboratoire qui illustrent les principaux concepts et permettent d'appliquer la théorie à des situations réelles.
+
+# Textes et logiciels
+
+- (recommandé mais non obligatoire) Motulsky, H. J. Intuitive biostatistics. 4e édition. Oxford University Press, disponible à la librairie de l'Université d'Ottawa. Des copies usagées de la 4e édition devraient être disponibles (nous l'avons utilisée l'an dernier) ; des copies usagées de la 3e édition conviendraient également.
+  Errata : Voir ici pour les corrections d'erreurs dans les 2e, 3e et 4e éditions.
+- R : logiciel libre pour le calcul statistique et les graphiques. Il se compile et s'exécute sur une grande variété de plateformes UNIX, Windows et MacOS. Pour télécharger R, veuillez suivre ce lien et choisir votre miroir CRAN préféré.
+
+# Évaluation
+
 {{< include assessment.qmd >}}
 
+# Contestations de la notation
 
-# Marking disputes
-If you feel an error has been made in the grading of an assignment or exam, you have 10 working days from the date the item was returned to request a regrading. Beyond 10 working days the mark is considered final. If the issue concerns a lab assignment, please consult the TA that marked it; if it concerns and exam, please see the course instructor.
+Si vous estimez qu'une erreur a été commise dans la notation d'un devoir ou d'un examen, vous disposez d'un délai de 10 jours ouvrables à compter de la date de retour de l'examen pour demander une nouvelle notation. Au-delà de ces 10 jours ouvrables, la note est considérée comme définitive. Si le problème concerne un travail de laboratoire, veuillez consulter l'enseignant-chercheur qui l'a noté ; s'il s'agit d'un examen, veuillez vous adresser à l'enseignant du cours.
 
-When a regrading occurs, the new mark will stand whether it is higher or lower, so there is no guarantee your mark will increase. Simple adding mistakes unfortunately happen on occasion given the volume of assignments and exams we have to mark and such cases are easy to correct. However, disputes over partial marks on partially correct answers will not always work out in your favour and should be reserved for situations in which you feel you have a strong case. When requesting a regrading, you must provide an explanation as to what you feel the issue is (i.e. why you think you deserve a higher grade). The more specific this is the better your chance of success.
+Lors d'une réévaluation, la nouvelle note sera maintenue, qu'elle soit supérieure ou inférieure, il n'y a donc aucune garantie que votre note augmente. De simples erreurs d'addition se produisent malheureusement parfois, étant donné le volume de devoirs et d'examens que nous devons corriger, et ces cas sont faciles à corriger. Toutefois, les litiges concernant des notes partielles sur des réponses partiellement correctes ne seront pas toujours en votre faveur et devraient être réservés aux situations dans lesquelles vous estimez avoir des arguments solides. Lorsque vous demandez une réévaluation, vous devez fournir une explication de ce que vous pensez être le problème (c'est-à-dire pourquoi vous pensez que vous méritez une meilleure note). Plus vous serez précis, plus vous aurez de chances d'obtenir gain de cause.
 
-I do not consider arguments for additional marks simply because you are close to the next letter grade. Sorry.
+Je ne prends pas en considération les arguments en faveur de notes supplémentaires simplement parce que vous êtes proche de la note supérieure.
 
+# Le plagiat
 
-# Plagiarism
+Le plagiat est l'acte de faire passer les mots ou les idées de quelqu'un d'autre pour les siens. Le plagiat est une infraction académique majeure (voir le règlement de l'Université d'Ottawa sur la fraude académique : Fraude académique) et est également illégal. Nous respectons la loi. Il est essentiel que vous compreniez ce qu'est le plagiat et comment vous pouvez l'éviter. Pour plus d'informations, consultez le document suivant du Service de la réussite scolaire des étudiants.
 
-Plagiarism is the act of passing off someone else’s words or ideas as your own. Plagiarism is a major academic offence (see the University of Ottawa regulation on academic fraud: Academic fraud) and is also illegal. We uphold the law. It is critical that you understand what constitutes plagiarism and how you can avoid it. For more information, consult the following document from the Student Academic Success Service.
+# Présence
 
-# Attendance
+Conformément à la politique de l'Université d'Ottawa, les étudiants ont la responsabilité de participer aux diverses activités d'apprentissage et d'évaluation de ce cours afin de s'assurer qu'ils réussissent dans tous les cours de leur programme d'études. La présence aux cours magistraux et au laboratoire n'est pas formellement requise pour ce cours, mais elle est FORTEMENT recommandée. Les diapositives fournies ne comprennent pas tout le contenu présenté et discuté en classe, et les assistants d'enseignement et le professeur sont disponibles pendant les laboratoires pour aider avec les exercices et les devoirs. Les heures de bureau des assistants d'enseignement et du professeur sont destinées à vous permettre de poser des questions relatives au matériel de cours et ne peuvent pas remplacer un cours ou un laboratoire manqué.
 
-As per uOttawa policy, to ensure they succeed in all courses of their program of study, students have the responsibility to participate in the various learning and assessment activities for this course. Attendance of the lectures and laboratory are not formally required for this course, although both are STRONGLY recommended. The supplied lecture slides will not include all content presented and discussed in class, and teaching assistants and the professor are available during the labs for help with exercises and assignments. TA and professor office hours are to allow you an opportunity to ask questions related to course material and cannot replace a missed lecture or lab.
+# Le bilinguisme
 
-
+Sauf dans les programmes et les cours pour lesquels la langue est une exigence, tous les étudiants ont le droit de produire leurs travaux écrits et de répondre aux questions d'examen dans la langue officielle de leur choix, quelle que soit la langue d'enseignement du cours.
 
 

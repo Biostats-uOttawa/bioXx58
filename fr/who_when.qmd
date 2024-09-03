@@ -14,8 +14,9 @@ extract_course(dat)
 
 ```
 
-## Teaching team
-### Lecturer {{< fa person-chalkboard >}}
+## L'équipe enseignante {{< fa person-chalkboard >}}
+
+### Enseignant 
 
 ```{r}
 #| label: lecturers
@@ -28,7 +29,7 @@ team_df %>%
   ui_list()
 ```
 
-### Teaching assistant`r ifelse(ntutor > 1, 's', '')`
+### Assistant`r ifelse(ntutor > 1, 's', '')` d'enseignement
 
 ```{r}
 #| label: tutors
@@ -41,10 +42,10 @@ team_df %>%
   ui_list()
 ```
 
-## Office hours {{< fa clock >}}
+## Heures de bureau {{< fa clock >}}
 
-Meetings will be in-person or online using zoom.
-Please consult the TA's first for questions related to the lab exercises and assignments.
+Les réunions se dérouleront en personne ou en ligne à l'aide de Zoom.
+Veuillez d'abord consulter les assistants d'enseignement pour toute question relative aux exercices et aux travaux pratiques.
 
 ```{r}
 #| label: consult
@@ -55,13 +56,13 @@ team_df %>%
   ui_list()
 ```
 
-## Schedule {{< fa calendar-days >}}
+## Calendrier {{< fa calendar-days >}}
 
 ```{r}
 #| label: timetable
 #| results: "asis"
 lab <- timetable_df %>%
-  filter(class == "Practical") %>%
+  filter(class == "Labos") %>%
   #  mutate(timetable = glue::glue("**{class}**: {day}, {when} in {where}")) %>%
   mutate(timetable = glue::glue("{day}, {when} in {where}")) %>%
   pull(timetable)
@@ -70,7 +71,13 @@ lec <- timetable_df %>%
   mutate(timetable = glue::glue("{day}, {when} in {where}")) %>%
   pull(timetable)
 
-cat("- Lectures\n", paste("  - ", lec, "\n"), "- Practicals\n", paste("  - ", lab, "\n"))
+cat("- Lectures\n", paste("  - ", lec, "\n"), "- Labos\n", paste("  - ", lab, "\n"))
 ```
 
-There are no lectures or tutorials during reading week.
+Il n'y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.
+
+L'examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.
+
+L'examen final aura lieu pendant la semaine des examens.
+
+

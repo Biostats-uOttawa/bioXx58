@@ -34,7 +34,7 @@ A make-up will not be offered.
 <!-- Those with a valid excuse for missing the midterm (e.g., a doctor’s note) will have the final exam re-weighted to be worth 50%.-->
 The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won't count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.
 
-### Final exam
+### Final exam (Bio4158 only)
 
 This is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code. 
 
