@@ -42,6 +42,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-f3eef98c3aae736dd82099ca4dcfb8b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -163,7 +165,7 @@ gtag('config', 'G-6LLMGL3T2Q', { 'anonymize_ip': true});
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../fr/lectures.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Diapos et notes</span></a>
+ <span class="menu-text">Calendrier</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -181,7 +183,7 @@ gtag('config', 'G-6LLMGL3T2Q', { 'anonymize_ip': true});
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../fr/dataset.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Data and code</span></a>
+ <span class="menu-text">Données et code</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -207,30 +209,40 @@ gtag('config', 'G-6LLMGL3T2Q', { 'anonymize_ip': true});
     <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#course-description" id="toc-course-description" class="nav-link active" data-scroll-target="#course-description">Course description</a></li>
-  <li><a href="#classes" id="toc-classes" class="nav-link" data-scroll-target="#classes">Classes</a></li>
-  <li><a href="#prerequisite" id="toc-prerequisite" class="nav-link" data-scroll-target="#prerequisite">Prerequisite</a></li>
-  <li><a href="#course-objectives" id="toc-course-objectives" class="nav-link" data-scroll-target="#course-objectives">Course objectives</a></li>
-  <li><a href="#organization" id="toc-organization" class="nav-link" data-scroll-target="#organization">Organization</a></li>
-  <li><a href="#texts-and-software" id="toc-texts-and-software" class="nav-link" data-scroll-target="#texts-and-software">Texts and software</a></li>
-  <li><a href="#evaluation" id="toc-evaluation" class="nav-link" data-scroll-target="#evaluation">Evaluation</a>
+  <li><a href="#description-du-cours" id="toc-description-du-cours" class="nav-link active" data-scroll-target="#description-du-cours">Description du cours</a></li>
+  <li><a href="#cours" id="toc-cours" class="nav-link" data-scroll-target="#cours">Cours</a>
   <ul class="collapse">
-  <li><a href="#assessment-weights" id="toc-assessment-weights" class="nav-link" data-scroll-target="#assessment-weights">Assessment weights</a>
+  <li><a href="#léquipe-enseignante" id="toc-léquipe-enseignante" class="nav-link" data-scroll-target="#léquipe-enseignante">L’équipe enseignante <i class="fa-solid fa-person-chalkboard" aria-label="person-chalkboard"></i></a>
   <ul class="collapse">
-  <li><a href="#bio4158" id="toc-bio4158" class="nav-link" data-scroll-target="#bio4158">Bio4158</a></li>
-  <li><a href="#bio5158" id="toc-bio5158" class="nav-link" data-scroll-target="#bio5158">Bio5158</a></li>
+  <li><a href="#enseignant" id="toc-enseignant" class="nav-link" data-scroll-target="#enseignant">Enseignant</a></li>
+  <li><a href="#assistant-denseignement" id="toc-assistant-denseignement" class="nav-link" data-scroll-target="#assistant-denseignement">Assistant d’enseignement</a></li>
   </ul></li>
-  <li><a href="#lab-assignments" id="toc-lab-assignments" class="nav-link" data-scroll-target="#lab-assignments">Lab assignments</a></li>
-  <li><a href="#exams" id="toc-exams" class="nav-link" data-scroll-target="#exams">Exams</a>
+  <li><a href="#heures-de-bureau" id="toc-heures-de-bureau" class="nav-link" data-scroll-target="#heures-de-bureau">Heures de bureau <i class="fa-solid fa-clock" aria-label="clock"></i></a></li>
+  <li><a href="#calendrier" id="toc-calendrier" class="nav-link" data-scroll-target="#calendrier">Calendrier <i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i></a></li>
+  </ul></li>
+  <li><a href="#conditions-préalables" id="toc-conditions-préalables" class="nav-link" data-scroll-target="#conditions-préalables">Conditions préalables</a></li>
+  <li><a href="#objectifs-du-cours" id="toc-objectifs-du-cours" class="nav-link" data-scroll-target="#objectifs-du-cours">Objectifs du cours</a></li>
+  <li><a href="#organisation" id="toc-organisation" class="nav-link" data-scroll-target="#organisation">Organisation</a></li>
+  <li><a href="#textes-et-logiciels" id="toc-textes-et-logiciels" class="nav-link" data-scroll-target="#textes-et-logiciels">Textes et logiciels</a></li>
+  <li><a href="#évaluation" id="toc-évaluation" class="nav-link" data-scroll-target="#évaluation">Évaluation</a>
   <ul class="collapse">
-  <li><a href="#midterm" id="toc-midterm" class="nav-link" data-scroll-target="#midterm">Midterm</a></li>
-  <li><a href="#final-exam" id="toc-final-exam" class="nav-link" data-scroll-target="#final-exam">Final exam</a></li>
+  <li><a href="#pondérations-dévaluation" id="toc-pondérations-dévaluation" class="nav-link" data-scroll-target="#pondérations-dévaluation">Pondérations d’évaluation</a>
+  <ul class="collapse">
+  <li><a href="#bio4558" id="toc-bio4558" class="nav-link" data-scroll-target="#bio4558">Bio4558</a></li>
+  <li><a href="#bio5558" id="toc-bio5558" class="nav-link" data-scroll-target="#bio5558">Bio5558</a></li>
   </ul></li>
-  <li><a href="#extra-report-bio5158-only" id="toc-extra-report-bio5158-only" class="nav-link" data-scroll-target="#extra-report-bio5158-only">Extra report (Bio5158 only)</a></li>
+  <li><a href="#travaux-de-laboratoire" id="toc-travaux-de-laboratoire" class="nav-link" data-scroll-target="#travaux-de-laboratoire">Travaux de laboratoire</a></li>
+  <li><a href="#examens" id="toc-examens" class="nav-link" data-scroll-target="#examens">Examens</a>
+  <ul class="collapse">
+  <li><a href="#mi-session" id="toc-mi-session" class="nav-link" data-scroll-target="#mi-session">Mi-session</a></li>
+  <li><a href="#examen-final-bio4558-uniquement" id="toc-examen-final-bio4558-uniquement" class="nav-link" data-scroll-target="#examen-final-bio4558-uniquement">Examen final (Bio4558 uniquement)</a></li>
   </ul></li>
-  <li><a href="#marking-disputes" id="toc-marking-disputes" class="nav-link" data-scroll-target="#marking-disputes">Marking disputes</a></li>
-  <li><a href="#plagiarism" id="toc-plagiarism" class="nav-link" data-scroll-target="#plagiarism">Plagiarism</a></li>
-  <li><a href="#attendance" id="toc-attendance" class="nav-link" data-scroll-target="#attendance">Attendance</a></li>
+  <li><a href="#rapport-supplémentaire-bio5558-uniquement" id="toc-rapport-supplémentaire-bio5558-uniquement" class="nav-link" data-scroll-target="#rapport-supplémentaire-bio5558-uniquement">Rapport supplémentaire (Bio5558 uniquement)</a></li>
+  </ul></li>
+  <li><a href="#contestations-de-la-notation" id="toc-contestations-de-la-notation" class="nav-link" data-scroll-target="#contestations-de-la-notation">Contestations de la notation</a></li>
+  <li><a href="#le-plagiat" id="toc-le-plagiat" class="nav-link" data-scroll-target="#le-plagiat">Le plagiat</a></li>
+  <li><a href="#présence" id="toc-présence" class="nav-link" data-scroll-target="#présence">Présence</a></li>
+  <li><a href="#le-bilinguisme" id="toc-le-bilinguisme" class="nav-link" data-scroll-target="#le-bilinguisme">Le bilinguisme</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/biostats-uottawa/bioXx58/issues/new" class="toc-action"><i class="bi bi-github"></i>Faire part d'un problème</a></li></ul></div></nav>
     </div>
@@ -257,101 +269,149 @@ gtag('config', 'G-6LLMGL3T2Q', { 'anonymize_ip': true});
 
 
 <!-- extra -->
-<section id="course-description" class="level1">
-<h1>Course description</h1>
-<p>Applied biostatistics to real problems. Experimental design and data collection. Consequences of violating assumptions of different tests. Monte Carlo and Bootstrap analysis. Case studies and exercises in using statistical analysis packages.</p>
+<section id="description-du-cours" class="level1">
+<h1>Description du cours</h1>
+<p>Biostatistique appliquée à des problèmes réels. Conception expérimentale et collecte de données. Conséquences de la violation des hypothèses de différents tests. Analyse de Monte Carlo et Bootstrap. Études de cas et exercices d’utilisation de progiciels d’analyse statistique.</p>
+<p>Le cours couvre les fondements des statistiques (distributions, ICs, p-values, théorème de la limite centrale, pensée bayésienne, …) et les modèles linéaires (t-test, ANOVA, régression, ANCOVA, modèle linéaire général) en utilisant R.</p>
 </section>
-<section id="classes" class="level1">
-<h1>Classes</h1>
+<section id="cours" class="level1">
+<h1>Cours</h1>
 <ul>
-<li>Duration: 2 lectures of 1h20 and a 2h50 practical each week <!-- * Style: mix of lecture, discussion and practical --></li>
-<li>How: In-person.</li>
-<li>When: Usually Mondays and Wednesdays during the fall term</li>
-<li>Course info and slides: <a href="https://biostats-uottawa.github.io/bioXx58/" class="uri">https://biostats-uottawa.github.io/bioXx58/</a></li>
-<li>Lab manual: <a href="https://biostats-uottawa.github.io/R/en/" class="uri">https://biostats-uottawa.github.io/R/en/</a></li>
+<li>Durée : 2 cours magistraux de 1h20 et un cours pratique de 2h50 par semaine</li>
+<li>Style : mélange d’exposés, de discussions et de travaux pratiques</li>
+<li>Comment ? En personne.</li>
+<li>Informations sur le cours et diapositives : <a href="https://biostats-uottawa.github.io/bioXx58/">https://biostats-uottawa.github.io/bioXx58/</a></li>
+<li>Manuel de laboratoire : <a href="https://biostats-uottawa.github.io/R/en/">https://biostats-uottawa.github.io/R/en/</a></li>
 </ul>
-</section>
-<section id="prerequisite" class="level1">
-<h1>Prerequisite</h1>
-<p>MAT 2379/2779 or an equivalent introductory statistics course</p>
-</section>
-<section id="course-objectives" class="level1">
-<h1>Course objectives</h1>
-<ul>
-<li>Understand the fundamental principles of statistical inference</li>
-<li>Understand the general principles underlying the most common tests</li>
-<li>Know the assumptions underlying common tests and understand the impact of violating them</li>
-<li>Be able to perform standard statistical analyses using R</li>
-<li>Acquire the capacity to correctly interpret the statistical and biological significance of statistical tests</li>
-</ul>
-</section>
-<section id="organization" class="level1">
-<h1>Organization</h1>
-<p>Lectures and class discussions on most common statistical tests.</p>
-<p>Laboratory exercises that illustrate main concepts and allow application of theory to real situations.</p>
-</section>
-<section id="texts-and-software" class="level1">
-<h1>Texts and software</h1>
-<ul>
-<li>(recommended but not mandatory) Motulsky, H. J. Intuitive biostatistics. 4th Edition. Oxford University Press, available at the uOttawa bookstore. Used copies of the 4th edition should be around (we used it last year); used copies of the 3rd edition would also be fine. Errata: See here for corrections to errors in the 2nd, 3rd and 4th edition.</li>
-<li>R - a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To download R, please follow this link and then choose your preferred CRAN mirror.</li>
-</ul>
-</section>
-<section id="evaluation" class="level1">
-<h1>Evaluation</h1>
 <!-- extra -->
-<section id="assessment-weights" class="level2">
-<h2 class="anchored" data-anchor-id="assessment-weights">Assessment weights</h2>
-<section id="bio4158" class="level3">
-<h3 class="anchored" data-anchor-id="bio4158">Bio4158</h3>
+<section id="léquipe-enseignante" class="level2">
+<h2 class="anchored" data-anchor-id="léquipe-enseignante">L’équipe enseignante <i class="fa-solid fa-person-chalkboard" aria-label="person-chalkboard"></i></h2>
+<section id="enseignant" class="level3">
+<h3 class="anchored" data-anchor-id="enseignant">Enseignant</h3>
 <ul>
-<li>Lab assignments: 40% (8 reports, 5% each)</li>
-<li>Midterm (during lab): 20%</li>
-<li>Final exam: 40%</li>
+<li>Julien Martin (<a href="../fr/people.html">email</a>)</li>
 </ul>
 </section>
-<section id="bio5158" class="level3">
-<h3 class="anchored" data-anchor-id="bio5158">Bio5158</h3>
+<section id="assistant-denseignement" class="level3">
+<h3 class="anchored" data-anchor-id="assistant-denseignement">Assistant d’enseignement</h3>
 <ul>
-<li>Lab assignments: 40% (8 reports, 5% each)</li>
-<li>Midterm (during lab): 20%</li>
-<li>Final report: 40%</li>
+<li>Augustin Birot (<a href="mailto:abiro093@uottawa.ca">email</a>)</li>
 </ul>
 </section>
 </section>
-<section id="lab-assignments" class="level2">
-<h2 class="anchored" data-anchor-id="lab-assignments">Lab assignments</h2>
-<p>The written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on <a href="https://uottawa.brightspace.com/d2l/home">Brightspace</a></p>
+<section id="heures-de-bureau" class="level2">
+<h2 class="anchored" data-anchor-id="heures-de-bureau">Heures de bureau <i class="fa-solid fa-clock" aria-label="clock"></i></h2>
+<p>Les réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.</p>
+<ul>
+<li><strong>Julien Martin</strong>: Lundi 1430-1530 (in-person &amp; online)</li>
+<li><strong>Augustin Birot</strong>: TBA (in-person)</li>
+</ul>
 </section>
-<section id="exams" class="level2">
-<h2 class="anchored" data-anchor-id="exams">Exams</h2>
-<section id="midterm" class="level3">
-<h3 class="anchored" data-anchor-id="midterm">Midterm</h3>
-<p>1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered. <!-- Those with a valid excuse for missing the midterm (e.g., a doctor’s note) will have the final exam re-weighted to be worth 50%.--> The midterm will be available on the course website afterwards; if you do not write it officially (e.g.&nbsp;for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.</p>
+<section id="calendrier" class="level2">
+<h2 class="anchored" data-anchor-id="calendrier">Calendrier <i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i></h2>
+<ul>
+<li>Lectures
+<ul>
+<li>Lundi, 1000-1120 in MRT-219</li>
+<li>Mercredi, 0830-0950 in CRX-440</li>
+</ul></li>
+<li>Labos
+<ul>
+<li>Mercredi, 1100-1420 in MNT-141</li>
+</ul></li>
+</ul>
+<p>Il n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.</p>
+<p>L’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.</p>
+<p>L’examen final aura lieu pendant la semaine des examens.</p>
+<p>Voir le <a href="../fr/lectures.html">site web du cours</a> pour les détails de l’horaire</p>
 </section>
-<section id="final-exam" class="level3">
-<h3 class="anchored" data-anchor-id="final-exam">Final exam</h3>
-<p>This is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.</p>
+</section>
+<section id="conditions-préalables" class="level1">
+<h1>Conditions préalables</h1>
+<p>MAT 2379/2779 ou un cours d’introduction aux statistiques équivalent.</p>
+</section>
+<section id="objectifs-du-cours" class="level1">
+<h1>Objectifs du cours</h1>
+<ul>
+<li>Comprendre les principes fondamentaux de l’inférence statistique</li>
+<li>Comprendre les principes généraux qui sous-tendent les tests les plus courants</li>
+<li>Connaître les hypothèses sous-jacentes aux tests les plus courants et comprendre l’impact de leur violation</li>
+<li>Être capable d’effectuer des analyses statistiques standard à l’aide de R</li>
+<li>Acquérir la capacité d’interpréter correctement la signification statistique et biologique des tests statistiques</li>
+</ul>
+</section>
+<section id="organisation" class="level1">
+<h1>Organisation</h1>
+<p>Cours magistraux et discussions en classe sur les tests statistiques les plus courants.</p>
+<p>Exercices en laboratoire qui illustrent les principaux concepts et permettent d’appliquer la théorie à des situations réelles.</p>
+</section>
+<section id="textes-et-logiciels" class="level1">
+<h1>Textes et logiciels</h1>
+<ul>
+<li>(recommandé mais non obligatoire) Motulsky, H. J. Intuitive biostatistics. 4e édition. Oxford University Press, disponible à la librairie de l’Université d’Ottawa. Des copies usagées de la 4e édition devraient être disponibles (nous l’avons utilisée l’an dernier) ; des copies usagées de la 3e édition conviendraient également. Errata : Voir ici pour les corrections d’erreurs dans les 2e, 3e et 4e éditions.</li>
+<li>R : logiciel libre pour le calcul statistique et les graphiques. Il se compile et s’exécute sur une grande variété de plateformes UNIX, Windows et MacOS. Pour télécharger R, veuillez suivre ce lien et choisir votre miroir CRAN préféré.</li>
+</ul>
+</section>
+<section id="évaluation" class="level1">
+<h1>Évaluation</h1>
+<!-- extra -->
+<section id="pondérations-dévaluation" class="level2">
+<h2 class="anchored" data-anchor-id="pondérations-dévaluation">Pondérations d’évaluation</h2>
+<section id="bio4558" class="level3">
+<h3 class="anchored" data-anchor-id="bio4558">Bio4558</h3>
+<ul>
+<li>Travaux de laboratoire : 40% (8 rapports pendant le trimestre, 5% chacun)</li>
+<li>Examen de mi-parcours (pendant le laboratoire après la semaine de lecture) : 20%</li>
+<li>Examen final (pendant la semaine d’examen) : 40%</li>
+</ul>
+</section>
+<section id="bio5558" class="level3">
+<h3 class="anchored" data-anchor-id="bio5558">Bio5558</h3>
+<ul>
+<li>Travaux de laboratoire : 40% (8 rapports pendant le trimestre, 5% chacun)</li>
+<li>Examen de mi-parcours (pendant le laboratoire après la semaine de lecture) : 20%</li>
+<li>Rapport final (à soumettre avant la semaine d’examen) : 40%</li>
+</ul>
 </section>
 </section>
-<section id="extra-report-bio5158-only" class="level2">
-<h2 class="anchored" data-anchor-id="extra-report-bio5158-only">Extra report (Bio5158 only)</h2>
-<p>The final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.</p>
+<section id="travaux-de-laboratoire" class="level2">
+<h2 class="anchored" data-anchor-id="travaux-de-laboratoire">Travaux de laboratoire</h2>
+<p>Les rapports écrits comptent pour 40% de la note finale. Il y a 8 rapports et ils comptent donc pour 5% chacun. Vous pouvez travailler individuellement ou en équipe jusqu’à trois (cette dernière est encouragée). Si vous soumettez un travail d’équipe, tous les membres de l’équipe recevront la même note, sauf circonstances exceptionnelles. Vous devez soumettre une seule copie PDF de vos travaux avec les noms et identifiants de tous les étudiants en haut de la page (soumettre une seule copie pour le groupe). Les travaux en retard seront pénalisés de 10 % par jour ou partie de jour. Les devoirs consisteront soit en une série de questions auxquelles il faudra répondre, soit en une analyse statistique à effectuer. Un barème de notation spécifique est fourni pour chaque rapport sur <a href="https://uottawa.brightspace.com/d2l/home">Brightspace</a></p>
+</section>
+<section id="examens" class="level2">
+<h2 class="anchored" data-anchor-id="examens">Examens</h2>
+<section id="mi-session" class="level3">
+<h3 class="anchored" data-anchor-id="mi-session">Mi-session</h3>
+<p>Durée de 1h30 après la semaine de relâche durant la période de labo. En classe (voir l’horaire pour la date), livre ouvert, les calculatrices sont autorisées. Aucun rattrapage ne sera proposé.</p>
+<p>L’examen de mi-session sera disponible sur le site web du cours par la suite ; si vous ne le passez pas officiellement (par exemple, pour des raisons médicales), je vous suggère fortement de l’essayer sur votre temps libre. Nous nous ferons un plaisir de le noter pour vous donner un feedback (votre note ne sera pas prise en compte dans votre note finale). Ceux qui manquent l’examen de mi-parcours et ne le font pas ont généralement de mauvais résultats à l’examen final.</p>
+</section>
+<section id="examen-final-bio4558-uniquement" class="level3">
+<h3 class="anchored" data-anchor-id="examen-final-bio4558-uniquement">Examen final (Bio4558 uniquement)</h3>
+<p>Il s’agit d’un examen à livre ouvert, les notes de cours et les calculatrices étant autorisées. L’examen durera 3h et posera des questions théoriques et pratiques, y compris quelques petits calculs. Il n’est pas nécessaire d’exécuter un code R.</p>
 </section>
 </section>
-<section id="marking-disputes" class="level1">
-<h1>Marking disputes</h1>
-<p>If you feel an error has been made in the grading of an assignment or exam, you have 10 working days from the date the item was returned to request a regrading. Beyond 10 working days the mark is considered final. If the issue concerns a lab assignment, please consult the TA that marked it; if it concerns and exam, please see the course instructor.</p>
-<p>When a regrading occurs, the new mark will stand whether it is higher or lower, so there is no guarantee your mark will increase. Simple adding mistakes unfortunately happen on occasion given the volume of assignments and exams we have to mark and such cases are easy to correct. However, disputes over partial marks on partially correct answers will not always work out in your favour and should be reserved for situations in which you feel you have a strong case. When requesting a regrading, you must provide an explanation as to what you feel the issue is (i.e.&nbsp;why you think you deserve a higher grade). The more specific this is the better your chance of success.</p>
-<p>I do not consider arguments for additional marks simply because you are close to the next letter grade. Sorry.</p>
+<section id="rapport-supplémentaire-bio5558-uniquement" class="level2">
+<h2 class="anchored" data-anchor-id="rapport-supplémentaire-bio5558-uniquement">Rapport supplémentaire (Bio5558 uniquement)</h2>
+<p>L’évaluation finale prendra la forme d’un rapport écrit de l’analyse des données (unique pour chaque étudiant) de 15 pages à soumettre avant la période d’examen.</p>
 </section>
-<section id="plagiarism" class="level1">
-<h1>Plagiarism</h1>
-<p>Plagiarism is the act of passing off someone else’s words or ideas as your own. Plagiarism is a major academic offence (see the University of Ottawa regulation on academic fraud: Academic fraud) and is also illegal. We uphold the law. It is critical that you understand what constitutes plagiarism and how you can avoid it. For more information, consult the following document from the Student Academic Success Service.</p>
 </section>
-<section id="attendance" class="level1">
-<h1>Attendance</h1>
-<p>As per uOttawa policy, to ensure they succeed in all courses of their program of study, students have the responsibility to participate in the various learning and assessment activities for this course. Attendance of the lectures and laboratory are not formally required for this course, although both are STRONGLY recommended. The supplied lecture slides will not include all content presented and discussed in class, and teaching assistants and the professor are available during the labs for help with exercises and assignments. TA and professor office hours are to allow you an opportunity to ask questions related to course material and cannot replace a missed lecture or lab.</p>
+<section id="contestations-de-la-notation" class="level1">
+<h1>Contestations de la notation</h1>
+<p>Si vous estimez qu’une erreur a été commise dans la notation d’un devoir ou d’un examen, vous disposez d’un délai de 10 jours ouvrables à compter de la date de retour de l’examen pour demander une nouvelle notation. Au-delà de ces 10 jours ouvrables, la note est considérée comme définitive. Si le problème concerne un travail de laboratoire, veuillez consulter l’enseignant-chercheur qui l’a noté ; s’il s’agit d’un examen, veuillez vous adresser à l’enseignant du cours.</p>
+<p>Lors d’une réévaluation, la nouvelle note sera maintenue, qu’elle soit supérieure ou inférieure, il n’y a donc aucune garantie que votre note augmente. De simples erreurs d’addition se produisent malheureusement parfois, étant donné le volume de devoirs et d’examens que nous devons corriger, et ces cas sont faciles à corriger. Toutefois, les litiges concernant des notes partielles sur des réponses partiellement correctes ne seront pas toujours en votre faveur et devraient être réservés aux situations dans lesquelles vous estimez avoir des arguments solides. Lorsque vous demandez une réévaluation, vous devez fournir une explication de ce que vous pensez être le problème (c’est-à-dire pourquoi vous pensez que vous méritez une meilleure note). Plus vous serez précis, plus vous aurez de chances d’obtenir gain de cause.</p>
+<p>Je ne prends pas en considération les arguments en faveur de notes supplémentaires simplement parce que vous êtes proche de la note supérieure.</p>
+</section>
+<section id="le-plagiat" class="level1">
+<h1>Le plagiat</h1>
+<p>Le plagiat est l’acte de faire passer les mots ou les idées de quelqu’un d’autre pour les siens. Le plagiat est une infraction académique majeure (voir le règlement de l’Université d’Ottawa sur la fraude académique : Fraude académique) et est également illégal. Nous respectons la loi. Il est essentiel que vous compreniez ce qu’est le plagiat et comment vous pouvez l’éviter. Pour plus d’informations, consultez le document suivant du Service de la réussite scolaire des étudiants.</p>
+</section>
+<section id="présence" class="level1">
+<h1>Présence</h1>
+<p>Conformément à la politique de l’Université d’Ottawa, les étudiants ont la responsabilité de participer aux diverses activités d’apprentissage et d’évaluation de ce cours afin de s’assurer qu’ils réussissent dans tous les cours de leur programme d’études. La présence aux cours magistraux et au laboratoire n’est pas formellement requise pour ce cours, mais elle est FORTEMENT recommandée. Les diapositives fournies ne comprennent pas tout le contenu présenté et discuté en classe, et les assistants d’enseignement et le professeur sont disponibles pendant les laboratoires pour aider avec les exercices et les devoirs. Les heures de bureau des assistants d’enseignement et du professeur sont destinées à vous permettre de poser des questions relatives au matériel de cours et ne peuvent pas remplacer un cours ou un laboratoire manqué.</p>
+</section>
+<section id="le-bilinguisme" class="level1">
+<h1>Le bilinguisme</h1>
+<p>Sauf dans les programmes et les cours pour lesquels la langue est une exigence, tous les étudiants ont le droit de produire leurs travaux écrits et de répondre aux questions d’examen dans la langue officielle de leur choix, quelle que soit la langue d’enseignement du cours.</p>
 
 
 </section>
