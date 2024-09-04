@@ -166,6 +166,6 @@ timetable:
     when: 0830-0950
     where: CRX-440
   - class: Labos
-    day: Mercredi
-    when: 1100-1420
+    day: Jeudi
+    when: 1130-1420
     where: MNT-141
