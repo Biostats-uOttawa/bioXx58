@@ -15,12 +15,12 @@ dat <- read_yaml("_course.yml")
 extract_course(dat)
 ```
 
-:: : {.callout-caution}
+::: {.callout-caution}
 
 # Disponibilité des diapositives et soumissions
 
 Les diapositives et la soumission des travaux de cours se font via [brighspace](https://uottawa.brightspace.com/d2l/home).
-:: :
+:::
 
 ## Calendrier
 
