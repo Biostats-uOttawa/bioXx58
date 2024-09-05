@@ -7,8 +7,9 @@ project:
   resources:
 #    - "slides/"
     - "data/"
-#execute:
-#  freeze: auto
+execute:
+  freeze: auto
+
 website:
   google-analytics: G-6LLMGL3T2Q
   title: "Bio4x58-5x58"

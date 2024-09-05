@@ -1,0 +1,15 @@
+{
+  "hash": "c7fba014464edb5524a1ebec037ab67e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Extra information for praticals\"\n---\n\n\n\n[manual_4158]: https://biostats-uottawa.github.io/bio4158_manual/ \n[manual_4558]: https://biostats-uottawa.github.io/bio4158_manual/ \n[manual_8940]: https://biostats-uottawa.github.io/bio8940_manual/\n\n[p_rmarkdown]: https://biostats-uottawa.github.io/bio8940_manual/2.2-practical.html\n[p_github]: https://biostats-uottawa.github.io/bio8940_manual/3.2-git_practical.html\n\n[lab_website]: https://juliengamartin.github.io/\n[moi_uo]: https://www.uottawa.ca/faculty-science/professors/julien-martin\n[moi_github]: https://github.com/juliengamartin\n\n[cran]: https://cloud.r-project.org/\n[rstudio_d]: https://rstudio.com/products/rstudio/download/#download\n[vscode_d]: https://code.visualstudio.com/Download\n\n<!-- extra -->\n[rmark_cs]: https://rstudio.github.io/cheatsheets/rmarkdown.pdf\n[debug_pdf]: practical_extra/tbs_pdf_rmd.html\n[git_cred]: https://usethis.r-lib.org/articles/git-credentials.html\n[happy_git]: https://happygitwithr.com/\n\n[git_install]: https://git-scm.com/downloads\n[quarto_install]: https://quarto.org/docs/get-started/\n[quarto]: https://quarto.org/\n\n\n\n\n\n\nHere you will find links for the praticals as well as their solutions\n\n## Introduction Rmarkdown {#rmarkdown}\n\n* [rmarkdown cheatsheet][rmark_cs]\n* [Troubleshoot PDF in Rmarkdown][debug_pdf]\n\n## Introduction to github\n\n* [Managing git credentials][git_cred]\n* [Happy git with R][happy_git] great book about git and R\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

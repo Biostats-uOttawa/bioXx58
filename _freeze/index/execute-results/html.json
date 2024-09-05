@@ -1,0 +1,15 @@
+{
+  "hash": "79f9c338cce9d3ad2858ad66820a7272",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: | \n  Applied Biostatistics with R </br>\n  Biostatistiques appliquées avec R\nformat:\n  html:\n    toc: false\n---\n\n\n<style>\n  .quarto-title-block .quarto-title{\n  text-align: center;\n}\n</style>\n\n\n[lab_website]: https://juliengamartin.github.io/\n[moi_uo]: https://www.uottawa.ca/faculty-science/professors/julien-martin\n[moi_github]: https://github.com/juliengamartin\n\n[cran]: https://cloud.r-project.org/\n[rstudio_d]: https://rstudio.com/products/rstudio/download/#download\n[vscode_d]: https://code.visualstudio.com/Download\n\n<!-- extra -->\n[rmark_cs]: https://rstudio.github.io/cheatsheets/rmarkdown.pdf\n[debug_pdf]: practical_extra/tbs_pdf_rmd.html\n[git_cred]: https://usethis.r-lib.org/articles/git-credentials.html\n[happy_git]: https://happygitwithr.com/\n\n[git_install]: https://git-scm.com/downloads\n[quarto_install]: https://quarto.org/docs/get-started/\n[quarto]: https://quarto.org/\n\n[r_way_en]: https://biostats-uottawa.github.io/R/en/\n[r_way_fr]: https://biostats-uottawa.github.io/R/fr/\n[r_chap_en]: https://biostats-uottawa.github.io/R/en/#chapters-to-read\n[r_chap_fr]: https://biostats-uottawa.github.io/R/fr/#chapitres-a-lire\n[brightspace]: https://uottawa.brightspace.com/d2l/home\n\n\n\n\n\n\n\n![](img/bio4x58_logo_hex.png){fig-align=\"center\"}\n\n::: {style=\"text-align: center;\"}\n\n\n{{< fa flag >}} [**Français**](fr/index.qmd) / [**English**](en/index.qmd) {{< fa flag >}}\n\n\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
