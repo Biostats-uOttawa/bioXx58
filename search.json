@@ -25,7 +25,7 @@
     "href": "fr/who_when.html#calendrier",
     "title": "Bio4x58-5x58",
     "section": "Calendrier ",
-    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nMercredi, 1100-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens."
+    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens."
   },
   {
     "objectID": "fr/dataset.html",
@@ -98,7 +98,7 @@
     "href": "fr/syllabus.html#calendrier",
     "title": "Syllabus",
     "section": "Calendrier ",
-    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nMercredi, 1100-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.\nVoir le site web du cours pour les détails de l’horaire",
+    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.\nVoir le site web du cours pour les détails de l’horaire",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
@@ -164,7 +164,7 @@
     "href": "fr/lectures.html#calendrier",
     "title": "Diapositives et notes de cours",
     "section": "Calendrier",
-    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 5\nPas de labo\n\n\n\n\n\nSep 9\nÉchantillons et populations\n\n\n\n\nSep 11\nDistributions\n\n\n\n\nSep 12\nPas de labo\n\n\n\n\n\nSep 16\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nSep 18\nValeurs de P et test d’hypothèse\n\n\n\n\nSep 19\nLab: intro à R\nchap 1-4\n\n\n\nSep 23\nPuissance statistique et inférence bayésienne\n\n\n\n\nSep 25\nCorrélation et régression linéaire simple\n\n\n\n\nSep 26\nLab: *Puissance statistique\nchap 8\nRapport 1: Hypothèses\n\n\nSep 30\nCorrélation et régression linéaire simple\n\n\n\n\nOct 2\nComparaison de 2 groupes\n\n\n\n\nOct 3\nLab: Corrélation et régression linéaire simple\nchap 9\nRapport 2: puissance\n\n\nOct 7\nComparaison de 2 groupes\n\n\n\n\nOct 9\nANOVA simple\n\n\n\n\nOct 10\nLab: ANOVA simple\nchap 10\nRapport 3: Régression\n\n\n\n\nSemaine de relâche\n\n\n\n\nOct 21\nANOVA simple\n\n\n\n\nOct 23\nPas de classe\n\n\n\n\nOct 24\nMid-session\n\n\nen personne pendant le labo\n\n\nOct 28\nANOVA multiple\n\n\n\n\nOct 30\nANOVA multiple\n\n\n\n\nOct 31\nLab: ANOVA simple\nchap 11\nRapport 4: Comparaison de 2 groupes\n\n\nNov 4\nRégression multiple\n\n\n\n\nNov 6\nRégression multiple\n\n\n\n\nNov 7\nLab: ANOVA multiple\nchap 12\nRapport 5: One-way ANOVA\n\n\nNov 11\nModèle linéaire général\n\n\n\n\nNov 13\nModèle linéaire général\n\n\n\n\nNov 14\nLab: Régression multiple\nchap 13\nRapport 6: ANOVA multiple\n\n\nNov 18\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 20\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 21\nLab: Modèle linéaire général\nchap 14\nRapport 7: Régression multiple\n\n\nNov 25\nModèles linéaires généralisés (intro)\n\n\n\n\nNov 27\n\n\n\n\n\nNov 28\nLab: Analyse de données de fréquence\nchap 15\nRapport 8: Modèle linéaire général\n\n\nDec 2\nQ&R\n\n\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
+    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 5\nPas de labo\n\n\n\n\nSep 9\nÉchantillons et populations\n\n\n\n\nSep 11\nDistributions\n\n\n\n\nSep 12\nPas de labo\n\n\n\n\nSep 16\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nSep 18\nValeurs de P et test d’hypothèse\n\n\n\n\nSep 19\nLab: intro à R\nchap 1-4\n\n\n\nSep 23\nPuissance statistique et inférence bayésienne\n\n\n\n\nSep 25\nCorrélation et régression linéaire simple\n\n\n\n\nSep 26\nLab: *Puissance statistique\nchap 8\nRapport 1: Hypothèses\n\n\nSep 30\nCorrélation et régression linéaire simple\n\n\n\n\nOct 2\nComparaison de 2 groupes\n\n\n\n\nOct 3\nLab: Corrélation et régression linéaire simple\nchap 9\nRapport 2: puissance\n\n\nOct 7\nComparaison de 2 groupes\n\n\n\n\nOct 9\nANOVA simple\n\n\n\n\nOct 10\nLab: ANOVA simple\nchap 10\nRapport 3: Régression\n\n\n\n\nSemaine de relâche\n\n\n\n\nOct 21\nANOVA simple\n\n\n\n\nOct 23\nPas de classe\n\n\n\n\nOct 24\nMid-session\n\nen personne pendant le labo\n\n\nOct 28\nANOVA multiple\n\n\n\n\nOct 30\nANOVA multiple\n\n\n\n\nOct 31\nLab: ANOVA simple\nchap 11\nRapport 4: Comparaison de 2 groupes\n\n\nNov 4\nRégression multiple\n\n\n\n\nNov 6\nRégression multiple\n\n\n\n\nNov 7\nLab: ANOVA multiple\nchap 12\nRapport 5: One-way ANOVA\n\n\nNov 11\nModèle linéaire général\n\n\n\n\nNov 13\nModèle linéaire général\n\n\n\n\nNov 14\nLab: Régression multiple\nchap 13\nRapport 6: ANOVA multiple\n\n\nNov 18\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 20\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 21\nLab: Modèle linéaire général\nchap 14\nRapport 7: Régression multiple\n\n\nNov 25\nModèles linéaires généralisés (intro)\n\n\n\n\nNov 27\n\n\n\n\n\nNov 28\nLab: Analyse de données de fréquence\nchap 15\nRapport 8: Modèle linéaire général\n\n\nDec 2\nQ&R\n\n\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
     "crumbs": [
       "Biostats uOttawa",
       "Calendrier"
@@ -219,7 +219,7 @@
     "href": "fr/index.html#calendrier",
     "title": "Biostatistique appliquée avec R  (Bio4558 / Bio5558)",
     "section": "Calendrier ",
-    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nMercredi, 1100-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.",
+    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.",
     "crumbs": [
       "Biostats uOttawa",
       "Info générale"
@@ -233,14 +233,105 @@
     "text": "Français / English"
   },
   {
-    "objectID": "fr/practical.html",
-    "href": "fr/practical.html",
-    "title": "Laboratoires",
+    "objectID": "en/practical.html",
+    "href": "en/practical.html",
+    "title": "Practicals",
     "section": "",
-    "text": "Informations générales\nIl y a 8 travaux pratiques pendant le trimestre. Les travaux pratiques se feront en équipes de 1 à 3 pendant toute la durée du semestre. Veuillez apporter votre ordinateur portable et assurez-vous d’avoir une version récente de R (4.0.0 ou plus) ainsi qu’un IDE R tel que RStudio ou VSCode. Enfin, il est fortement recommandé d’avoir le logiciel quarto pour produire des rapports reproductibles.\nVous trouverez tous les exercices pratiques dans le livre “Sur le chemin de l’enf-R” avec des chapitres spécifiques à lire et à travailler indiqués dans le calendrier (pour une vue d’ensemble voir [ici][r-chap-fr]).",
+    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule (for an overview see [here][r-chap-en]).\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
     "crumbs": [
       "Biostats uOttawa",
-      "Labo"
+      "Practicals"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html",
+    "href": "en/assessment.html",
+    "title": "Bio4x58-5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#assessment-weights",
+    "href": "en/assessment.html#assessment-weights",
+    "title": "Bio4x58-5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#lab-assignments",
+    "href": "en/assessment.html#lab-assignments",
+    "title": "Bio4x58-5x58",
+    "section": "Lab assignments",
+    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#exams",
+    "href": "en/assessment.html#exams",
+    "title": "Bio4x58-5x58",
+    "section": "Exams",
+    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\nFinal exam (Bio4158 only)\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#extra-report-bio5158-only",
+    "href": "en/assessment.html#extra-report-bio5158-only",
+    "title": "Bio4x58-5x58",
+    "section": "Extra report (Bio5158 only)",
+    "text": "Extra report (Bio5158 only)\nThe final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "fr/404.html",
+    "href": "fr/404.html",
+    "title": "Page Not Found",
+    "section": "",
+    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+  },
+  {
+    "objectID": "en/404.html",
+    "href": "en/404.html",
+    "title": "Page Not Found",
+    "section": "",
+    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+  },
+  {
+    "objectID": "en/people.html",
+    "href": "en/people.html",
+    "title": "Julien Martin",
+    "section": "",
+    "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "fr/people.html",
+    "href": "fr/people.html",
+    "title": "Julien Martin",
+    "section": "",
+    "text": "Julien est Professeur agrégé à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 15 ans.\nJ’ai créé le site internet en utilisant Quarto, R, revealjs, mermaid.js et graphViz. J’ai developpé le thème de mes présentations à partir de du theme “blackboard” pour xaringan.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Contact"
     ]
   },
   {
@@ -299,253 +390,15 @@
     ]
   },
   {
-    "objectID": "fr/people.html",
-    "href": "fr/people.html",
-    "title": "Julien Martin",
+    "objectID": "fr/practical.html",
+    "href": "fr/practical.html",
+    "title": "Laboratoires",
     "section": "",
-    "text": "Julien est Professeur agrégé à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 15 ans.\nJ’ai créé le site internet en utilisant Quarto, R, revealjs, mermaid.js et graphViz. J’ai developpé le thème de mes présentations à partir de du theme “blackboard” pour xaringan.",
+    "text": "Informations générales\nIl y a 8 travaux pratiques pendant le trimestre. Les travaux pratiques se feront en équipes de 1 à 3 pendant toute la durée du semestre. Veuillez apporter votre ordinateur portable et assurez-vous d’avoir une version récente de R (4.0.0 ou plus) ainsi qu’un IDE R tel que RStudio ou VSCode. Enfin, il est fortement recommandé d’avoir le logiciel quarto pour produire des rapports reproductibles.\nVous trouverez tous les exercices pratiques dans le livre “Sur le chemin de l’enf-R” avec des chapitres spécifiques à lire et à travailler indiqués dans le calendrier (pour une vue d’ensemble voir [ici][r-chap-fr]).",
     "crumbs": [
       "Biostats uOttawa",
-      "Contact"
+      "Labo"
     ]
-  },
-  {
-    "objectID": "en/people.html",
-    "href": "en/people.html",
-    "title": "Julien Martin",
-    "section": "",
-    "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Contact"
-    ]
-  },
-  {
-    "objectID": "en/404.html",
-    "href": "en/404.html",
-    "title": "Page Not Found",
-    "section": "",
-    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
-  },
-  {
-    "objectID": "fr/404.html",
-    "href": "fr/404.html",
-    "title": "Page Not Found",
-    "section": "",
-    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
-  },
-  {
-    "objectID": "en/assessment.html",
-    "href": "en/assessment.html",
-    "title": "Bio4x58-5x58",
-    "section": "",
-    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#assessment-weights",
-    "href": "en/assessment.html#assessment-weights",
-    "title": "Bio4x58-5x58",
-    "section": "",
-    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#lab-assignments",
-    "href": "en/assessment.html#lab-assignments",
-    "title": "Bio4x58-5x58",
-    "section": "Lab assignments",
-    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#exams",
-    "href": "en/assessment.html#exams",
-    "title": "Bio4x58-5x58",
-    "section": "Exams",
-    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\nFinal exam (Bio4158 only)\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#extra-report-bio5158-only",
-    "href": "en/assessment.html#extra-report-bio5158-only",
-    "title": "Bio4x58-5x58",
-    "section": "Extra report (Bio5158 only)",
-    "text": "Extra report (Bio5158 only)\nThe final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/practical.html",
-    "href": "en/practical.html",
-    "title": "Practicals",
-    "section": "",
-    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule (for an overview see [here][r-chap-en]).\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Practicals"
-    ]
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html",
-    "href": "fr/slides/lec-01_intro.notes.html",
-    "title": "Advanced stats and Open Science",
-    "section": "",
-    "text": "Evolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old\n\n\nName\nPI\nSubject\nR knowledge\nExpectation from the course"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#me",
-    "href": "fr/slides/lec-01_intro.notes.html#me",
-    "title": "Advanced stats and Open Science",
-    "section": "",
-    "text": "Evolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#you",
-    "href": "fr/slides/lec-01_intro.notes.html#you",
-    "title": "Advanced stats and Open Science",
-    "section": "",
-    "text": "Name\nPI\nSubject\nR knowledge\nExpectation from the course"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#topics",
-    "href": "fr/slides/lec-01_intro.notes.html#topics",
-    "title": "Advanced stats and Open Science",
-    "section": "\n2.1 Topics",
-    "text": "2.1 Topics\n\nIntro to github with exercises\nIntro to Open science\nIntro to rmarkdown and to workflowr\nMixed models\n\nIntro, why, when and how\nNon gaussian, non-linear ?\nmultivariate ?\n\n\np-values and their limits"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#teaching-style",
-    "href": "fr/slides/lec-01_intro.notes.html#teaching-style",
-    "title": "Advanced stats and Open Science",
-    "section": "\n2.2 Teaching style",
-    "text": "2.2 Teaching style\n\nMinimum slides from myself\nflipped classroom or learning by problems\nSession = mixed of lecture, discussion and exercises"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#schedule",
-    "href": "fr/slides/lec-01_intro.notes.html#schedule",
-    "title": "Advanced stats and Open Science",
-    "section": "\n2.3 Schedule",
-    "text": "2.3 Schedule\n\n\n\nWeek\nTheme\n\n\n\n1\nIntro\n\n\n2\nGithub\n\n\n3\nMarkdown / Quarto\n\n\n4\nLm & glm\n\n\n5\nCausal structure\n\n\n6\nLmm\n\n\n7\nBayesian approach\n\n\n8\nGlmm\n\n\n9\nto\n\n\n10\nbe\n\n\n11\ndecided\n\n\n12\ntogether"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#in-class-50",
-    "href": "fr/slides/lec-01_intro.notes.html#in-class-50",
-    "title": "Advanced stats and Open Science",
-    "section": "\n3.1 In class (50%)",
-    "text": "3.1 In class (50%)\n\nparticipation to discussion (20%)\npresentation on a given topic in small teams (30%)"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#project-50",
-    "href": "fr/slides/lec-01_intro.notes.html#project-50",
-    "title": "Advanced stats and Open Science",
-    "section": "\n3.2 Project (50%)",
-    "text": "3.2 Project (50%)\n\nanalysis of data using techniques from courses or beyond\nReport written using Rmarkdown\nposted on Github classroom"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#softwares",
-    "href": "fr/slides/lec-01_intro.notes.html#softwares",
-    "title": "Advanced stats and Open Science",
-    "section": "\n4.1 Softwares",
-    "text": "4.1 Softwares\n\nR (version 4.0 or higher)\nText editor: Rstudio or VSCode\nR packages (up to date)\n\nopen science: rmarkdown, tinytex\nmixed models: lme4, gremlin, glmmTMB, MCMCglmm\nlatex: full version or tinytex"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#accounts",
-    "href": "fr/slides/lec-01_intro.notes.html#accounts",
-    "title": "Advanced stats and Open Science",
-    "section": "\n4.2 Accounts",
-    "text": "4.2 Accounts\n\ngithub (https://github.com/)\nOpen Science Framework (OSF, https://osf.io/)"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.notes.html#what-is-expected-from-you-1",
-    "href": "fr/slides/lec-01_intro.notes.html#what-is-expected-from-you-1",
-    "title": "Advanced stats and Open Science",
-    "section": "\n5.1 What is expected from you",
-    "text": "5.1 What is expected from you\n\nWeekly Reading\nIn class participation\nDo the praticals"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#me",
-    "href": "fr/slides/lec-01_intro.slides.html#me",
-    "title": "Advanced stats and Open Science",
-    "section": "… me",
-    "text": "… me\n\nEvolutionary ecologist\nNot a statisticians by training\nComplex data\nEnjoy coding\nHumour of a 5 years old"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#you",
-    "href": "fr/slides/lec-01_intro.slides.html#you",
-    "title": "Advanced stats and Open Science",
-    "section": "… you",
-    "text": "… you\n\nName\nPI\nSubject\nR knowledge\nExpectation from the course"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#topics",
-    "href": "fr/slides/lec-01_intro.slides.html#topics",
-    "title": "Advanced stats and Open Science",
-    "section": "Topics",
-    "text": "Topics\n\nIntro to github with exercises\nIntro to Open science\nIntro to rmarkdown and to workflowr\nMixed models\n\nIntro, why, when and how\nNon gaussian, non-linear ?\nmultivariate ?\n\np-values and their limits"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#teaching-style",
-    "href": "fr/slides/lec-01_intro.slides.html#teaching-style",
-    "title": "Advanced stats and Open Science",
-    "section": "Teaching style",
-    "text": "Teaching style\n\nMinimum slides from myself\nflipped classroom or learning by problems\nSession = mixed of lecture, discussion and exercises"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#schedule",
-    "href": "fr/slides/lec-01_intro.slides.html#schedule",
-    "title": "Advanced stats and Open Science",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\nWeek\nTheme\n\n\n\n\n1\nIntro\n\n\n2\nGithub\n\n\n3\nMarkdown / Quarto\n\n\n4\nLm & glm\n\n\n5\nCausal structure\n\n\n6\nLmm\n\n\n7\nBayesian approach\n\n\n8\nGlmm\n\n\n9\nto\n\n\n10\nbe\n\n\n11\ndecided\n\n\n12\ntogether"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#in-class-50",
-    "href": "fr/slides/lec-01_intro.slides.html#in-class-50",
-    "title": "Advanced stats and Open Science",
-    "section": "In class (50%)",
-    "text": "In class (50%)\n\nparticipation to discussion (20%)\npresentation on a given topic in small teams (30%)"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#project-50",
-    "href": "fr/slides/lec-01_intro.slides.html#project-50",
-    "title": "Advanced stats and Open Science",
-    "section": "Project (50%)",
-    "text": "Project (50%)\n\nanalysis of data using techniques from courses or beyond\nReport written using Rmarkdown\nposted on Github classroom"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#softwares",
-    "href": "fr/slides/lec-01_intro.slides.html#softwares",
-    "title": "Advanced stats and Open Science",
-    "section": "Softwares",
-    "text": "Softwares\n\nR (version 4.0 or higher)\nText editor: Rstudio or VSCode\nR packages (up to date)\n\nopen science: rmarkdown, tinytex\nmixed models: lme4, gremlin, glmmTMB, MCMCglmm\nlatex: full version or tinytex"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#accounts",
-    "href": "fr/slides/lec-01_intro.slides.html#accounts",
-    "title": "Advanced stats and Open Science",
-    "section": "Accounts",
-    "text": "Accounts\n\ngithub (https://github.com/)\nOpen Science Framework (OSF, https://osf.io/)"
-  },
-  {
-    "objectID": "fr/slides/lec-01_intro.slides.html#what-is-expected-from-you-1",
-    "href": "fr/slides/lec-01_intro.slides.html#what-is-expected-from-you-1",
-    "title": "Advanced stats and Open Science",
-    "section": "What is expected from you",
-    "text": "What is expected from you\n\nWeekly Reading\nIn class participation\nDo the praticals\n\n\n\n\nBIO 8940 - Lecture 1"
   },
   {
     "objectID": "en/index.html",
@@ -607,7 +460,7 @@
     "href": "en/lectures.html#schedule",
     "title": "Slides and course notes",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 4\nNo lab\n\n\n\n\n\nSep 9\nConfidence intervals & statistical models\n\n\n\n\nSep 11\nGaussian dist, SEM & CLT\n\n\n\n\nSep 11\nNo lab\n\n\n\n\n\nSep 16\nGaussian dist, SEM & CLT\n\n\n\n\nSep 18\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 18\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 23\nPower & Bayes\n\n\n\n\nSep 25\nCorrelation and regression\n\n\n\n\nSep 25\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 30\nCorrelation and regression\n\n\n\n\nOct 2\nComparison of 2 groups\n\n\n\n\nOct 2\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 7\nComparison of 2 groups\n\n\n\n\nOct 9\nOne-way Anova\n\n\n\n\nOct 9\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 21\nOne-way Anova\n\n\n\n\nOct 23\nNo class\n\n\n\n\nOct 23\nMid-term\n\n\nin person during practical\n\n\nOct 28\nMulti-way ANOVA\n\n\n\n\nOct 30\nMulti-way ANOVA\n\n\n\n\nOct 30\nLab: One-way ANOVA\nchap 11\nReport 4: Two-sample comparisons\n\n\nNov 4\nMultiple regression\n\n\n\n\nNov 6\nMultiple regression\n\n\n\n\nNov 6\nLab: Multiway ANOVA\nchap 12\nReport 5: One-way ANOVA\n\n\nNov 11\nANCOVA\n\n\n\n\nNov 13\nANCOVA\n\n\n\n\nNov 13\nLab: Multiple regression\nchap 13\nReport 6: Multi-way ANOVA\n\n\nNov 18\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nLab: General linear model\nchap 14\nReport 7: Multiple regression\n\n\nNov 25\na glimpse at extending the linear model\n\n\n\n\nNov 27\n\n\n\n\n\nNov 27\nLab: Analysis of frequency data\nchap 15\nReport 8: General linear model\n\n\nDec 2\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 4\nNo lab\n\n\n\n\nSep 9\nConfidence intervals & statistical models\n\n\n\n\nSep 11\nGaussian dist, SEM & CLT\n\n\n\n\nSep 11\nNo lab\n\n\n\n\nSep 16\nGaussian dist, SEM & CLT\n\n\n\n\nSep 18\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 18\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 23\nPower & Bayes\n\n\n\n\nSep 25\nCorrelation and regression\n\n\n\n\nSep 25\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 30\nCorrelation and regression\n\n\n\n\nOct 2\nComparison of 2 groups\n\n\n\n\nOct 2\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 7\nComparison of 2 groups\n\n\n\n\nOct 9\nOne-way Anova\n\n\n\n\nOct 9\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 21\nOne-way Anova\n\n\n\n\nOct 23\nNo class\n\n\n\n\nOct 23\nMid-term\n\nin person during practical\n\n\nOct 28\nMulti-way ANOVA\n\n\n\n\nOct 30\nMulti-way ANOVA\n\n\n\n\nOct 30\nLab: One-way ANOVA\nchap 11\nReport 4: Two-sample comparisons\n\n\nNov 4\nMultiple regression\n\n\n\n\nNov 6\nMultiple regression\n\n\n\n\nNov 6\nLab: Multiway ANOVA\nchap 12\nReport 5: One-way ANOVA\n\n\nNov 11\nANCOVA\n\n\n\n\nNov 13\nANCOVA\n\n\n\n\nNov 13\nLab: Multiple regression\nchap 13\nReport 6: Multi-way ANOVA\n\n\nNov 18\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nLab: General linear model\nchap 14\nReport 7: Multiple regression\n\n\nNov 25\na glimpse at extending the linear model\n\n\n\n\nNov 27\n\n\n\n\n\nNov 27\nLab: Analysis of frequency data\nchap 15\nReport 8: General linear model\n\n\nDec 2\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
     "crumbs": [
       "Biostats uOttawa",
       "Schedule"
