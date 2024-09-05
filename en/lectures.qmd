@@ -59,23 +59,23 @@ schedule <- schedule_df %>%
   ) %>%
   ungroup() %>%
   mutate(
+    Reading = ifelse(is.na(reading), " ", reading),
     Material = case_when(
       session != 3 & lecture == TRUE ~ glue("<a class='fa fa-display' href='{lecture_file}' target='_blank'></a> <a class='fa fa-note-sticky' href='{notes_file}' target='_blank'></a>"),
-      session == 3 ~ reading,
-      TRUE ~ ""
+      session == 3 ~ Reading,
+      TRUE ~ " "
     ),
-    Topic = ifelse(is.na(topic), "", topic),
-    Assessment = ifelse(is.na(assessment), "", assessment),
-    Reading = ifelse(is.na(reading), "", reading),
+    Topic = ifelse(is.na(topic), " ", topic),
+    Assessment = ifelse(is.na(assessment), " ", assessment),
     Date = as.Date(
       case_when(
         week == 21 ~ ymd(dat$date_read),
         week == 31 ~ ymd(dat$date_final),
-        day == "wed" & week <= 6 ~ ymd(dat$date_start) + weeks(week-1),
+        day == "wed" & week <= 6 ~ ymd(dat$date_start) + weeks(week - 1),
         day == "wed" & week > 6 ~ ymd(dat$date_start) + weeks(week),
-        day == "mon" & week <= 6 ~ ymd(dat$date_start) + weeks(week-1) - days(2),
+        day == "mon" & week <= 6 ~ ymd(dat$date_start) + weeks(week - 1) - days(2),
         day == "mon" & week > 6 ~ ymd(dat$date_start) + weeks(week) - days(2),
-        day == "thu" & week <= 6 ~ ymd(dat$date_start) + weeks(week-1) + days(1),
+        day == "thu" & week <= 6 ~ ymd(dat$date_start) + weeks(week - 1) + days(1),
         day == "thu" & week > 6 ~ ymd(dat$date_start) + weeks(week) + days(1)
       )
     ),
@@ -84,9 +84,10 @@ schedule <- schedule_df %>%
   select(Date, Topic, Material, Assessment, week, wk) %>%
   arrange(Date) %>%
   mutate(Date = case_match(week,
-        21 ~ NA,
-        31 ~ NA,
-        .default = Date))
+    21 ~ NA,
+    31 ~ NA,
+    .default = Date
+  ))
 
 midsem_break <- 6 # after which week
 

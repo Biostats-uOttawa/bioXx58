@@ -29,7 +29,7 @@ schedule:
     session: 3
     topic: "[Lab: *intro à R*]{.underline}"
     reading: "[chap 1-4](https://biostats-uottawa.github.io/R/en/)"
-    assessment: ""
+    assessment: " "
   - week: 4
     session: 1
     topic: "Puissance statistique et inférence bayésienne"
@@ -127,7 +127,7 @@ schedule:
     topic: "Modèles linéaires généralisés (intro)"
   - week: 12
     session: 2
-    topic: ""
+    topic: " "
   - week: 12
     session: 3
     topic: "[Lab: *Analyse de données de fréquence*]{.underline}"

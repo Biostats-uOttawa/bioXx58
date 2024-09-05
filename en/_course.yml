@@ -127,7 +127,7 @@ schedule:
     topic: "a glimpse at extending the linear model"
   - week: 12
     session: 2
-    topic: ""
+    topic: " "
   - week: 12
     session: 3
     topic: "[Lab: *Analysis of frequency data*]{.underline}"
