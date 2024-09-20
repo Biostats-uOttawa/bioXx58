@@ -20,7 +20,7 @@ Le cours couvre les fondements des statistiques (distributions, ICs, p-values, t
 - Style : mélange d'exposés, de discussions et de travaux pratiques
 - Comment ? En personne.
 - Informations sur le cours et diapositives : [https://biostats-uottawa.github.io/bioXx58/](https://biostats-uottawa.github.io/bioXx58/)
-- Manuel de laboratoire : [https://biostats-uottawa.github.io/R/en/](https://biostats-uottawa.github.io/R/en/)
+- Manuel de laboratoire : [https://biostats-uottawa.github.io/enfR/](https://biostats-uottawa.github.io/enfR/)
 
 {{< include who_when.qmd >}}
 

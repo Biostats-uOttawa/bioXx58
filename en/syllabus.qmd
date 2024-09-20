@@ -20,7 +20,7 @@ The course covers the fundations of statistics (distributions, CIs, p-values, ce
 * Style: mix of lecture, discussion and practical
 * How: In-person. 
 * Course info and slides: <https://biostats-uottawa.github.io/bioXx58/>
-* Lab manual: <https://biostats-uottawa.github.io/R/en/>
+* Lab manual: <https://biostats-uottawa.github.io/Rway/>
 
 {{< include who_when.qmd >}}
 

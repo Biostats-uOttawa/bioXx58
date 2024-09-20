@@ -16,8 +16,8 @@
 [quarto_install]: https://quarto.org/docs/get-started/
 [quarto]: https://quarto.org/
 
-[r_way_en]: https://biostats-uottawa.github.io/R/en/
-[r_way_fr]: https://biostats-uottawa.github.io/R/fr/
-[r_chap_en]: https://biostats-uottawa.github.io/R/en/#chapters-to-read
-[r_chap_fr]: https://biostats-uottawa.github.io/R/fr/#chapitres-a-lire
+[r_way_en]: https://biostats-uottawa.github.io/Rway/
+[r_way_fr]: https://biostats-uottawa.github.io/enfR/
+[r_chap_en]: https://biostats-uottawa.github.io/Rway/#chapters-to-read
+[r_chap_fr]: https://biostats-uottawa.github.io/enfR/#chapitres-a-lire
 [brightspace]: https://uottawa.brightspace.com/d2l/home

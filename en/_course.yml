@@ -28,7 +28,7 @@ schedule:
   - week: 3
     session: 3
     topic: "[Lab: *intro to R*]{.underline}"
-    reading: "[chap 1-4](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 1-4](https://biostats-uottawa.github.io/Rway/)"
     assessment: "#1 Hypothesis and model"
   - week: 4
     session: 1
@@ -39,7 +39,7 @@ schedule:
   - week: 4
     session: 3
     topic: "[Lab: *Power analysis with G*Power*]{.underline}"
-    reading: "[chap 8](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 8](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 1: Hypothesis"
   - week: 5
     session: 1
@@ -50,7 +50,7 @@ schedule:
   - week: 5
     session: 3
     topic: "[Lab: *Correlation & linear regression*]{.underline}"
-    reading: "[chap 9](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 9](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 2: power"
   - week: 6
     session: 1
@@ -61,7 +61,7 @@ schedule:
   - week: 6
     session: 3
     topic: "[Lab: *Two-sample comparisons*]{.underline}"
-    reading: "[chap 10](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 10](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 3: Regression"
 ################################################################################
 ## reading_week
@@ -87,7 +87,7 @@ schedule:
   - week: 8
     session: 3
     topic: "[Lab: *One-way ANOVA*]{.underline}"
-    reading: "[chap 11](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 11](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 4: Two-sample comparisons"
   - week: 9
     session: 1
@@ -98,7 +98,7 @@ schedule:
   - week: 9
     session: 3
     topic: "[Lab: *Multiway ANOVA*]{.underline}"
-    reading: "[chap 12](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 12](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 5: One-way ANOVA"
   - week: 10
     session: 1
@@ -109,7 +109,7 @@ schedule:
   - week: 10
     session: 3
     topic: "[Lab: *Multiple regression*]{.underline}"
-    reading: "[chap 13](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 13](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 6: Multi-way ANOVA"
   - week: 11
     session: 1
@@ -120,7 +120,7 @@ schedule:
   - week: 11
     session: 3
     topic: "[Lab: *General linear model*]{.underline}"
-    reading: "[chap 14](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 14](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 7: Multiple regression"
   - week: 12
     session: 1
@@ -131,7 +131,7 @@ schedule:
   - week: 12
     session: 3
     topic: "[Lab: *Analysis of frequency data*]{.underline}"
-    reading: "[chap 15](https://biostats-uottawa.github.io/R/en/)"
+    reading: "[chap 15](https://biostats-uottawa.github.io/Rway/)"
     assessment: "Report 8: General linear model"
   - week: 13
     session: 1
