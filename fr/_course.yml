@@ -149,11 +149,11 @@ schedule:
 team:
   - name: Julien Martin
     role: lecturer
-    consult: Lundi 1430-1530 (in-person & online)
+    consult: Lundi 1430-1530 (GNN 279)
     contact: "[email](people.qmd)"
   - name: Augustin Birot
     role: TA
-    consult: TBA (in-person)
+    consult: Mercredi 1530-1630 (GNN Hall 4^ième^)
     contact: "[email](mailto:abiro093@uottawa.ca)"
 
 timetable:
