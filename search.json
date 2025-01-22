@@ -1,64 +1,10 @@
 [
   {
-    "objectID": "fr/who_when.html",
-    "href": "fr/who_when.html",
-    "title": "Bio4x58-5x58",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Applied Biostatistics with R  Biostatistiques appliquées avec R",
     "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nAugustin Birot (email)"
-  },
-  {
-    "objectID": "fr/who_when.html#léquipe-enseignante",
-    "href": "fr/who_when.html#léquipe-enseignante",
-    "title": "Bio4x58-5x58",
-    "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nAugustin Birot (email)"
-  },
-  {
-    "objectID": "fr/who_when.html#heures-de-bureau",
-    "href": "fr/who_when.html#heures-de-bureau",
-    "title": "Bio4x58-5x58",
-    "section": "Heures de bureau ",
-    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJulien Martin: Lundi 1430-1530 (GNN 279)\nAugustin Birot: Mercredi 1530-1630 (GNN Hall 4ième)"
-  },
-  {
-    "objectID": "fr/who_when.html#calendrier",
-    "href": "fr/who_when.html#calendrier",
-    "title": "Bio4x58-5x58",
-    "section": "Calendrier ",
-    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens."
-  },
-  {
-    "objectID": "fr/dataset.html",
-    "href": "fr/dataset.html",
-    "title": "Données et code",
-    "section": "",
-    "text": "Tous les fichiers de données et de code dans un fichier zip",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Données et code"
-    ]
-  },
-  {
-    "objectID": "fr/dataset.html#données-pour-les-travaux-pratiques",
-    "href": "fr/dataset.html#données-pour-les-travaux-pratiques",
-    "title": "Données et code",
-    "section": "Données pour les travaux pratiques",
-    "text": "Données pour les travaux pratiques\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Données et code"
-    ]
-  },
-  {
-    "objectID": "fr/dataset.html#code-r-et-fonctions-utilisées-dans-les-diapositives",
-    "href": "fr/dataset.html#code-r-et-fonctions-utilisées-dans-les-diapositives",
-    "title": "Données et code",
-    "section": "Code R et fonctions utilisées dans les diapositives",
-    "text": "Code R et fonctions utilisées dans les diapositives",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Données et code"
-    ]
+    "text": "Français / English"
   },
   {
     "objectID": "fr/syllabus.html",
@@ -149,36 +95,14 @@
     ]
   },
   {
-    "objectID": "fr/lectures.html",
-    "href": "fr/lectures.html",
-    "title": "Diapositives et notes de cours",
+    "objectID": "fr/people.html",
+    "href": "fr/people.html",
+    "title": "Julien Martin",
     "section": "",
-    "text": "Disponibilité des diapositives et soumissions\n\n\n\nLes diapositives et la soumission des travaux de cours se font via brighspace.",
+    "text": "Julien est Professeur agrégé à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 15 ans.\nJ’ai créé le site internet en utilisant Quarto, R, revealjs, mermaid.js et graphViz. J’ai developpé le thème de mes présentations à partir de du theme “blackboard” pour xaringan.",
     "crumbs": [
       "Biostats uOttawa",
-      "Calendrier"
-    ]
-  },
-  {
-    "objectID": "fr/lectures.html#calendrier",
-    "href": "fr/lectures.html#calendrier",
-    "title": "Diapositives et notes de cours",
-    "section": "Calendrier",
-    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 5\nPas de labo\n\n\n\n\nSep 9\nÉchantillons et populations\n\n\n\n\nSep 11\nDistributions\n\n\n\n\nSep 12\nPas de labo\n\n\n\n\nSep 16\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nSep 18\nValeurs de P et test d’hypothèse\n\n\n\n\nSep 19\nLab: intro à R\nchap 1-4\n\n\n\nSep 23\nPuissance statistique et inférence bayésienne\n\n\n\n\nSep 25\nCorrélation et régression linéaire simple\n\n\n\n\nSep 26\nLab: Puissance statistique\nchap 8\nRapport 1: Hypothèses\n\n\nSep 30\nCorrélation et régression linéaire simple\n\n\n\n\nOct 2\nComparaison de 2 groupes\n\n\n\n\nOct 3\nLab: Corrélation et régression linéaire simple\nchap 9\nRapport 2: puissance\n\n\nOct 7\nComparaison de 2 groupes\n\n\n\n\nOct 9\nANOVA simple\n\n\n\n\nOct 10\nLab: ANOVA simple\nchap 10\nRapport 3: Régression\n\n\n\n\nSemaine de relâche\n\n\n\n\nOct 21\nANOVA simple\n\n\n\n\nOct 23\nPas de classe\n\n\n\n\nOct 24\nMid-session\n\nen personne pendant le labo\n\n\nOct 28\nANOVA multiple\n\n\n\n\nOct 30\nANOVA multiple\n\n\n\n\nOct 31\nLab: ANOVA simple\nchap 11\nRapport 4: Comparaison de 2 groupes\n\n\nNov 4\nRégression multiple\n\n\n\n\nNov 6\nRégression multiple\n\n\n\n\nNov 7\nLab: ANOVA multiple\nchap 12\nRapport 5: One-way ANOVA\n\n\nNov 11\nModèle linéaire général\n\n\n\n\nNov 13\nModèle linéaire général\n\n\n\n\nNov 14\nLab: Régression multiple\nchap 13\nRapport 6: ANOVA multiple\n\n\nNov 18\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 20\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 21\nLab: Modèle linéaire général\nchap 14\nRapport 7: Régression multiple\n\n\nNov 25\nModèles linéaires généralisés (intro)\n\n\n\n\nNov 27\n\n\n\n\n\nNov 28\nLab: Analyse de données de fréquence\nchap 15\nRapport 8: Modèle linéaire général\n\n\nDec 2\nQ&R\n\n\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Calendrier"
-    ]
-  },
-  {
-    "objectID": "fr/lectures.html#à-propos-des-diapositives-et-notes",
-    "href": "fr/lectures.html#à-propos-des-diapositives-et-notes",
-    "title": "Diapositives et notes de cours",
-    "section": "À propos des diapositives  et notes ",
-    "text": "À propos des diapositives  et notes \n\nDiapositives \nDiapositives en revealjs format (html). Si vous les souhaitez en format pdf (Remarque : il se peut que vous perdiez certaines fonctionnalités ou certains contenus en raison des onglets et des sections de défilement.) :\n\nOuvrez les diapositives dans votre navigateur à partir d’un lien sur cette page\nAppuyez sur e pour passer en mode d’exportation PDF (?print-pdf devrait apparaître vers la fin de l’url et des bordures blanches devraient apparaître.)\nOuvrez la boîte de dialogue d’impression du navigateur (CTRL/CMD+P).\nModifiez l’option Destination en Save as PDF.\nModifier le Layout à Landscape.\nModifier le Margins à None.\nActivez l’option Graphiques d’arrière-plan (si vous le souhaitez)\nCliquez sur Enregistrer 🎉\n\n\n\nNotes \nContenu des diapositives au format html sous la forme d’un fichier téléchargeable autonome et comprenant des onglets et des sections de défilement.\nPlus important encore, les notes ont les outils de commentaire et d’annotation activés via https://hypothes.is/. Si vous créez un compte gratuit, vous pouvez annoter et commenter des diapositives et partager vos annotations/commentaires avec le public ou via des groupes privés ou publics.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Calendrier"
+      "Contact"
     ]
   },
   {
@@ -223,115 +147,6 @@
     "crumbs": [
       "Biostats uOttawa",
       "Info générale"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Applied Biostatistics with R  Biostatistiques appliquées avec R",
-    "section": "",
-    "text": "Français / English"
-  },
-  {
-    "objectID": "en/practical.html",
-    "href": "en/practical.html",
-    "title": "Practicals",
-    "section": "",
-    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule (for an overview see [here][r-chap-en]).\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Practicals"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html",
-    "href": "en/assessment.html",
-    "title": "Bio4x58-5x58",
-    "section": "",
-    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#assessment-weights",
-    "href": "en/assessment.html#assessment-weights",
-    "title": "Bio4x58-5x58",
-    "section": "",
-    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#lab-assignments",
-    "href": "en/assessment.html#lab-assignments",
-    "title": "Bio4x58-5x58",
-    "section": "Lab assignments",
-    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#exams",
-    "href": "en/assessment.html#exams",
-    "title": "Bio4x58-5x58",
-    "section": "Exams",
-    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\nFinal exam (Bio4158 only)\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "en/assessment.html#extra-report-bio5158-only",
-    "href": "en/assessment.html#extra-report-bio5158-only",
-    "title": "Bio4x58-5x58",
-    "section": "Extra report (Bio5158 only)",
-    "text": "Extra report (Bio5158 only)\nThe final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Assessments"
-    ]
-  },
-  {
-    "objectID": "fr/404.html",
-    "href": "fr/404.html",
-    "title": "Page Not Found",
-    "section": "",
-    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
-  },
-  {
-    "objectID": "en/404.html",
-    "href": "en/404.html",
-    "title": "Page Not Found",
-    "section": "",
-    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
-  },
-  {
-    "objectID": "en/people.html",
-    "href": "en/people.html",
-    "title": "Julien Martin",
-    "section": "",
-    "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Contact"
-    ]
-  },
-  {
-    "objectID": "fr/people.html",
-    "href": "fr/people.html",
-    "title": "Julien Martin",
-    "section": "",
-    "text": "Julien est Professeur agrégé à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 15 ans.\nJ’ai créé le site internet en utilisant Quarto, R, revealjs, mermaid.js et graphViz. J’ai developpé le thème de mes présentations à partir de du theme “blackboard” pour xaringan.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Contact"
     ]
   },
   {
@@ -390,14 +205,170 @@
     ]
   },
   {
-    "objectID": "fr/practical.html",
-    "href": "fr/practical.html",
-    "title": "Laboratoires",
+    "objectID": "en/who_when.html",
+    "href": "en/who_when.html",
+    "title": "Bio4x58-5x58",
     "section": "",
-    "text": "Informations générales\nIl y a 8 travaux pratiques pendant le trimestre. Les travaux pratiques se feront en équipes de 1 à 3 pendant toute la durée du semestre. Veuillez apporter votre ordinateur portable et assurez-vous d’avoir une version récente de R (4.0.0 ou plus) ainsi qu’un IDE R tel que RStudio ou VSCode. Enfin, il est fortement recommandé d’avoir le logiciel quarto pour produire des rapports reproductibles.\nVous trouverez tous les exercices pratiques dans le livre “Sur le chemin de l’enf-R” avec des chapitres spécifiques à lire et à travailler indiqués dans le calendrier (pour une vue d’ensemble voir [ici][r-chap-fr]).",
+    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nWyeth Blumberg (email)"
+  },
+  {
+    "objectID": "en/who_when.html#teaching-team",
+    "href": "en/who_when.html#teaching-team",
+    "title": "Bio4x58-5x58",
+    "section": "",
+    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nWyeth Blumberg (email)"
+  },
+  {
+    "objectID": "en/who_when.html#office-hours",
+    "href": "en/who_when.html#office-hours",
+    "title": "Bio4x58-5x58",
+    "section": "Office hours ",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nWyeth Blumberg: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)"
+  },
+  {
+    "objectID": "en/who_when.html#schedule",
+    "href": "en/who_when.html#schedule",
+    "title": "Bio4x58-5x58",
+    "section": "Schedule ",
+    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in SMD-425\nWednesdays, 1130-1250 in SMD-224\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week."
+  },
+  {
+    "objectID": "en/practical.html",
+    "href": "en/practical.html",
+    "title": "Practicals",
+    "section": "",
+    "text": "General info\nThere are 8 practicals during the term. Practicals will be done in teams of 1-3 for the entire term. Please bring your laptop and make sure to have a recent version of R (4.0.0 or higher) as well as a R IDE such as RStudio or VSCode. Finally it is highly recommended to also have quarto software to produce reproducible reports.\nYou will find all the practicals exercises in the book “On the R way to hell” with specific chapters to read and work on indicated in the schedule (for an overview see [here][r-chap-en]).\nAs part of the course you will have to submit lab reports (see Assessments for details).\nI strongly suggest to read the practical material before coming, then used the first half of the practical to go through the exercises and take the second half to start working on the lab reports.\nTo write lab reports you can use quarto to produce nicely and easily formatted document in a reproducible manner. A template of a quarto document will be provided for each lab report.",
     "crumbs": [
       "Biostats uOttawa",
-      "Labo"
+      "Practicals"
+    ]
+  },
+  {
+    "objectID": "en/lectures.html",
+    "href": "en/lectures.html",
+    "title": "Slides and course notes",
+    "section": "",
+    "text": "Slides availability and submissions\n\n\n\nSlides and submission of course work is done via brighspace.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "en/lectures.html#schedule",
+    "href": "en/lectures.html#schedule",
+    "title": "Slides and course notes",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 4\nNo lab\n\n\n\n\nSep 9\nConfidence intervals & statistical models\n\n\n\n\nSep 11\nGaussian dist, SEM & CLT\n\n\n\n\nSep 11\nNo lab\n\n\n\n\nSep 16\nGaussian dist, SEM & CLT\n\n\n\n\nSep 18\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 18\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 23\nPower & Bayes\n\n\n\n\nSep 25\nCorrelation and regression\n\n\n\n\nSep 25\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 30\nCorrelation and regression\n\n\n\n\nOct 2\nComparison of 2 groups\n\n\n\n\nOct 2\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 7\nComparison of 2 groups\n\n\n\n\nOct 9\nOne-way Anova\n\n\n\n\nOct 9\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 21\nOne-way Anova\n\n\n\n\nOct 23\nNo class\n\n\n\n\nOct 23\nMid-term\n\nin person during practical\n\n\nOct 28\nMulti-way ANOVA\n\n\n\n\nOct 30\nMulti-way ANOVA\n\n\n\n\nOct 30\nLab: One-way ANOVA\nchap 11\nReport 4: Two-sample comparisons\n\n\nNov 4\nMultiple regression\n\n\n\n\nNov 6\nMultiple regression\n\n\n\n\nNov 6\nLab: Multiway ANOVA\nchap 12\nReport 5: One-way ANOVA\n\n\nNov 11\nANCOVA\n\n\n\n\nNov 13\nANCOVA\n\n\n\n\nNov 13\nLab: Multiple regression\nchap 13\nReport 6: Multi-way ANOVA\n\n\nNov 18\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nLab: General linear model\nchap 14\nReport 7: Multiple regression\n\n\nNov 25\na glimpse at extending the linear model\n\n\n\n\nNov 27\n\n\n\n\n\nNov 27\nLab: Analysis of frequency data\nchap 15\nReport 8: General linear model\n\n\nDec 2\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "en/lectures.html#about-slides-and-notes",
+    "href": "en/lectures.html#about-slides-and-notes",
+    "title": "Slides and course notes",
+    "section": "About slides  and notes ",
+    "text": "About slides  and notes \n\nSlides \nSlides in revealjs format (html). If you want then as a pdf (note you might loose some functionality or contents due to tabs and scroll sections):\n\nOpen the slides in your browser from a link on this page\nPress e to get into the PDF export mode (?print-pdf should appear near the end of the url and white borders should appear)\nOpen the in-browser print dialog (CTRL/CMD+P).\nChange the Destination setting to Save as PDF.\nChange the Layout to Landscape.\nChange the Margins to None.\nEnable the Background graphics option (if you want it)\nClick Save 🎉\n\n\n\nNotes \nContent of the slides in html format as a self-contained downloadable file and including tabs and scroll sections.\nMore importantly, notes have the commenting and annotateing tools activated via https://hypothes.is/. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "en/dataset.html",
+    "href": "en/dataset.html",
+    "title": "Data and code",
+    "section": "",
+    "text": "All data and code files in a nice zip file",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "en/dataset.html#data-for-practicals",
+    "href": "en/dataset.html#data-for-practicals",
+    "title": "Data and code",
+    "section": "Data for practicals",
+    "text": "Data for practicals\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "en/dataset.html#r-code-and-functions-used-in-slides",
+    "href": "en/dataset.html#r-code-and-functions-used-in-slides",
+    "title": "Data and code",
+    "section": "R code and functions used in slides",
+    "text": "R code and functions used in slides",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Data and code"
+    ]
+  },
+  {
+    "objectID": "en/404.html",
+    "href": "en/404.html",
+    "title": "Page Not Found",
+    "section": "",
+    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+  },
+  {
+    "objectID": "en/assessment.html",
+    "href": "en/assessment.html",
+    "title": "Bio4x58-5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#assessment-weights",
+    "href": "en/assessment.html#assessment-weights",
+    "title": "Bio4x58-5x58",
+    "section": "",
+    "text": "Lab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal exam (during exam week): 40%\n\n\n\n\n\nLab assignments: 40% (8 reports throughout the term, 5% each)\nMidterm (during lab after reading week): 20%\nFinal report (to submit before exam week): 40%",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#lab-assignments",
+    "href": "en/assessment.html#lab-assignments",
+    "title": "Bio4x58-5x58",
+    "section": "Lab assignments",
+    "text": "Lab assignments\nThe written reports count for 40% of the final grade. There are 8 reports and thus are 5% each. You can work individually or in teams up to three (latter is encouraged). If you submit a team assignment, except under exceptional circumstances all members of the team will receive the same grade. You must submit a single PDF copy of your assignments with all students names and ID listed at the top (submit a single copy for the group). Late assignments will be penalized 10% per day or part thereof. Assignments will consist of either a series of questions to answer or a statistical analysis to perform. Specific grading scheme is provided for each report on Brightspace",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#exams",
+    "href": "en/assessment.html#exams",
+    "title": "Bio4x58-5x58",
+    "section": "Exams",
+    "text": "Exams\n\nMidterm\n1h30 long after the Reading week proctored during a practical. In class (see schedule for date), open book, calculators are permitted. A make-up will not be offered.  The midterm will be available on the course website afterwards; if you do not write it officially (e.g. for medical reasons), then I strongly suggest you attempt it on your own time. We will happily mark it to provide feedback (your mark won’t count toward your final grade). Those who miss the midterm and do not do this generally perform poorly on the final.\n\n\nFinal exam (Bio4158 only)\nThis is an open book exam, with course notes and calculators permitted. The exam will be 3h and ask both theoretical and practical questions including some small calcul, No need to run any R code.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "en/assessment.html#extra-report-bio5158-only",
+    "href": "en/assessment.html#extra-report-bio5158-only",
+    "title": "Bio4x58-5x58",
+    "section": "Extra report (Bio5158 only)",
+    "text": "Extra report (Bio5158 only)\nThe final evaluation will take the form of a written report of the analysis of data (unique to each student) of 15 pages and to be submitted before the exam period.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Assessments"
     ]
   },
   {
@@ -445,36 +416,14 @@
     ]
   },
   {
-    "objectID": "en/lectures.html",
-    "href": "en/lectures.html",
-    "title": "Slides and course notes",
+    "objectID": "en/people.html",
+    "href": "en/people.html",
+    "title": "Julien Martin",
     "section": "",
-    "text": "Slides availability and submissions\n\n\n\nSlides and submission of course work is done via brighspace.",
+    "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
     "crumbs": [
       "Biostats uOttawa",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "en/lectures.html#schedule",
-    "href": "en/lectures.html#schedule",
-    "title": "Slides and course notes",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 4\nNo lab\n\n\n\n\nSep 9\nConfidence intervals & statistical models\n\n\n\n\nSep 11\nGaussian dist, SEM & CLT\n\n\n\n\nSep 11\nNo lab\n\n\n\n\nSep 16\nGaussian dist, SEM & CLT\n\n\n\n\nSep 18\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 18\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 23\nPower & Bayes\n\n\n\n\nSep 25\nCorrelation and regression\n\n\n\n\nSep 25\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 30\nCorrelation and regression\n\n\n\n\nOct 2\nComparison of 2 groups\n\n\n\n\nOct 2\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 7\nComparison of 2 groups\n\n\n\n\nOct 9\nOne-way Anova\n\n\n\n\nOct 9\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 21\nOne-way Anova\n\n\n\n\nOct 23\nNo class\n\n\n\n\nOct 23\nMid-term\n\nin person during practical\n\n\nOct 28\nMulti-way ANOVA\n\n\n\n\nOct 30\nMulti-way ANOVA\n\n\n\n\nOct 30\nLab: One-way ANOVA\nchap 11\nReport 4: Two-sample comparisons\n\n\nNov 4\nMultiple regression\n\n\n\n\nNov 6\nMultiple regression\n\n\n\n\nNov 6\nLab: Multiway ANOVA\nchap 12\nReport 5: One-way ANOVA\n\n\nNov 11\nANCOVA\n\n\n\n\nNov 13\nANCOVA\n\n\n\n\nNov 13\nLab: Multiple regression\nchap 13\nReport 6: Multi-way ANOVA\n\n\nNov 18\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nLab: General linear model\nchap 14\nReport 7: Multiple regression\n\n\nNov 25\na glimpse at extending the linear model\n\n\n\n\nNov 27\n\n\n\n\n\nNov 27\nLab: Analysis of frequency data\nchap 15\nReport 8: General linear model\n\n\nDec 2\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "en/lectures.html#about-slides-and-notes",
-    "href": "en/lectures.html#about-slides-and-notes",
-    "title": "Slides and course notes",
-    "section": "About slides  and notes ",
-    "text": "About slides  and notes \n\nSlides \nSlides in revealjs format (html). If you want then as a pdf (note you might loose some functionality or contents due to tabs and scroll sections):\n\nOpen the slides in your browser from a link on this page\nPress e to get into the PDF export mode (?print-pdf should appear near the end of the url and white borders should appear)\nOpen the in-browser print dialog (CTRL/CMD+P).\nChange the Destination setting to Save as PDF.\nChange the Layout to Landscape.\nChange the Margins to None.\nEnable the Background graphics option (if you want it)\nClick Save 🎉\n\n\n\nNotes \nContent of the slides in html format as a self-contained downloadable file and including tabs and scroll sections.\nMore importantly, notes have the commenting and annotateing tools activated via https://hypothes.is/. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.",
-    "crumbs": [
-      "Biostats uOttawa",
-      "Schedule"
+      "Contact"
     ]
   },
   {
@@ -566,64 +515,115 @@
     ]
   },
   {
-    "objectID": "en/dataset.html",
-    "href": "en/dataset.html",
-    "title": "Data and code",
+    "objectID": "fr/404.html",
+    "href": "fr/404.html",
+    "title": "Page Not Found",
     "section": "",
-    "text": "All data and code files in a nice zip file",
+    "text": "It seems you R lost (bad pun intended)\nThe page you requested cannot be found (perhaps it was moved or it is still in development)."
+  },
+  {
+    "objectID": "fr/dataset.html",
+    "href": "fr/dataset.html",
+    "title": "Données et code",
+    "section": "",
+    "text": "Tous les fichiers de données et de code dans un fichier zip",
     "crumbs": [
       "Biostats uOttawa",
-      "Data and code"
+      "Données et code"
     ]
   },
   {
-    "objectID": "en/dataset.html#data-for-practicals",
-    "href": "en/dataset.html#data-for-practicals",
-    "title": "Data and code",
-    "section": "Data for practicals",
-    "text": "Data for practicals\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
+    "objectID": "fr/dataset.html#données-pour-les-travaux-pratiques",
+    "href": "fr/dataset.html#données-pour-les-travaux-pratiques",
+    "title": "Données et code",
+    "section": "Données pour les travaux pratiques",
+    "text": "Données pour les travaux pratiques\n\nage.csv\nanc1dat.csv\nanc3dat.csv\nBiston_pd_1.csv\nBiston_pd_2.csv\nBiston_student.csv\nBiston.postdoc.csv\nBiston.prof.csv\nDam10dat.csv\nErablesGatineau.csv\nJacobsenDangles_1.csv\nJacobsenDangles_2.csv\nMregdat.csv\nStu2mdat.csv\nStu2wdat.csv\nUSPopSurvey.csv",
     "crumbs": [
       "Biostats uOttawa",
-      "Data and code"
+      "Données et code"
     ]
   },
   {
-    "objectID": "en/dataset.html#r-code-and-functions-used-in-slides",
-    "href": "en/dataset.html#r-code-and-functions-used-in-slides",
-    "title": "Data and code",
-    "section": "R code and functions used in slides",
-    "text": "R code and functions used in slides",
+    "objectID": "fr/dataset.html#code-r-et-fonctions-utilisées-dans-les-diapositives",
+    "href": "fr/dataset.html#code-r-et-fonctions-utilisées-dans-les-diapositives",
+    "title": "Données et code",
+    "section": "Code R et fonctions utilisées dans les diapositives",
+    "text": "Code R et fonctions utilisées dans les diapositives",
     "crumbs": [
       "Biostats uOttawa",
-      "Data and code"
+      "Données et code"
     ]
   },
   {
-    "objectID": "en/who_when.html",
-    "href": "en/who_when.html",
+    "objectID": "fr/lectures.html",
+    "href": "fr/lectures.html",
+    "title": "Diapositives et notes de cours",
+    "section": "",
+    "text": "Disponibilité des diapositives et soumissions\n\n\n\nLes diapositives et la soumission des travaux de cours se font via brighspace.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Calendrier"
+    ]
+  },
+  {
+    "objectID": "fr/lectures.html#calendrier",
+    "href": "fr/lectures.html#calendrier",
+    "title": "Diapositives et notes de cours",
+    "section": "Calendrier",
+    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 5\nPas de labo\n\n\n\n\nSep 9\nÉchantillons et populations\n\n\n\n\nSep 11\nDistributions\n\n\n\n\nSep 12\nPas de labo\n\n\n\n\nSep 16\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nSep 18\nValeurs de P et test d’hypothèse\n\n\n\n\nSep 19\nLab: intro à R\nchap 1-4\n\n\n\nSep 23\nPuissance statistique et inférence bayésienne\n\n\n\n\nSep 25\nCorrélation et régression linéaire simple\n\n\n\n\nSep 26\nLab: Puissance statistique\nchap 8\nRapport 1: Hypothèses\n\n\nSep 30\nCorrélation et régression linéaire simple\n\n\n\n\nOct 2\nComparaison de 2 groupes\n\n\n\n\nOct 3\nLab: Corrélation et régression linéaire simple\nchap 9\nRapport 2: puissance\n\n\nOct 7\nComparaison de 2 groupes\n\n\n\n\nOct 9\nANOVA simple\n\n\n\n\nOct 10\nLab: ANOVA simple\nchap 10\nRapport 3: Régression\n\n\n\n\nSemaine de relâche\n\n\n\n\nOct 21\nANOVA simple\n\n\n\n\nOct 23\nPas de classe\n\n\n\n\nOct 24\nMid-session\n\nen personne pendant le labo\n\n\nOct 28\nANOVA multiple\n\n\n\n\nOct 30\nANOVA multiple\n\n\n\n\nOct 31\nLab: ANOVA simple\nchap 11\nRapport 4: Comparaison de 2 groupes\n\n\nNov 4\nRégression multiple\n\n\n\n\nNov 6\nRégression multiple\n\n\n\n\nNov 7\nLab: ANOVA multiple\nchap 12\nRapport 5: One-way ANOVA\n\n\nNov 11\nModèle linéaire général\n\n\n\n\nNov 13\nModèle linéaire général\n\n\n\n\nNov 14\nLab: Régression multiple\nchap 13\nRapport 6: ANOVA multiple\n\n\nNov 18\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 20\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 21\nLab: Modèle linéaire général\nchap 14\nRapport 7: Régression multiple\n\n\nNov 25\nModèles linéaires généralisés (intro)\n\n\n\n\nNov 27\n\n\n\n\n\nNov 28\nLab: Analyse de données de fréquence\nchap 15\nRapport 8: Modèle linéaire général\n\n\nDec 2\nQ&R\n\n\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Calendrier"
+    ]
+  },
+  {
+    "objectID": "fr/lectures.html#à-propos-des-diapositives-et-notes",
+    "href": "fr/lectures.html#à-propos-des-diapositives-et-notes",
+    "title": "Diapositives et notes de cours",
+    "section": "À propos des diapositives  et notes ",
+    "text": "À propos des diapositives  et notes \n\nDiapositives \nDiapositives en revealjs format (html). Si vous les souhaitez en format pdf (Remarque : il se peut que vous perdiez certaines fonctionnalités ou certains contenus en raison des onglets et des sections de défilement.) :\n\nOuvrez les diapositives dans votre navigateur à partir d’un lien sur cette page\nAppuyez sur e pour passer en mode d’exportation PDF (?print-pdf devrait apparaître vers la fin de l’url et des bordures blanches devraient apparaître.)\nOuvrez la boîte de dialogue d’impression du navigateur (CTRL/CMD+P).\nModifiez l’option Destination en Save as PDF.\nModifier le Layout à Landscape.\nModifier le Margins à None.\nActivez l’option Graphiques d’arrière-plan (si vous le souhaitez)\nCliquez sur Enregistrer 🎉\n\n\n\nNotes \nContenu des diapositives au format html sous la forme d’un fichier téléchargeable autonome et comprenant des onglets et des sections de défilement.\nPlus important encore, les notes ont les outils de commentaire et d’annotation activés via https://hypothes.is/. Si vous créez un compte gratuit, vous pouvez annoter et commenter des diapositives et partager vos annotations/commentaires avec le public ou via des groupes privés ou publics.",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Calendrier"
+    ]
+  },
+  {
+    "objectID": "fr/practical.html",
+    "href": "fr/practical.html",
+    "title": "Laboratoires",
+    "section": "",
+    "text": "Informations générales\nIl y a 8 travaux pratiques pendant le trimestre. Les travaux pratiques se feront en équipes de 1 à 3 pendant toute la durée du semestre. Veuillez apporter votre ordinateur portable et assurez-vous d’avoir une version récente de R (4.0.0 ou plus) ainsi qu’un IDE R tel que RStudio ou VSCode. Enfin, il est fortement recommandé d’avoir le logiciel quarto pour produire des rapports reproductibles.\nVous trouverez tous les exercices pratiques dans le livre “Sur le chemin de l’enf-R” avec des chapitres spécifiques à lire et à travailler indiqués dans le calendrier (pour une vue d’ensemble voir [ici][r-chap-fr]).",
+    "crumbs": [
+      "Biostats uOttawa",
+      "Labo"
+    ]
+  },
+  {
+    "objectID": "fr/who_when.html",
+    "href": "fr/who_when.html",
     "title": "Bio4x58-5x58",
     "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nWyeth Blumberg (email)"
+    "text": "Julien Martin (email)\n\n\n\n\n\nAugustin Birot (email)"
   },
   {
-    "objectID": "en/who_when.html#teaching-team",
-    "href": "en/who_when.html#teaching-team",
+    "objectID": "fr/who_when.html#léquipe-enseignante",
+    "href": "fr/who_when.html#léquipe-enseignante",
     "title": "Bio4x58-5x58",
     "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nWyeth Blumberg (email)"
+    "text": "Julien Martin (email)\n\n\n\n\n\nAugustin Birot (email)"
   },
   {
-    "objectID": "en/who_when.html#office-hours",
-    "href": "en/who_when.html#office-hours",
+    "objectID": "fr/who_when.html#heures-de-bureau",
+    "href": "fr/who_when.html#heures-de-bureau",
     "title": "Bio4x58-5x58",
-    "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nWyeth Blumberg: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)"
+    "section": "Heures de bureau ",
+    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJulien Martin: Lundi 1430-1530 (GNN 279)\nAugustin Birot: Mercredi 1530-1630 (GNN Hall 4ième)"
   },
   {
-    "objectID": "en/who_when.html#schedule",
-    "href": "en/who_when.html#schedule",
+    "objectID": "fr/who_when.html#calendrier",
+    "href": "fr/who_when.html#calendrier",
     "title": "Bio4x58-5x58",
-    "section": "Schedule ",
-    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in SMD-425\nWednesdays, 1130-1250 in SMD-224\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week."
+    "section": "Calendrier ",
+    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens."
   }
 ]
