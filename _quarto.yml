@@ -12,6 +12,7 @@ execute:
 
 website:
   google-analytics: G-6LLMGL3T2Q
+  cookie-consent: true
   title: "Bio4x58-5x58"
 #  margin-header: "![](/img/logo_hex.png){width='100px'}"
   description: "Intro. Biostat."
