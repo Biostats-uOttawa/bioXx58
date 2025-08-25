@@ -209,21 +209,21 @@
     "href": "en/who_when.html",
     "title": "Bio4x58-5x58",
     "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nWyeth Blumberg (email)"
+    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nAugustin Birot (email)"
   },
   {
     "objectID": "en/who_when.html#teaching-team",
     "href": "en/who_when.html#teaching-team",
     "title": "Bio4x58-5x58",
     "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nWyeth Blumberg (email)"
+    "text": "Julien Martin (email)\n\n\n\n\n\nLydia Yu (email)\nAugustin Birot (email)"
   },
   {
     "objectID": "en/who_when.html#office-hours",
     "href": "en/who_when.html#office-hours",
     "title": "Bio4x58-5x58",
     "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nWyeth Blumberg: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)"
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nAugustin Birot: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)"
   },
   {
     "objectID": "en/who_when.html#schedule",
@@ -259,7 +259,7 @@
     "href": "en/lectures.html#schedule",
     "title": "Slides and course notes",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 4\nNo lab\n\n\n\n\nSep 9\nConfidence intervals & statistical models\n\n\n\n\nSep 11\nGaussian dist, SEM & CLT\n\n\n\n\nSep 11\nNo lab\n\n\n\n\nSep 16\nGaussian dist, SEM & CLT\n\n\n\n\nSep 18\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 18\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 23\nPower & Bayes\n\n\n\n\nSep 25\nCorrelation and regression\n\n\n\n\nSep 25\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 30\nCorrelation and regression\n\n\n\n\nOct 2\nComparison of 2 groups\n\n\n\n\nOct 2\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 7\nComparison of 2 groups\n\n\n\n\nOct 9\nOne-way Anova\n\n\n\n\nOct 9\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 21\nOne-way Anova\n\n\n\n\nOct 23\nNo class\n\n\n\n\nOct 23\nMid-term\n\nin person during practical\n\n\nOct 28\nMulti-way ANOVA\n\n\n\n\nOct 30\nMulti-way ANOVA\n\n\n\n\nOct 30\nLab: One-way ANOVA\nchap 11\nReport 4: Two-sample comparisons\n\n\nNov 4\nMultiple regression\n\n\n\n\nNov 6\nMultiple regression\n\n\n\n\nNov 6\nLab: Multiway ANOVA\nchap 12\nReport 5: One-way ANOVA\n\n\nNov 11\nANCOVA\n\n\n\n\nNov 13\nANCOVA\n\n\n\n\nNov 13\nLab: Multiple regression\nchap 13\nReport 6: Multi-way ANOVA\n\n\nNov 18\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 20\nLab: General linear model\nchap 14\nReport 7: Multiple regression\n\n\nNov 25\na glimpse at extending the linear model\n\n\n\n\nNov 27\n\n\n\n\n\nNov 27\nLab: Analysis of frequency data\nchap 15\nReport 8: General linear model\n\n\nDec 2\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "text": "Schedule\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 3\nIntroduction\n\n\n\n\nSep 3\nNo lab\n\n\n\n\nSep 8\nConfidence intervals & statistical models\n\n\n\n\nSep 10\nGaussian dist, SEM & CLT\n\n\n\n\nSep 10\nNo lab\n\n\n\n\nSep 15\nGaussian dist, SEM & CLT\n\n\n\n\nSep 17\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 17\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 22\nPower & Bayes\n\n\n\n\nSep 24\nCorrelation and regression\n\n\n\n\nSep 24\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 29\nCorrelation and regression\n\n\n\n\nOct 1\nComparison of 2 groups\n\n\n\n\nOct 1\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 6\nComparison of 2 groups\n\n\n\n\nOct 8\nOne-way Anova\n\n\n\n\nOct 8\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 20\nOne-way Anova\n\n\n\n\nOct 22\nNo class\n\n\n\n\nOct 22\nMid-term\n\nin person during practical\n\n\nOct 27\nMulti-way ANOVA\n\n\n\n\nOct 29\nMulti-way ANOVA\n\n\n\n\nOct 29\nLab: One-way ANOVA\nchap 11\nReport 4: Two-sample comparisons\n\n\nNov 3\nMultiple regression\n\n\n\n\nNov 5\nMultiple regression\n\n\n\n\nNov 5\nLab: Multiway ANOVA\nchap 12\nReport 5: One-way ANOVA\n\n\nNov 10\nANCOVA\n\n\n\n\nNov 12\nANCOVA\n\n\n\n\nNov 12\nLab: Multiple regression\nchap 13\nReport 6: Multi-way ANOVA\n\n\nNov 17\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 19\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 19\nLab: General linear model\nchap 14\nReport 7: Multiple regression\n\n\nNov 24\na glimpse at extending the linear model\n\n\n\n\nNov 26\n\n\n\n\n\nNov 26\nLab: Analysis of frequency data\nchap 15\nReport 8: General linear model\n\n\nDec 1\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
     "crumbs": [
       "Biostats uOttawa",
       "Schedule"
@@ -387,7 +387,7 @@
     "href": "en/index.html#teaching-team",
     "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
     "section": "Teaching team ",
-    "text": "Teaching team \n\nLecturer\n\nJulien Martin (email)\n\n\n\nTeaching assistants\n\nLydia Yu (email)\nWyeth Blumberg (email)",
+    "text": "Teaching team \n\nLecturer\n\nJulien Martin (email)\n\n\n\nTeaching assistants\n\nLydia Yu (email)\nAugustin Birot (email)",
     "crumbs": [
       "Biostats uOttawa",
       "Course info"
@@ -398,7 +398,7 @@
     "href": "en/index.html#office-hours",
     "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
     "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nWyeth Blumberg: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nAugustin Birot: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)",
     "crumbs": [
       "Biostats uOttawa",
       "Course info"
@@ -442,7 +442,7 @@
     "href": "en/syllabus.html#teaching-team",
     "title": "Syllabus",
     "section": "Teaching team ",
-    "text": "Teaching team \n\nLecturer\n\nJulien Martin (email)\n\n\n\nTeaching assistants\n\nLydia Yu (email)\nWyeth Blumberg (email)",
+    "text": "Teaching team \n\nLecturer\n\nJulien Martin (email)\n\n\n\nTeaching assistants\n\nLydia Yu (email)\nAugustin Birot (email)",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
@@ -453,7 +453,7 @@
     "href": "en/syllabus.html#office-hours",
     "title": "Syllabus",
     "section": "Office hours ",
-    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nWyeth Blumberg: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)",
+    "text": "Office hours \nMeetings will be in-person or online using zoom. Please consult the TA’s first for questions related to the lab exercises and assignments.\n\nJulien Martin: Monday 1430-1530 (in-person & online)\nLydia Yu: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)\nAugustin Birot: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
@@ -570,7 +570,7 @@
     "href": "fr/lectures.html#calendrier",
     "title": "Diapositives et notes de cours",
     "section": "Calendrier",
-    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nSep 4\nIntroduction\n\n\n\n\nSep 5\nPas de labo\n\n\n\n\nSep 9\nÉchantillons et populations\n\n\n\n\nSep 11\nDistributions\n\n\n\n\nSep 12\nPas de labo\n\n\n\n\nSep 16\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nSep 18\nValeurs de P et test d’hypothèse\n\n\n\n\nSep 19\nLab: intro à R\nchap 1-4\n\n\n\nSep 23\nPuissance statistique et inférence bayésienne\n\n\n\n\nSep 25\nCorrélation et régression linéaire simple\n\n\n\n\nSep 26\nLab: Puissance statistique\nchap 8\nRapport 1: Hypothèses\n\n\nSep 30\nCorrélation et régression linéaire simple\n\n\n\n\nOct 2\nComparaison de 2 groupes\n\n\n\n\nOct 3\nLab: Corrélation et régression linéaire simple\nchap 9\nRapport 2: puissance\n\n\nOct 7\nComparaison de 2 groupes\n\n\n\n\nOct 9\nANOVA simple\n\n\n\n\nOct 10\nLab: ANOVA simple\nchap 10\nRapport 3: Régression\n\n\n\n\nSemaine de relâche\n\n\n\n\nOct 21\nANOVA simple\n\n\n\n\nOct 23\nPas de classe\n\n\n\n\nOct 24\nMid-session\n\nen personne pendant le labo\n\n\nOct 28\nANOVA multiple\n\n\n\n\nOct 30\nANOVA multiple\n\n\n\n\nOct 31\nLab: ANOVA simple\nchap 11\nRapport 4: Comparaison de 2 groupes\n\n\nNov 4\nRégression multiple\n\n\n\n\nNov 6\nRégression multiple\n\n\n\n\nNov 7\nLab: ANOVA multiple\nchap 12\nRapport 5: One-way ANOVA\n\n\nNov 11\nModèle linéaire général\n\n\n\n\nNov 13\nModèle linéaire général\n\n\n\n\nNov 14\nLab: Régression multiple\nchap 13\nRapport 6: ANOVA multiple\n\n\nNov 18\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 20\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 21\nLab: Modèle linéaire général\nchap 14\nRapport 7: Régression multiple\n\n\nNov 25\nModèles linéaires généralisés (intro)\n\n\n\n\nNov 27\n\n\n\n\n\nNov 28\nLab: Analyse de données de fréquence\nchap 15\nRapport 8: Modèle linéaire général\n\n\nDec 2\nQ&R\n\n\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
+    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nSep 3\nIntroduction\n\n\n\n\nSep 4\nPas de labo\n\n\n\n\nSep 8\nÉchantillons et populations\n\n\n\n\nSep 10\nDistributions\n\n\n\n\nSep 11\nPas de labo\n\n\n\n\nSep 15\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nSep 17\nValeurs de P et test d’hypothèse\n\n\n\n\nSep 18\nLab: intro à R\nchap 1-4\n\n\n\nSep 22\nPuissance statistique et inférence bayésienne\n\n\n\n\nSep 24\nCorrélation et régression linéaire simple\n\n\n\n\nSep 25\nLab: Puissance statistique\nchap 8\nRapport 1: Hypothèses\n\n\nSep 29\nCorrélation et régression linéaire simple\n\n\n\n\nOct 1\nComparaison de 2 groupes\n\n\n\n\nOct 2\nLab: Corrélation et régression linéaire simple\nchap 9\nRapport 2: puissance\n\n\nOct 6\nComparaison de 2 groupes\n\n\n\n\nOct 8\nANOVA simple\n\n\n\n\nOct 9\nLab: ANOVA simple\nchap 10\nRapport 3: Régression\n\n\n\n\nSemaine de relâche\n\n\n\n\nOct 20\nANOVA simple\n\n\n\n\nOct 22\nPas de classe\n\n\n\n\nOct 23\nMid-session\n\nen personne pendant le labo\n\n\nOct 27\nANOVA multiple\n\n\n\n\nOct 29\nANOVA multiple\n\n\n\n\nOct 30\nLab: ANOVA simple\nchap 11\nRapport 4: Comparaison de 2 groupes\n\n\nNov 3\nRégression multiple\n\n\n\n\nNov 5\nRégression multiple\n\n\n\n\nNov 6\nLab: ANOVA multiple\nchap 12\nRapport 5: One-way ANOVA\n\n\nNov 10\nModèle linéaire général\n\n\n\n\nNov 12\nModèle linéaire général\n\n\n\n\nNov 13\nLab: Régression multiple\nchap 13\nRapport 6: ANOVA multiple\n\n\nNov 17\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 19\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 20\nLab: Modèle linéaire général\nchap 14\nRapport 7: Régression multiple\n\n\nNov 24\nModèles linéaires généralisés (intro)\n\n\n\n\nNov 26\n\n\n\n\n\nNov 27\nLab: Analyse de données de fréquence\nchap 15\nRapport 8: Modèle linéaire général\n\n\nDec 1\nQ&R\n\n\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
     "crumbs": [
       "Biostats uOttawa",
       "Calendrier"
