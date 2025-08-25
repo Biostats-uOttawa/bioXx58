@@ -1,7 +1,7 @@
-date_start: "2024-09-04"
-date_read:  "2024-10-13"
-date_thks:  "2024-10-14"
-date_final: "2024-12-05"
+date_start: "2025-09-03"
+date_read:  "2025-10-12"
+date_thks:  "2025-10-13"
+date_final: "2025-12-02"
 
 schedule:
   - week: 1
@@ -155,10 +155,10 @@ team:
     role: TA
     consult: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)
     contact: "[email](mailto:lyu047@uottawa.ca)"
-  - name: Wyeth Blumberg 
+  - name: Augustin Birot 
     role: TA
     consult: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)
-    contact: "[email](mailto:wblum097@uottawa.ca)"
+    contact: "[email](mailto:abiro093@uottawa.ca)"
 
 timetable:
   - class: Lecture
