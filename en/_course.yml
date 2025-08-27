@@ -76,8 +76,8 @@ schedule:
     topic: "No class"
   - week: 7
     session: 3
-    topic: "**Mid-term**"
-    assessment: "in person during practical"
+    topic: "**Mid-term** in person during practical"
+    assessment: "Report 4: Two-sample comparisons"
   - week: 8
     session: 1
     topic: "Multi-way ANOVA"
@@ -88,7 +88,7 @@ schedule:
     session: 3
     topic: "[Lab: *One-way ANOVA*]{.underline}"
     reading: "[chap 11](https://biostats-uottawa.github.io/Rway/)"
-    assessment: "Report 4: Two-sample comparisons"
+    assessment: ""
   - week: 9
     session: 1
     topic: "Multiple regression"
@@ -164,11 +164,11 @@ timetable:
   - class: Lecture
     day: Mondays
     when: 1300-1420
-    where: SMD-425
+    where: DMS-1110
   - class: Lecture
     day: Wednesdays
     when: 1130-1250
-    where: SMD-224
+    where: DMS-1110
   - class: Practical
     day: Wednesdays
     when: 1430-1720
