@@ -29,8 +29,7 @@ schedule:
     session: 3
     topic: "[Lab: *intro to R*]{.underline}"
     reading: "[chap 1-4](https://biostats-uottawa.github.io/Rway/)"
-    assessment: "#1 Hypothesis and model"
-  - week: 4
+    assessment: ""
     session: 1
     topic: "Power & Bayes"
   - week: 4
