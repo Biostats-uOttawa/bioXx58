@@ -230,7 +230,7 @@
     "href": "en/who_when.html#schedule",
     "title": "Bio4x58-5x58",
     "section": "Schedule ",
-    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in SMD-425\nWednesdays, 1130-1250 in SMD-224\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week."
+    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in DMS-1110\nWednesdays, 1130-1250 in DMS-1110\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week."
   },
   {
     "objectID": "en/practical.html",
@@ -259,7 +259,7 @@
     "href": "en/lectures.html#schedule",
     "title": "Slides and course notes",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 3\nIntroduction\n\n\n\n\nSep 3\nNo lab\n\n\n\n\nSep 8\nConfidence intervals & statistical models\n\n\n\n\nSep 10\nGaussian dist, SEM & CLT\n\n\n\n\nSep 10\nNo lab\n\n\n\n\nSep 15\nGaussian dist, SEM & CLT\n\n\n\n\nSep 17\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 17\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 22\nPower & Bayes\n\n\n\n\nSep 24\nCorrelation and regression\n\n\n\n\nSep 24\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 29\nCorrelation and regression\n\n\n\n\nOct 1\nComparison of 2 groups\n\n\n\n\nOct 1\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 6\nComparison of 2 groups\n\n\n\n\nOct 8\nOne-way Anova\n\n\n\n\nOct 8\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 20\nOne-way Anova\n\n\n\n\nOct 22\nNo class\n\n\n\n\nOct 22\nMid-term\n\nin person during practical\n\n\nOct 27\nMulti-way ANOVA\n\n\n\n\nOct 29\nMulti-way ANOVA\n\n\n\n\nOct 29\nLab: One-way ANOVA\nchap 11\nReport 4: Two-sample comparisons\n\n\nNov 3\nMultiple regression\n\n\n\n\nNov 5\nMultiple regression\n\n\n\n\nNov 5\nLab: Multiway ANOVA\nchap 12\nReport 5: One-way ANOVA\n\n\nNov 10\nANCOVA\n\n\n\n\nNov 12\nANCOVA\n\n\n\n\nNov 12\nLab: Multiple regression\nchap 13\nReport 6: Multi-way ANOVA\n\n\nNov 17\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 19\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 19\nLab: General linear model\nchap 14\nReport 7: Multiple regression\n\n\nNov 24\na glimpse at extending the linear model\n\n\n\n\nNov 26\n\n\n\n\n\nNov 26\nLab: Analysis of frequency data\nchap 15\nReport 8: General linear model\n\n\nDec 1\nQ&A\n\n\n\n\n\n\nFinal exam\n\nduring exam period",
+    "text": "Schedule\n\n\nWarning in body[[col]][rows][!is.na(result)] &lt;- omit_na(result): number of\nitems to replace is not a multiple of replacement length\n\n\n\n\n\n\n\n\nDate\nTopic\nMaterial\nAssessment\n\n\n\n\nSep 3\nIntroduction\n\n\n\n\nSep 3\nNo lab\n\n\n\n\nSep 8\nConfidence intervals & statistical models\n\n\n\n\nSep 10\nGaussian dist, SEM & CLT\n\n\n\n\nSep 10\nNo lab\n\n\n\n\nSep 15\nGaussian dist, SEM & CLT\n\n\n\n\nSep 17\nP, one- vs. two-tailed, CI’s vs. P, P-hacking\n\n\n\n\nSep 17\nLab: intro to R\nchap 1-4\n#1 Hypothesis and model\n\n\nSep 22\nPower & Bayes\n\n\n\n\nSep 24\nCorrelation and regression\n\n\n\n\nSep 24\nLab: Power analysis with GPower*\nchap 8\nReport 1: Hypothesis\n\n\nSep 29\nCorrelation and regression\n\n\n\n\nOct 1\nComparison of 2 groups\n\n\n\n\nOct 1\nLab: Correlation & linear regression\nchap 9\nReport 2: power\n\n\nOct 6\nComparison of 2 groups\n\n\n\n\nOct 8\nOne-way Anova\n\n\n\n\nOct 8\nLab: Two-sample comparisons\nchap 10\nReport 3: Regression\n\n\n\n\nReading week\n\n\n\n\nOct 20\nOne-way Anova\n\n\n\n\nOct 22\nNo class\n\n\n\n\nOct 22\nMid-term in person during practical\n\nReport 4: Two-sample comparisons\n\n\nOct 27\nMulti-way ANOVA\n\n\n\n\nOct 29\nMulti-way ANOVA\n\n\n\n\nOct 29\nLab: One-way ANOVA\nchap 11\n\n\n\nNov 3\nMultiple regression\n\n\n\n\nNov 5\nMultiple regression\n\nReport 5: One-way ANOVA\n\n\nNov 5\nLab: Multiway ANOVA\nchap 12\n\n\n\nNov 10\nANCOVA\n\n\n\n\nNov 12\nANCOVA\n\nReport 6: Multi-way ANOVA\n\n\nNov 12\nLab: Multiple regression\nchap 13\n\n\n\nNov 17\nComparing counts & proportions, log-linear models\n\n\n\n\nNov 19\nComparing counts & proportions, log-linear models\n\nReport 7: Multiple regression\n\n\nNov 19\nLab: General linear model\nchap 14\n\n\n\nNov 24\na glimpse at extending the linear model\n\n\n\n\nNov 26\n\n\nReport 8: General linear model\n\n\nNov 26\nLab: Analysis of frequency data\nchap 15\n\n\n\nDec 1\nQ&A\n\nduring exam period\n\n\n\n\nFinal exam",
     "crumbs": [
       "Biostats uOttawa",
       "Schedule"
@@ -409,7 +409,7 @@
     "href": "en/index.html#schedule",
     "title": "Applied biostatistics with R  (Bio4158 / Bio5158)",
     "section": "Schedule ",
-    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in SMD-425\nWednesdays, 1130-1250 in SMD-224\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week.",
+    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in DMS-1110\nWednesdays, 1130-1250 in DMS-1110\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week.",
     "crumbs": [
       "Biostats uOttawa",
       "Course info"
@@ -464,7 +464,7 @@
     "href": "en/syllabus.html#schedule",
     "title": "Syllabus",
     "section": "Schedule ",
-    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in SMD-425\nWednesdays, 1130-1250 in SMD-224\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week.\nSee the course website for details of the schedule",
+    "text": "Schedule \n\nLectures\n\nMondays, 1300-1420 in DMS-1110\nWednesdays, 1130-1250 in DMS-1110\n\nPracticals\n\nWednesdays, 1430-1720 in MNT-141/142\n\n\nThere are no lectures or tutorials during reading week.\nMid-term will be during the lab following reading week.\nFinal exam will be during exam week.\nSee the course website for details of the schedule",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
