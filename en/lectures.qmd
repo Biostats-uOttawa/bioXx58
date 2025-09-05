@@ -23,8 +23,8 @@ Slides and submission of course work is done via [brighspace](https://uottawa.br
 ## Schedule 
 
 ```{r}
-#| warning: false
-
+#| warning: true
+# #| html-table-processing: none
 check <- character(0)
 schedule <- schedule_df %>%
   rowwise() %>%
@@ -61,14 +61,14 @@ schedule <- schedule_df %>%
   ) %>%
   ungroup() %>%
   mutate(
-    Reading = ifelse(is.na(reading), " ", reading),
-    Material = case_when(
+    Reading = ifelse(is.na(reading), NA, reading),
+    Info = case_when(
       session != 3 & lecture == TRUE ~ glue("<a class='fa fa-display' href='{lecture_file}' target='_blank'></a> <a class='fa fa-note-sticky' href='{notes_file}' target='_blank'></a>"),
       session == 3 ~ Reading,
-      TRUE ~ " "
+      TRUE ~ NA
     ),
-    Topic = ifelse(is.na(topic), " ", topic),
-    Assessment = ifelse(is.na(assessment), " ", assessment),
+    Topic = ifelse(is.na(topic), NA, topic),
+    Assessment = ifelse(is.na(assessment), NA, assessment),
     Date = as.Date(
       case_when(
         week == 21 ~ ymd(dat$date_read),
@@ -83,7 +83,7 @@ schedule <- schedule_df %>%
     ),
     wk = ifelse((week %% 2) == 0, "a", ifelse(week < 20, "b", "c"))
   ) %>%
-  select(Date, Topic, Material, Assessment, week, wk) %>%
+  select(Date, Topic, Info, Assessment, week, wk,session) %>%
   arrange(Date) %>%
   mutate(Date = case_match(week,
     21 ~ NA,
@@ -95,8 +95,8 @@ midsem_break <- 6 # after which week
 
 schedule |>
   gt() |>
-  cols_hide(c(week, wk)) |>
-  fmt_markdown(columns = c("Topic", "Material", "Assessment")) |>
+  cols_hide(c(week, wk,session)) |>
+  fmt_markdown(columns = c("Topic", "Info", "Assessment")) |>
   fmt_date(
     columns = Date,
     date_style = "MMMd",
@@ -115,9 +115,9 @@ schedule |>
   # row_group_order(groups = c(NA, "Reading week")) |>
   cols_width(
     Date ~ px(50),
-    Material ~ px(20)
+    Info ~ px(50)
   ) |>
-  sub_missing(missing_text = "") |>
+  sub_missing(missing_text = " ") |>
   tab_options(
     table.width = pct(100),
   )

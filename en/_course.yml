@@ -29,7 +29,6 @@ schedule:
     session: 3
     topic: "[Lab: *intro to R*]{.underline}"
     reading: "[chap 1-4](https://biostats-uottawa.github.io/Rway/)"
-    assessment: ""
   - week: 4
     session: 1
     topic: "Power & Bayes"
@@ -88,7 +87,6 @@ schedule:
     session: 3
     topic: "[Lab: *One-way ANOVA*]{.underline}"
     reading: "[chap 11](https://biostats-uottawa.github.io/Rway/)"
-    assessment: ""
   - week: 9
     session: 1
     topic: "Multiple regression"
@@ -127,7 +125,7 @@ schedule:
     topic: "a glimpse at extending the linear model"
   - week: 12
     session: 2
-    topic: " "
+    topic: "General discussion and topic to decide"
   - week: 12
     session: 3
     topic: "[Lab: *Analysis of frequency data*]{.underline}"
