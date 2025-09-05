@@ -10,3 +10,5 @@ libs/
 *.zip
 Untitled*
 _freeze/
+
+**/*.quarto_ipynb

@@ -9,7 +9,7 @@ schedule:
     topic: Introduction
   - week: 1
     session: 3
-    topic: "No lab"
+    topic: "[No lab]{.underline}"
   - week: 2
     session: 1
     topic: "Confidence intervals & statistical models"
@@ -18,7 +18,7 @@ schedule:
     topic: "Gaussian dist, SEM & CLT"
   - week: 2
     session: 3
-    topic: "No lab"
+    topic: "[No lab]{.underline}"
   - week: 3
     session: 1
     topic: "Gaussian dist, SEM & CLT"

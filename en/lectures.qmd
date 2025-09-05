@@ -23,6 +23,8 @@ Slides and submission of course work is done via [brighspace](https://uottawa.br
 ## Schedule 
 
 ```{r}
+#| warning: false
+
 check <- character(0)
 schedule <- schedule_df %>%
   rowwise() %>%
@@ -140,4 +142,4 @@ Slides in `revealjs` format (html). If you want then as a pdf (*note you might l
 
 Content of the slides in html format as a self-contained downloadable file and including tabs and scroll sections. 
 
-More importantly, notes have the commenting and annotateing tools activated via <https://hypothes.is/>. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.
+More importantly, notes have the commenting and annotating tools activated via <https://hypothes.is/>. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.
