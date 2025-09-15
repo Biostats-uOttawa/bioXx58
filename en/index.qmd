@@ -22,6 +22,6 @@ Submission of course work is done via [brighspace](https://uottawa.brightspace.c
 
 * [`R`][cran] version 4.0.0 or higher
 
-* a R IDE: [`RStudio`][rstudio_d] or [`VSCode`][vscode_d]
+* a R IDE: [`RStudio`][rstudio_d], [`positron`][positron_d] or [`VSCode`][vscode_d]
 
-* [`quarto`][quarto_install] software is strongly recommended
+* [`quarto`][quarto_install] software for generating lab assignments

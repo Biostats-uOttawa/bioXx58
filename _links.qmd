@@ -21,3 +21,5 @@
 [r_chap_en]: https://biostats-uottawa.github.io/Rway/#chapters-to-read
 [r_chap_fr]: https://biostats-uottawa.github.io/enfR/#chapitres-a-lire
 [brightspace]: https://uottawa.brightspace.com/d2l/home
+
+[positron_d]: https://positron.posit.co/

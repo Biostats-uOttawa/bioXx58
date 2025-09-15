@@ -147,16 +147,20 @@ schedule:
 team:
   - name: Julien Martin
     role: lecturer
-    consult: Monday 1430-1530 (in-person & online)
+    consult: Monday 1430-1530 Gendron 279
     contact: "[email](people.qmd)"
   - name: Lydia Yu
     role: TA
-    consult: Tuesday 1300-1400, Gendron Hall 4th floor lobby (in-person)
+    consult: Tuesday 1300-1400, Biosciences Hall 4^th^ floor lobby (in-person)
     contact: "[email](mailto:lyu047@uottawa.ca)"
-  - name: Augustin Birot 
+  - name: Tovah Kashetsky
     role: TA
-    consult: Thursday 1100-1200, Gendron Hall 4th floor lobby (in-person)
-    contact: "[email](mailto:abiro093@uottawa.ca)"
+    consult: Thursday 1300-100, Biosciences Hall 3^rd^ floor lobby (in-person)
+    contact: "[email](mailto:tovah.kashetsky@uottawa.ca)"
+  - name: Mark Jin
+    role: TA
+    consult: Thursday 1300-100, Biosciences Hall 3^rd^ floor lobby (in-person)
+    contact: "[email](mailto:mjin074@uottawa.ca)"
 
 timetable:
   - class: Lecture
