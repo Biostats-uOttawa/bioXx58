@@ -67,15 +67,15 @@ I do not consider arguments for additional marks simply because you are close to
 # Attendance
 As per uOttawa policy, to ensure they succeed in all courses of their program of study, students have the responsibility to participate in the various learning and assessment activities for this course. Attendance of the lectures and laboratory are not formally required for this course, although both are STRONGLY recommended. The supplied lecture slides will not include all content presented and discussed in class, and teaching assistants and the professor are available during the labs for help with exercises and assignments. TA and professor office hours are to allow you an opportunity to ask questions related to course material and cannot replace a missed lecture or lab.
 
-# University of Ottawa regulations 
+<!-- # University of Ottawa regulations  -->
 
-## Academic integrity 
+# Academic integrity 
 
 Academic integrity is fundamental to all scholarly activity. Every member of the University community has the moral obligation to learn and share knowledge with honesty and integrity. Students should be proud to show their diploma, knowing that they’ve earned it honestly and by respecting the principles of academic integrity. Academic fraud and plagiarism create irreparable inequities in our community by devaluing the work of others. Because academic integrity is so important, uOttawa created the following website to provide you with information and tools to identify and avoid academic fraud, and to understand its consequences, accessible [here](https://www2.uottawa.ca/current-students/academic-integrity). 
 
 With respect to all BIO 4158/5158, unless otherwise specified as a group activity, you are expected to work individually, not to pass off the work of others as your own (i.e., no plagiarism), and not to post questions or answers online. Academic fraud is a very serious issue, and we treat it as such. Cases will be dealt with following uOttawa’s procedures outlined in [Academic regulation A-4](https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-4-academic-integrity-academic-misconduct). 
 
-## Plagiarism & the use of Artificial Intelligence
+# Plagiarism & the use of Artificial Intelligence
 Plagiarism is the act of passing off someone else’s words or ideas as your own. Plagiarism is a serious academic offence and is also illegal. We uphold the law. This being said, scientific writing often uses other peoples’ ideas or words, so it is critical that you understand what constitutes plagiarism, and how you can avoid it. Proper referencing of other people’s ideas and results, and quotation with citation when directly borrowing phrases, are key. 
  
 Artificial intelligence (AI), like ChatGPT, is a tool that can, like many, be used appropriately or unethically. In BIO 4158/5158, it is acceptable to use AI to improve the presentation of ideas, criticisms, or concepts that are yours. In this sense, AI is like Grammarly and other tools that have been around for some time. Using it as a tool to (hopefully) improve your communication is ethical. A word of caution, however: AI can alter the meaning of text you give it, even if instructed only to ‘polish’ the writing. Like other tools, it is up to you to ensure that you are using it effectively. Blind application, without careful review of the output, could easily create more problems than it solves. 
@@ -84,7 +84,7 @@ Artificial intelligence (AI), like ChatGPT, is a tool that can, like many, be us
 On the other hand, it is a form of plagiarism (i.e., unethical) to use AI to generate ideas, critiques, or concepts (i.e., the academic/scientific content). That is, AI should not be used to replace your understanding of the topic. And be forewarned, AI can be poor at this. It will produce something that, at first glance, seems well written, but a closer consideration of the scientific content reveals it to be problematic. More importantly, you are at university to learn; plagiarising hampers, not helps, this. 
 
  
-## [Bilingualism](https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism) 
+# [Bilingualism](https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism) 
 
 Please also note the University of Ottawa Regulation on [bilingualism](https://www.uottawa.ca/about-us/leadership-governance/policies-regulations/a-1-bilingualism): 
 
@@ -92,7 +92,7 @@ Please also note the University of Ottawa Regulation on [bilingualism](https://w
 
  
 
-## Information about other Academic Regulations.
+# Information about other Academic Regulations.
 
 [See here](https://www2.uottawa.ca/about-us/policies-regulations/) 
 
