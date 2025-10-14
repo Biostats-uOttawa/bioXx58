@@ -70,13 +70,13 @@ schedule:
   - week: 7
     session: 1
     topic: "One-way Anova"
+    assessment: "Report 4: Two-sample comparisons"
   - week: 7
     session: 2
     topic: "No class"
   - week: 7
     session: 3
     topic: "**Mid-term** in person during practical"
-    assessment: "Report 4: Two-sample comparisons"
   - week: 8
     session: 1
     topic: "Multi-way ANOVA"
