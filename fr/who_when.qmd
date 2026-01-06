@@ -37,7 +37,7 @@ team_df %>%
 
 team_df %>%
   mutate(name_print = glue("{name} ({contact})")) %>%
-  filter(role == "TA") %>%
+  filter(role == "TA/AE") %>%
   pull(name_print) %>%
   ui_list()
 ```

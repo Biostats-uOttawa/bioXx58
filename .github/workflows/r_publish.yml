@@ -26,6 +26,12 @@ jobs:
         with:
           r-version: '4.5.1'
 
+      # Install gettext (libintl.h) required for R >= 4.5
+      - name: Install dependencies on MacOS
+        if: runner.os == 'macOS'
+        run: |
+          sudo Rscript -e "source('https://mac.R-project.org/bin/install.R'); install.libs('gettext')"
+
       - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
         with:
