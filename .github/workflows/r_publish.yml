@@ -37,6 +37,8 @@ jobs:
           
       - name: Make sure Homebrew libraries can be found by compilers for R
         run: |
+          mkdir ~/.R
+          touch ~/.R/Makevars
           echo "CPPFLAGS = -I/opt/homebrew/include" >> ~/.R/Makevars
           echo "LDFLAGS  = -L/opt/homebrew/lib" >> ~/.R/Makevars
 
