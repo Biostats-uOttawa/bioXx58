@@ -7,7 +7,7 @@ name: R-Render-Publish
 
 jobs:
   build-deploy:
-    runs-on: macos-14 #ubuntu-latest
+    runs-on: macos-latest #ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -25,6 +25,9 @@ jobs:
         uses: r-lib/actions/setup-r@v2
         with:
           r-version: '4.5.1'
+
+      # Install gettext (libintl.h) required for R >= 4.5
+      
 
       - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
