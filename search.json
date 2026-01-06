@@ -22,7 +22,7 @@
     "href": "fr/syllabus.html#léquipe-enseignante",
     "title": "Syllabus",
     "section": "L’équipe enseignante ",
-    "text": "L’équipe enseignante \n\nEnseignant\n\nJulien Martin (email)\n\n\n\nAssistant d’enseignement\n\nAugustin Birot (email)",
+    "text": "L’équipe enseignante \n\nEnseignant\n\nJames Santangelo (email)\n\n\n\nAssistant d’enseignement\n\nAugustin Birot (email)",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
@@ -33,7 +33,7 @@
     "href": "fr/syllabus.html#heures-de-bureau",
     "title": "Syllabus",
     "section": "Heures de bureau ",
-    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJulien Martin: Lundi 1430-1530 (GNN 279)\nAugustin Birot: Mercredi 1530-1630 (GNN Hall 4ième)",
+    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJames Santangelo: Lundi 1300-1400 (GNN 270)\nAugustin Birot: Mardi 1000-1100 (GNN Hall 4ième)",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
@@ -44,7 +44,7 @@
     "href": "fr/syllabus.html#calendrier",
     "title": "Syllabus",
     "section": "Calendrier ",
-    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.\nVoir le site web du cours pour les détails de l’horaire",
+    "text": "Calendrier \n\nLectures\n\nMardi, 1430-1520 in VNR 2075\nVendredi, 1600-1720 in VNR 5070\n\nLabos\n\nLundi, 1430-1720 in MNT 142\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.\nVoir le site web du cours pour les détails de l’horaire",
     "crumbs": [
       "Biostats uOttawa",
       "Syllabus"
@@ -97,9 +97,9 @@
   {
     "objectID": "fr/people.html",
     "href": "fr/people.html",
-    "title": "Julien Martin",
+    "title": "James Santangelo",
     "section": "",
-    "text": "Julien est Professeur agrégé à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 15 ans.\nJ’ai créé le site internet en utilisant Quarto, R, revealjs, mermaid.js et graphViz. J’ai developpé le thème de mes présentations à partir de du theme “blackboard” pour xaringan.",
+    "text": "James est Professeur adjoint à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 8 ans.\nLes matériaux sure ce site on été créés par Julien Martin, professeur agrégé en biology evolutive à l’Université d’Ottawa. Ils ont été créés en utilisant Quarto, R, revealjs, mermaid.js et graphViz.",
     "crumbs": [
       "Biostats uOttawa",
       "Contact"
@@ -121,7 +121,7 @@
     "href": "fr/index.html#léquipe-enseignante",
     "title": "Biostatistique appliquée avec R  (Bio4558 / Bio5558)",
     "section": "L’équipe enseignante ",
-    "text": "L’équipe enseignante \n\nEnseignant\n\nJulien Martin (email)\n\n\n\nAssistant d’enseignement\n\nAugustin Birot (email)",
+    "text": "L’équipe enseignante \n\nEnseignant\n\nJames Santangelo (email)\n\n\n\nAssistant d’enseignement\n\nAugustin Birot (email)",
     "crumbs": [
       "Biostats uOttawa",
       "Info générale"
@@ -132,7 +132,7 @@
     "href": "fr/index.html#heures-de-bureau",
     "title": "Biostatistique appliquée avec R  (Bio4558 / Bio5558)",
     "section": "Heures de bureau ",
-    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJulien Martin: Lundi 1430-1530 (GNN 279)\nAugustin Birot: Mercredi 1530-1630 (GNN Hall 4ième)",
+    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJames Santangelo: Lundi 1300-1400 (GNN 270)\nAugustin Birot: Mardi 1000-1100 (GNN Hall 4ième)",
     "crumbs": [
       "Biostats uOttawa",
       "Info générale"
@@ -143,7 +143,7 @@
     "href": "fr/index.html#calendrier",
     "title": "Biostatistique appliquée avec R  (Bio4558 / Bio5558)",
     "section": "Calendrier ",
-    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.",
+    "text": "Calendrier \n\nLectures\n\nMardi, 1430-1520 in VNR 2075\nVendredi, 1600-1720 in VNR 5070\n\nLabos\n\nLundi, 1430-1720 in MNT 142\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens.",
     "crumbs": [
       "Biostats uOttawa",
       "Info générale"
@@ -603,7 +603,7 @@
     "href": "fr/lectures.html#calendrier",
     "title": "Diapositives et notes de cours",
     "section": "Calendrier",
-    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nSep 3\nIntroduction\n\n\n\n\nSep 4\nPas de labo\n\n\n\n\nSep 8\nÉchantillons et populations\n\n\n\n\nSep 10\nDistributions\n\n\n\n\nSep 11\nPas de labo\n\n\n\n\nSep 15\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nSep 17\nValeurs de P et test d’hypothèse\n\n\n\n\nSep 18\nLab: intro à R\nchap 1-4\n\n\n\nSep 22\nPuissance statistique et inférence bayésienne\n\n\n\n\nSep 24\nCorrélation et régression linéaire simple\n\n\n\n\nSep 25\nLab: Puissance statistique\nchap 8\nRapport 1: Hypothèses\n\n\nSep 29\nCorrélation et régression linéaire simple\n\n\n\n\nOct 1\nComparaison de 2 groupes\n\n\n\n\nOct 2\nLab: Corrélation et régression linéaire simple\nchap 9\nRapport 2: puissance\n\n\nOct 6\nComparaison de 2 groupes\n\n\n\n\nOct 8\nANOVA simple\n\n\n\n\nOct 9\nLab: ANOVA simple\nchap 10\nRapport 3: Régression\n\n\n\n\nSemaine de relâche\n\n\n\n\nOct 20\nANOVA simple\n\n\n\n\nOct 22\nPas de classe\n\n\n\n\nOct 23\nMid-session\n\nen personne pendant le labo\n\n\nOct 27\nANOVA multiple\n\n\n\n\nOct 29\nANOVA multiple\n\n\n\n\nOct 30\nLab: ANOVA simple\nchap 11\nRapport 4: Comparaison de 2 groupes\n\n\nNov 3\nRégression multiple\n\n\n\n\nNov 5\nRégression multiple\n\n\n\n\nNov 6\nLab: ANOVA multiple\nchap 12\nRapport 5: One-way ANOVA\n\n\nNov 10\nModèle linéaire général\n\n\n\n\nNov 12\nModèle linéaire général\n\n\n\n\nNov 13\nLab: Régression multiple\nchap 13\nRapport 6: ANOVA multiple\n\n\nNov 17\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 19\nProportion, compte et modèles log-linéaires\n\n\n\n\nNov 20\nLab: Modèle linéaire général\nchap 14\nRapport 7: Régression multiple\n\n\nNov 24\nModèles linéaires généralisés (intro)\n\n\n\n\nNov 26\n\n\n\n\n\nNov 27\nLab: Analyse de données de fréquence\nchap 15\nRapport 8: Modèle linéaire général\n\n\nDec 1\nQ&R\n\n\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
+    "text": "Calendrier\n\n\n\n\n\n\n\n\nDate\nSujet\nDoc\nÉvaluation\n\n\n\n\nJan 12\nPas de labo\n\n\n\n\nJan 13\nIntroduction\n\n\n\n\nJan 16\nÉchantillons et populations\n\n\n\n\nJan 19\nPas de labo\n\n\n\n\nJan 20\nDistributions\n\n\n\n\nJan 23\nStatistiques sommaires et intervalles de confiance\n\n\n\n\nJan 26\nLab 1: intro à R et hypothèse\n\n\n\n\nJan 27\nValeurs de P et test d’hypothèse\n\n\n\n\nJan 30\nPuissance statistique et inférence bayésienne\n\n\n\n\nFeb 2\nLab 2: Puissance statistique\n\nRapport 1: Hypothèses\n\n\nFeb 3\nCorrélation et régression linéaire simple\n\n\n\n\nFeb 6\nCorrélation et régression linéaire simple\n\n\n\n\nFeb 9\nLab 3: Corrélation et régression linéaire simple\n\nRapport 2: Puissance\n\n\nFeb 10\nComparaison de 2 groupes\n\n\n\n\nFeb 13\nComparaison de 2 groupes\n\n\n\n\n\n\nSemaine de relâche\n\n\n\n\nFeb 23\nLab 4: Comparaison de 2 groupes\n\nRapport 3: Régression\n\n\nFeb 24\nANOVA simple\n\n\n\n\nFeb 27\nANOVA simple\n\n\n\n\nMar 2\nExamen mi-session\n\nen personne pendant le labo\n\n\nMar 3\nPas de classe\n\n\n\n\nMar 6\nANOVA multiple\n\n\n\n\nMar 9\nLab 5: ANOVA simple\n\nRapport 4: Comparaison de 2 groupes\n\n\nMar 10\nANOVA multiple\n\n\n\n\nMar 13\nRégression multiple\n\n\n\n\nMar 16\nLab 6: ANOVA multiple\n\nRapport 5: ANOVA simple\n\n\nMar 17\nRégression multiple\n\n\n\n\nMar 20\nModèle linéaire général\n\n\n\n\nMar 23\nLab 7: Régression multiple\n\nRapport 6: ANOVA multiple\n\n\nMar 24\nModèle linéaire général\n\n\n\n\nMar 27\nProportion, compte et modèles log-linéaires\n\n\n\n\nMar 30\nLab 8: Modèle linéaire général\n\nRapport 7: Régression multiple\n\n\nMar 31\nProportion, compte et modèles log-linéaires\n\n\n\n\nApr 3\nPas de classe — Pâques\n\n\n\n\nApr 6\nPas de labo — Pâques\n\n\n\n\nApr 7\nModèles linéaires généralisés (intro)\n\n\n\n\nApr 10\nQ&R\n\n\n\n\nApr 13\nLab 9: Analyse de données de fréquence\n\nRapport 8: Modèle linéaire général\n\n\n\n\nExamen final\n\npendant la semaine d’examen",
     "crumbs": [
       "Biostats uOttawa",
       "Calendrier"
@@ -636,27 +636,27 @@
     "href": "fr/who_when.html",
     "title": "Bio4x58-5x58",
     "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nAugustin Birot (email)"
+    "text": "James Santangelo (email)\n\n\n\n\n\nAugustin Birot (email)"
   },
   {
     "objectID": "fr/who_when.html#léquipe-enseignante",
     "href": "fr/who_when.html#léquipe-enseignante",
     "title": "Bio4x58-5x58",
     "section": "",
-    "text": "Julien Martin (email)\n\n\n\n\n\nAugustin Birot (email)"
+    "text": "James Santangelo (email)\n\n\n\n\n\nAugustin Birot (email)"
   },
   {
     "objectID": "fr/who_when.html#heures-de-bureau",
     "href": "fr/who_when.html#heures-de-bureau",
     "title": "Bio4x58-5x58",
     "section": "Heures de bureau ",
-    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJulien Martin: Lundi 1430-1530 (GNN 279)\nAugustin Birot: Mercredi 1530-1630 (GNN Hall 4ième)"
+    "text": "Heures de bureau \nLes réunions se dérouleront en personne ou en ligne à l’aide de Zoom. Veuillez d’abord consulter les assistants d’enseignement pour toute question relative aux exercices et aux travaux pratiques.\n\nJames Santangelo: Lundi 1300-1400 (GNN 270)\nAugustin Birot: Mardi 1000-1100 (GNN Hall 4ième)"
   },
   {
     "objectID": "fr/who_when.html#calendrier",
     "href": "fr/who_when.html#calendrier",
     "title": "Bio4x58-5x58",
     "section": "Calendrier ",
-    "text": "Calendrier \n\nLectures\n\nLundi, 1000-1120 in MRT-219\nMercredi, 0830-0950 in CRX-440\n\nLabos\n\nJeudi, 1130-1420 in MNT-141\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens."
+    "text": "Calendrier \n\nLectures\n\nMardi, 1430-1520 in VNR 2075\nVendredi, 1600-1720 in VNR 5070\n\nLabos\n\nLundi, 1430-1720 in MNT 142\n\n\nIl n’y a pas de cours magistraux ni de travaux dirigés pendant la semaine de relâche.\nL’examen de mi-session se déroulera pendant le laboratoire qui suit la semaine de relâche.\nL’examen final aura lieu pendant la semaine des examens."
   }
 ]
