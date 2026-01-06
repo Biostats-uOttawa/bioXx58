@@ -1,171 +1,168 @@
-date_start: "2025-09-03"
-date_read:  "2025-10-12"
-date_thks:  "2025-10-13"
-date_final: "2025-12-02"
+date_start: "2026-01-12"
+date_read:  "2026-02-15"
+date_thks:  "2026-04-03"
+date_final: "2026-04-15"
 
 schedule:
   - week: 1
-    session: 2 
-    topic: Introduction
+    session: 1
+    topic: "Pas de labo"
+  - week: 1
+    session: 2
+    topic: "Introduction"
   - week: 1
     session: 3
-    topic: "Pas de labo"
+    topic: "Échantillons et populations"
   - week: 2
     session: 1
-    topic: "Échantillons et populations"
+    topic: "Pas de labo"
   - week: 2
     session: 2
     topic: "Distributions"
   - week: 2
     session: 3
-    topic: "Pas de labo"
+    topic: "Statistiques sommaires et intervalles de confiance"
   - week: 3
     session: 1
-    topic: "Statistiques sommaires et intervalles de confiance"
+    topic: "[Lab 1: *intro à R et hypothèse*]{.underline}"
+    reading: "[chap 1-4](https://biostats-uottawa.github.io/enfR/)"
+    assessment: " "
   - week: 3
     session: 2
     topic: "Valeurs de P et test d'hypothèse"
   - week: 3
     session: 3
-    topic: "[Lab: *intro à R*]{.underline}"
-    reading: "[chap 1-4](https://biostats-uottawa.github.io/enfR/)"
-    assessment: " "
-  - week: 4
-    session: 1
     topic: "Puissance statistique et inférence bayésienne"
   - week: 4
+    session: 1
+    topic: "[Lab 2: *Puissance statistique*]{.underline}"
+    reading: "[chap 8](https://biostats-uottawa.github.io/enfR/)"
+    assessment: "Rapport 1: Hypothèses"
+  - week: 4
     session: 2
     topic: "Corrélation et régression linéaire simple"
   - week: 4
     session: 3
-    topic: "[Lab: *Puissance statistique*]{.underline}"
-    reading: "[chap 8](https://biostats-uottawa.github.io/enfR/)"
-    assessment: "Rapport 1: Hypothèses"
-  - week: 5
-    session: 1
     topic: "Corrélation et régression linéaire simple"
   - week: 5
+    session: 1
+    topic: "[Lab 3: *Corrélation et régression linéaire simple*]{.underline}"
+    reading: "[chap 9](https://biostats-uottawa.github.io/enfR/)"
+    assessment: "Rapport 2: Puissance"
+  - week: 5
     session: 2
     topic: "Comparaison de 2 groupes"
   - week: 5
     session: 3
-    topic: "[Lab: *Corrélation et régression linéaire simple*]{.underline}"
-    reading: "[chap 9](https://biostats-uottawa.github.io/enfR/)"
-    assessment: "Rapport 2: puissance"
-  - week: 6
-    session: 1
     topic: "Comparaison de 2 groupes"
-  - week: 6
-    session: 2
-    topic: "ANOVA simple"
-  - week: 6
-    session: 3
-    topic: "[Lab: *ANOVA simple*]{.underline}"
-    reading: "[chap 10](https://biostats-uottawa.github.io/enfR/)"
-    assessment: "Rapport 3: Régression"
 ################################################################################
 ## reading_week
   - week: 21
     topic: "**Semaine de relâche**"
 ################################################################################
+  - week: 6
+    session: 1
+    topic: "[Lab 4: *Comparaison de 2 groupes*]{.underline}"
+    reading: "[chap 10](https://biostats-uottawa.github.io/enfR/)"
+    assessment: "Rapport 3: Régression"
+  - week: 6
+    session: 2
+    topic: "ANOVA simple"
+  - week: 6
+    session: 3
+    topic: "ANOVA simple"
   - week: 7
     session: 1
-    topic: "ANOVA simple"
+    topic: "**Examen mi-session**"
+    assessment: "en personne pendant le labo"
   - week: 7
     session: 2
     topic: "Pas de classe"
   - week: 7
     session: 3
-    topic: "**Mid-session**"
-    assessment: "en personne pendant le labo"
+    topic: "ANOVA multiple"
   - week: 8
     session: 1
-    topic: "ANOVA multiple"
-  - week: 8
-    session: 2
-    topic: "ANOVA multiple"
-  - week: 8
-    session: 3
-    topic: "[Lab: *ANOVA simple*]{.underline}"
+    topic: "[Lab 5: *ANOVA simple*]{.underline}"
     reading: "[chap 11](https://biostats-uottawa.github.io/enfR/)"
     assessment: "Rapport 4: Comparaison de 2 groupes"
+  - week: 8
+    session: 2
+    topic: "ANOVA multiple"
+  - week: 8
+    session: 3
+    topic: "Régression multiple"
   - week: 9
     session: 1
-    topic: "Régression multiple"
-  - week: 9
-    session: 2
-    topic: "Régression multiple"
-  - week: 9
-    session: 3
-    topic: "[Lab: *ANOVA multiple*]{.underline}"
+    topic: "[Lab 6: *ANOVA multiple*]{.underline}"
     reading: "[chap 12](https://biostats-uottawa.github.io/enfR/)"
-    assessment: "Rapport 5: One-way ANOVA"
+    assessment: "Rapport 5: ANOVA simple"
+  - week: 9
+    session: 2
+    topic: "Régression multiple"
+  - week: 9
+    session: 3
+    topic: "Modèle linéaire général"
   - week: 10
     session: 1
-    topic: "Modèle linéaire général"
-  - week: 10
-    session: 2
-    topic: "Modèle linéaire général"
-  - week: 10
-    session: 3
-    topic: "[Lab: *Régression multiple*]{.underline}"
+    topic: "[Lab 7: *Régression multiple*]{.underline}"
     reading: "[chap 13](https://biostats-uottawa.github.io/enfR/)"
     assessment: "Rapport 6: ANOVA multiple"
+  - week: 10
+    session: 2
+    topic: "Modèle linéaire général"
+  - week: 10
+    session: 3
+    topic: "Proportion, compte et modèles log-linéaires"
   - week: 11
     session: 1
-    topic: "Proportion, compte et modèles log-linéaires"
-  - week: 11
-    session: 2
-    topic: "Proportion, compte et modèles log-linéaires"
-  - week: 11
-    session: 3
-    topic: "[Lab: *Modèle linéaire général*]{.underline}"
+    topic: "[Lab 8: *Modèle linéaire général*]{.underline}"
     reading: "[chap 14](https://biostats-uottawa.github.io/enfR/)"
     assessment: "Rapport 7: Régression multiple"
+  - week: 11
+    session: 2
+    topic: "Proportion, compte et modèles log-linéaires"
+  - week: 11
+    session: 3
+    topic: "Pas de classe — Pâques"
   - week: 12
     session: 1
-    topic: "Modèles linéaires généralisés (intro)"
+    topic: "Pas de labo — Pâques"
   - week: 12
     session: 2
-    topic: " "
+    topic: "Modèles linéaires généralisés (intro)"
   - week: 12
     session: 3
-    topic: "[Lab: *Analyse de données de fréquence*]{.underline}"
-    reading: "[chap 15](https://biostats-uottawa.github.io/enfR/)"
-    assessment: "Rapport 8: Modèle linéaire général"
+    topic: "Q&R"
   - week: 13
     session: 1
-    topic: "Q&R"
-#  - week: 12
-#    session: 2
-#    topic: "No lecture"
-#  - week: 12
-#    session: 3
-#    topic: "No lab"
+    topic: "[Lab 9: *Analyse de données de fréquence*]{.underline}"
+    reading: "[chap 15](https://biostats-uottawa.github.io/enfR/)"
+    assessment: "Rapport 8: Modèle linéaire général"
   - week: 31
     topic: "**Examen final**"
     assessment: "pendant la semaine d'examen"
 
 team:
-  - name: Julien Martin
+  - name: James Santangelo
     role: lecturer
-    consult: Lundi 1430-1530 (GNN 279)
+    consult: Lundi 1300-1400 (GNN 270)
     contact: "[email](people.qmd)"
   - name: Augustin Birot
-    role: TA
-    consult: Mercredi 1530-1630 (GNN Hall 4^ième^)
+    role: TA/AE
+    consult: Mardi 1000-1100 (GNN Hall 4^ième^)
     contact: "[email](mailto:abiro093@uottawa.ca)"
 
 timetable:
-  - class: Lecture
-    day: Lundi
-    when: 1000-1120
-    where: MRT-219
-  - class: Lecture
-    day: Mercredi
-    when: 0830-0950
-    where: CRX-440
   - class: Labos
-    day: Jeudi
-    when: 1130-1420
-    where: MNT-141
+    day: Lundi
+    when: 1430-1720
+    where: MNT 142
+  - class: Lecture
+    day: Mardi
+    when: 1430-1520
+    where: VNR 2075
+  - class: Lecture
+    day: Vendredi
+    when: 1600-1720
+    where: VNR 5070

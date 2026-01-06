@@ -12,3 +12,4 @@ Untitled*
 _freeze/
 
 **/*.quarto_ipynb
+.Rproj.user

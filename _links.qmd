@@ -1,6 +1,6 @@
-[lab_website]: https://juliengamartin.github.io/
-[moi_uo]: https://www.uottawa.ca/faculty-science/professors/julien-martin
-[moi_github]: https://github.com/juliengamartin
+[lab_website]: https://james-s-santangelo.github.io/
+<!-- [moi_uo]: https://www.uottawa.ca/faculty-science/professors/julien-martin -->
+[moi_github]: https://github.com/James-S-Santangelo
 
 [cran]: https://cloud.r-project.org/
 [rstudio_d]: https://rstudio.com/products/rstudio/download/#download
