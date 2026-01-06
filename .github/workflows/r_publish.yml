@@ -26,8 +26,19 @@ jobs:
         with:
           r-version: '4.5.1'
 
-      # Install gettext (libintl.h) required for R >= 4.5
-      
+      - name: Install Homebrew
+        run: |
+          /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+      - name: Install R package library dependencies
+        run: |
+          brew install libpng
+          brew install gettext
+          
+      - name: Make sure Homebrew libraries can be found by compilers for R
+        run: |
+          echo "CPPFLAGS = -I/opt/homebrew/include" >> ~/.R/Makevars
+          echo "LDFLAGS  = -L/opt/homebrew/lib" >> ~/.R/Makevars
 
       - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
