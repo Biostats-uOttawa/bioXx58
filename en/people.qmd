@@ -2,7 +2,7 @@
 title: "Julien Martin"
 about:
   template: trestles
-  image: "../img/moi.jpg"
+  image: "../img/julien.jpg"
   image-shape: round
   links:
     - icon: github
@@ -19,7 +19,7 @@ about:
       href: "mailto:julien.martin@uottawa.ca"
 ---
 
-Julien is an Associate Professor at the University of Ottawa and has
+Julien is a Professor at the University of Ottawa and has
 been teaching (and learning) R for the last 15 years.
 
 I created the websites using `Quarto`, `R`, `revealjs`, `mermaid.js` and

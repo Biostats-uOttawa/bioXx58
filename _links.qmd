@@ -1,6 +1,9 @@
-[lab_website]: https://james-s-santangelo.github.io/
-<!-- [moi_uo]: https://www.uottawa.ca/faculty-science/professors/julien-martin -->
-[moi_github]: https://github.com/James-S-Santangelo
+[james_lab_website_james]: https://james-s-santangelo.github.io/
+[james_github]: https://github.com/James-S-Santangelo
+<!-- [julien_uo]: https://www.uottawa.ca/faculty-science/professors/julien-martin -->
+[julien_lab_website_james]: https://juliengamartin.github.io/
+[julien_github]: https://github.com/juliengamartin
+
 
 [cran]: https://cloud.r-project.org/
 [rstudio_d]: https://rstudio.com/products/rstudio/download/#download

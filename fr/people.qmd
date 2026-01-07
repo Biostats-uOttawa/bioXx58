@@ -2,7 +2,7 @@
 title: "James Santangelo"
 about:
   template: trestles
-  image: "../img/moi.jpeg"
+  image: "../img/james.jpeg"
   image-shape: round
   links:
     - icon: github
@@ -24,6 +24,6 @@ James est Professeur adjoint à l'Université d'Ottawa en biologie
 8 ans.
 
 Les matériaux sure ce site on été créés par Julien Martin, professeur 
-agrégé en biology evolutive à l'Université d'Ottawa. Ils ont été créés
+titulaire en biologie evolutive à l'Université d'Ottawa. Ils ont été créés
 en utilisant `Quarto`, `R`, `revealjs`, `mermaid.js` et `graphViz`.
 
