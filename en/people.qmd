@@ -19,8 +19,12 @@ about:
       href: "mailto:julien.martin@uottawa.ca"
 ---
 
+```{r}
+
+```
+
 Julien is a Professor at the University of Ottawa and has
-been teaching (and learning) R for the last 15 years.
+been teaching (and learning) R for the last `r as.numeric(format(Sys.Date(), "%Y")) - 2006` years.
 
 I created the websites using `Quarto`, `R`, `revealjs`, `mermaid.js` and
 `graphViz`. I developed the theme for the slides based on the [xaringan
