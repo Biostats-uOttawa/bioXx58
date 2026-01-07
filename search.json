@@ -99,7 +99,7 @@
     "href": "fr/people.html",
     "title": "James Santangelo",
     "section": "",
-    "text": "James est Professeur adjoint à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 8 ans.\nLes matériaux sure ce site on été créés par Julien Martin, professeur agrégé en biology evolutive à l’Université d’Ottawa. Ils ont été créés en utilisant Quarto, R, revealjs, mermaid.js et graphViz.",
+    "text": "James est Professeur adjoint à l’Université d’Ottawa en biologie évolutive et quantitative et il enseigne R (et l’apprend) depuis plus de 8 ans.\nLes matériaux sure ce site on été créés par Julien Martin, professeur titulaire en biologie evolutive à l’Université d’Ottawa. Ils ont été créés en utilisant Quarto, R, revealjs, mermaid.js et graphViz.",
     "crumbs": [
       "Biostats uOttawa",
       "Contact"
@@ -420,7 +420,7 @@
     "href": "en/people.html",
     "title": "Julien Martin",
     "section": "",
-    "text": "Julien is an Associate Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
+    "text": "Julien is a Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
     "crumbs": [
       "Biostats uOttawa",
       "Contact"
