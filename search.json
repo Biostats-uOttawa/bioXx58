@@ -420,7 +420,7 @@
     "href": "en/people.html",
     "title": "Julien Martin",
     "section": "",
-    "text": "Julien is a Professor at the University of Ottawa and has been teaching (and learning) R for the last 15 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
+    "text": "Julien is a Professor at the University of Ottawa and has been teaching (and learning) R for the last 20 years.\nI created the websites using Quarto, R, revealjs, mermaid.js and graphViz. I developed the theme for the slides based on the xaringan blackboard theme.",
     "crumbs": [
       "Biostats uOttawa",
       "Contact"
