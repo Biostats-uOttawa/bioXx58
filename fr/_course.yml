@@ -160,7 +160,7 @@ timetable:
     where: MNT 142
   - class: Lecture
     day: Mardi
-    when: 1430-1520
+    when: 1430-1550
     where: VNR 2075
   - class: Lecture
     day: Vendredi
