@@ -62,11 +62,10 @@ schedule <- schedule_df %>%
   ungroup() %>%
   mutate(
     Reading = ifelse(is.na(reading), " ", reading),
-    Material = case_when(
-      session != 3 & lecture == TRUE ~ glue("<a class='fa fa-display' href='{lecture_file}' target='_blank'></a> <a class='fa fa-note-sticky' href='{notes_file}' target='_blank'></a>"),
-      session == 3 ~ Reading,
-      TRUE ~ " "
-    ),
+    # Material = case_when(
+    #   session != 3 & lecture == TRUE ~ glue("<a class='fa fa-display' href='{lecture_file}' target='_blank'></a> <a class='fa fa-note-sticky' href='{notes_file}' target='_blank'></a>"),
+    #   session == 3 ~ Reading,
+    #   TRUE ~ " "),
     Topic = ifelse(is.na(topic), " ", topic),
     Assessment = ifelse(is.na(assessment), " ", assessment),
     Date = as.Date(
@@ -83,7 +82,7 @@ schedule <- schedule_df %>%
     ),
     wk = ifelse((week %% 2) == 0, "a", ifelse(week < 20, "b", "c"))
   ) %>%
-  select(Date, Topic, Material, Assessment, week, wk) %>%
+  select(Date, Topic, Reading, Assessment, week, wk) %>%
   arrange(Date) %>%
   mutate(Date = case_match(week,
     21 ~ NA,
@@ -92,7 +91,7 @@ schedule <- schedule_df %>%
   )) %>%
   rename(
     Sujet = "Topic",
-    Doc = "Material",
+    Doc = "Reading",
     `Évaluation` = "Assessment"
   )
 
