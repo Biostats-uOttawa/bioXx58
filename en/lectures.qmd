@@ -144,4 +144,3 @@ Content of the slides in html format as a self-contained downloadable file and i
 
 More importantly, notes have the commenting and annotating tools activated via <https://hypothes.is/>. If you create a free account , you can annotate and comment slides as well as share your annotations/comments with the public or via private or public groups.
 
-test
