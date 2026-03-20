@@ -102,7 +102,7 @@ schedule:
     topic: "Régression multiple"
   - week: 9
     session: 3
-    topic: "Modèle linéaire général"
+    topic: "Régression multiple"
   - week: 10
     session: 1
     topic: "[Lab 7: *Régression multiple*]{.underline}"
@@ -113,7 +113,7 @@ schedule:
     topic: "Modèle linéaire général"
   - week: 10
     session: 3
-    topic: "Proportion, compte et modèles log-linéaires"
+    topic: "Re-échantillonage (permutations & bootstrap)"
   - week: 11
     session: 1
     topic: "[Lab 8: *Modèle linéaire général*]{.underline}"
@@ -121,7 +121,7 @@ schedule:
     assessment: "Rapport 7: Régression multiple"
   - week: 11
     session: 2
-    topic: "Proportion, compte et modèles log-linéaires"
+    topic: "Modèles linéaires généralisés (intro)"
   - week: 11
     session: 3
     topic: "Pas de classe — Pâques"
@@ -130,14 +130,13 @@ schedule:
     topic: "Pas de labo — Pâques"
   - week: 12
     session: 2
-    topic: "Modèles linéaires généralisés (intro)"
+    topic: "Modèles mixtes"
   - week: 12
     session: 3
     topic: "Q&R"
   - week: 13
     session: 1
-    topic: "[Lab 9: *Analyse de données de fréquence*]{.underline}"
-    reading: "[chap 15](https://biostats-uottawa.github.io/enfR/)"
+    topic: "Pas de labo"
     assessment: "Rapport 8: Modèle linéaire général"
   - week: 31
     topic: "**Examen final**"
